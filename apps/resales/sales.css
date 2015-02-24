@@ -1,0 +1,202 @@
+p.knewsP {
+	margin:0;
+}
+
+div#re_sales {
+	font-size: 65.7%;
+	line-height:1.2em;
+	font-family:Arial,sans-serif;
+	width:951px;
+	padding:20px 9px 40px 10px;
+}
+
+div#re_sales span.price {
+	font-size: 1.1em;
+}
+
+div#re_sales h2 {
+	font-size: 2.8em;
+	font-weight: normal;
+	line-height: 1em;
+	margin:0;
+	padding: 0 0 7px;
+	font-family: Georgia, sans-serif;
+}
+
+div#re_sales h4 {
+	margin:0;
+	padding:5px 0 3px;
+	font-size:1.2em;
+	font-weight:normal;
+	text-transform: uppercase;
+}
+
+div#re_sales h4.kicker {
+	font-size:1.1em;
+	padding:0 0 7px;
+}
+
+div#re_header {
+	padding:0 0 10px 8px;
+}
+
+
+div#re_sales .address {
+	font-style: italic;
+	font-size:1.2em;
+}
+
+div#re_sales p {
+	font-size: 1.2em;
+	line-height:1.4em;
+	margin:0;
+}
+
+div#re_sales p.summary {
+	font-size:1.4em;
+	padding:0 0 10px;
+}
+
+div#re_sales table {
+	width:100%;
+	border-collapse: collapse;
+	padding:0;
+	margin:0;
+}
+
+div#re_sales th,
+div#re_sales td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Arial,sans-serif;
+	padding:10px 0 10px 20px;
+	border-bottom:1px solid #ccc;
+}
+
+div#re_sales tr.topR th,
+div#re_sales tr.topR td {
+	padding-bottom:0;
+	border-bottom:0;
+}
+
+div#re_sales tr.bottomR th,
+div#re_sales tr.bottomR td {
+	padding-top:0;
+}
+
+div#re_sales tr.lastRow td,
+div#re_sales tr.lastRow th {
+	border:0;
+}
+
+
+
+div#re_sales th.price {
+	width:190px;
+	font-weight:bold;
+	font-family:Georgia,serif;
+	font-size: 1.3em;
+}
+
+div#re_sales th.region {
+	padding-left:8px;
+	font-size:1.3em;
+	line-height: 1.2em;
+	font-family:Georgia,serif;
+	font-weight:normal;
+	text-transform: uppercase;
+	padding-top: 9px;
+}
+
+
+div#re_sales .address {
+	padding: 0 0 5px;
+}
+
+div#re_sales .refer {
+	float:right;
+	font-size: 1.1em;
+	padding-top:5px;
+}
+
+div#re_sales a {
+	text-decoration: none;
+}
+
+div#re_sales a:hover {
+	text-decoration: underline;
+}
+
+div#re_sales .toggleDetails {
+	padding-top:4px;
+}
+
+/* TOGGLE */
+
+.toggleImage,
+.toggleText {
+	float:left;
+	width:14px;
+	height:12px;
+	display:block;
+	padding-top:5px;
+}
+
+.hideContent {
+	display:block;
+	visibility: hidden;
+}
+
+.contentImage {
+	margin-bottom:-129px;
+	height:126px;
+	line-height:0;
+	margin-top:0;
+	padding-top:3px;
+}
+
+.toggleText {
+	background:transparent url('http://graphics8.nytimes.com/packages/html/realestate/residential_sales/details_icon.gif') no-repeat 0 4px;
+}
+
+.toggleImage {
+	background:transparent url('http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif') no-repeat 0 4px;
+}
+
+
+/* META INFO */
+div#re_sales ul.meta {
+	width: 190px;
+	display:block;
+	padding: 0;
+	margin: 0;
+	clear:both;
+}
+
+div#re_sales ul.meta li {
+	float: left;
+	padding: 2px 14px 3px 0;
+	color: #808080;
+	font-size: 1.1em;
+}
+
+div#re_sales ul.meta li.numBed {
+	padding-left:21px;
+	background: transparent url('http://graphics8.nytimes.com/packages/html/realestate/residential_sales/bedroom_icon.gif') no-repeat 0 4px;
+}
+
+div#re_sales ul.meta li.numBath {
+	padding-left:19px;
+	background: transparent url('http://graphics8.nytimes.com/packages/html/realestate/residential_sales/bathroom_icon.gif') no-repeat 0 1px;
+}
+
+div#re_sales ul.meta li.numHBath {
+	padding-left:16px;
+	background: transparent url('http://graphics8.nytimes.com/packages/html/realestate/residential_sales/half_bathroom_icon.gif') no-repeat 0 0;
+}
+
+div#re_sales ul.meta li.numMarket {
+	padding-left:14px;
+	padding-right:0;
+	background: transparent url('http://graphics8.nytimes.com/packages/html/realestate/residential_sales/time_market_icon.gif') no-repeat 0 3px;
+}

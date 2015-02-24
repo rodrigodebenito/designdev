@@ -1,0 +1,86 @@
+{
+"categories":
+[
+{
+"uniqueID": "restaurants",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/thesiftyfifty",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-restaurants.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-restaurants.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-sifty.png",
+"rank": 0,
+"slot": "restaurants",
+"needsStreetDisplay": 0
+},
+{
+"uniqueID": "bars",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/thetopshelf",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-bars.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-bars.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-bars.png",
+"rank": 1,
+"slot": "bars",
+"needsStreetDisplay": 1
+},
+{
+"uniqueID": "coffeeshops",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/coffeeshops",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-coffee.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-coffee.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-coffee.png",
+"rank": 2,
+"slot": "coffee",
+"needsStreetDisplay": 1
+},
+{
+"uniqueID": "thisweek",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/thisweek",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-events.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-events.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-events.png",
+"rank": 3,
+"slot": "events",
+"needsStreetDisplay": 0
+},
+{
+"uniqueID": "timeless",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/timeless",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-onlyinny.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-onlyinny.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-only-in-ny.png",
+"rank": 4,
+"slot": "onlyinnewyork",
+"needsStreetDisplay": 0
+},
+{
+"uniqueID": "daytrips",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/daytrips",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-daytrips.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-daytrips.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-daytrips.png",
+"rank": 9,
+"slot": "daytrips",
+"needsStreetDisplay": 0
+},
+{
+"uniqueID": "househome",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/househome",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-houseandhome.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-houseandhome.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-houseandhome.png",
+"rank": 6,
+"slot": "homefurnishings",
+"needsStreetDisplay": 1
+},
+{
+"uniqueID": "shopping",
+"feedURL": "http://mobile.nytimes.com/iphone/scoop/list/shopping",
+"largeImageURL": "http://mobile.nytimes.com/i/scoop/category/launchpad-shopping.png",
+"smallImageURL": "http://mobile.nytimes.com/i/scoop/category/cat-header-shopping.png",
+"facebookImageURL": "http://mobile.nytimes.com/i/scoop/cat-shopping.png",
+"rank": 7,
+"slot": "shopping",
+"needsStreetDisplay": 0
+}
+],
+"nearbyRank": 8
+}

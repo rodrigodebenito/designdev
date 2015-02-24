@@ -1,0 +1,73 @@
+package nyt.util
+{
+	import flash.text.AntiAliasType;
+	import flash.text.Font;
+	import flash.text.TextField;
+	import flash.text.TextFieldType;
+	import flash.text.TextFormat;
+ 
+	public class TextManager {
+ 
+		public static var ARIAL_BOLD : String = "ArialBold";
+		public static var ARIAL : String = "Arial";
+		public static var GEORGIA : String = "Georgia";
+		public static var STANDARD : String = "standard";
+ 
+		public static var PINK : Number = 0xFF3366;
+		public static var DARK_GRAY : Number = 0x666666;
+		public static var LIGHT_GRAY : Number = 0x7F7F7F;
+ 
+		public static function setProperties(field : TextField, input : Boolean, multiline : Boolean, align : String, size : Number, fontName : String, color : Number) : void {
+			field.embedFonts = true;
+			field.antiAliasType = AntiAliasType.ADVANCED;
+ 
+			if(multiline) {
+				field.multiline = true;
+				field.wordWrap = true;
+			}else {
+				field.multiline = false;
+				field.wordWrap = false;
+				field.height = 20;
+			}
+ 
+			if(input) {
+				field.type = TextFieldType.INPUT;
+				field.border = true;
+			}else {
+				field.type = TextFieldType.DYNAMIC;
+				field.selectable = false;
+			}
+ 
+			var textFormat : TextFormat = new TextFormat();
+			var font : Font;
+			switch(fontName) {
+				case ARIAL_BOLD:
+					font = new ArialBold();
+					break;
+				case ARIAL:
+					font = new Arial();
+					break;
+//				case GEORGIA:
+//					font = new Georiga();
+//					break;
+//				case STANDARD:
+//					font = new Standard();
+//					break;
+			}
+ 
+			textFormat.font = font.fontName;
+			textFormat.size = size;
+			textFormat.color = color;
+			textFormat.align = align;
+			field.defaultTextFormat = textFormat;
+			field.setTextFormat(textFormat);
+		}
+ 
+		public static function changeColor(field : TextField, color : Number) : void {
+			var textFormat : TextFormat = field.defaultTextFormat;
+			textFormat.color = color;
+			field.defaultTextFormat = textFormat;
+			field.setTextFormat(textFormat);
+		}
+	}
+}

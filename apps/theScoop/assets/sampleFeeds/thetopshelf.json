@@ -1,0 +1,1759 @@
+{"list":{
+"title": "The Top Shelf",
+"category": "Bars",
+"description": "Pete Wells, the Dining editor, and Steven Stern, a Dining contributor, share their current favorite bars in New York.",
+"updated": "2011-03-23T16:19:17-0400",
+"items": [
+{
+"id": "3-51",
+"archived": false,
+"title": "Accademia di Vino",
+"created": "2010-05-25T05:33:01-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "The full list of something like 500 bottles has been culled, thank goodness, to around 30 wines by the glass. Nearly all are Italian, and many are obscure, but the menu and the bartenders bring enlightenment.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Accademia di Vino",
+"foursquare-venue-id": 245864,
+"website": null,
+"phonenumber": "(212) 787-3070",
+"crossstreet": "(between 89th and 90th Streets)",
+"neighborhood": "Upper West Side",
+"street": "2427 Broadway",
+"city": "New York",
+"zip": "10065",
+"state": "NY",
+"latitude": "40.790556",
+"longitude": "-73.974939"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-97",
+"archived": false,
+"title": "Ace Hotel Lobby Bar",
+"created": "2010-12-16T12:47:20-0500",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "The new office-slash-clubhouse for the fashion-y digital set. There is actually a bar here, way at the back of this sprawling, dark space, but most of the drinking is done among the attractively beat-up couches and library tables where the bloggers ply their trade. Order up a cocktail or a can of Porkslap Ale, and make sure you Tweet about it. #killerfrenchfriestoo",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Ace Hotel Lobby Bar",
+"foursquare-venue-id": 205278,
+"website": "acehotel.com\/newyork",
+"phonenumber": "(212) 679-2222",
+"crossstreet": "(between Fifth Avenue and Broadway)",
+"neighborhood": "Midtown South",
+"street": "20 West 29th Street",
+"city": "New York",
+"zip": "10001",
+"state": "NY",
+"latitude": "40.745642",
+"longitude": "-73.98791"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-77",
+"archived": false,
+"title": "An Beal Bocht Cafe",
+"created": "2010-10-18T11:07:06-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "Up on a hill in the Bronx, near Manhattan College, a real live pub filled with real live Irish people \u2013 and other folks who are almost as friendly. There's no television, but there is a resident theater company, a weekly poetry night, fiddlers on Sunday, home-baked brown bread, arguments about politics and \u2013 of course \u2013 a perfect pint of Guinness.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "An Beal Bocht Cafe",
+"foursquare-venue-id": 73,
+"website": "anbealbochtcafe.com",
+"phonenumber": "(718 ) 884-7127",
+"crossstreet": "(between Greystone and Waldo Avenues)",
+"neighborhood": "Riverdale, Bronx",
+"street": "445 West \u00A0238th Street",
+"city": "Bronx",
+"zip": "10463",
+"state": "NY",
+"latitude": "40.88725",
+"longitude": "-73.90471"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-78",
+"archived": false,
+"title": "Bar Pleiades",
+"created": "2010-10-18T11:07:51-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "Part of the Daniel Boulud concession at the recently boutiqued Surrey Hotel, Pleiades has everything you'd expect from a fancy hotel bar: plush, Deco-ish surroundings, quietly elegant patrons and terrifying prices. What's surprising is the frisky creativity of the cocktails, which use novel infusions to classic ends.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bar Pleiades",
+"foursquare-venue-id": 457001,
+"website": "thesurrey.com",
+"phonenumber": "(212) 772-2600",
+"crossstreet": "(at Madison Avenue)",
+"neighborhood": "Upper East Side",
+"street": "20 East 76th Street",
+"city": "New York",
+"zip": "10021",
+"state": "NY",
+"latitude": "40.77433",
+"longitude": "-73.96402"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-52",
+"archived": false,
+"title": "Bemelmans Bar",
+"created": "2010-05-25T05:33:30-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "It\u2019s nothing short of miraculous that Ludwig Bemelmans whimsical and mildly demented murals from the 1940s survived until the cocktail renaissance came along and the Carlyle decided to make the drinks as sophisticated as the rest of the room.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bemelmans Bar",
+"foursquare-venue-id": 2193,
+"website": "thecarlyle.com",
+"phonenumber": "(212) 744-1600",
+"crossstreet": "(at Madison Avenue)",
+"neighborhood": "Upper East Side",
+"street": "35 East 76th Street",
+"city": "New York",
+"zip": "10021",
+"state": "NY",
+"latitude": "40.77442",
+"longitude": "-73.96348"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-53",
+"archived": false,
+"title": "Bill\u2019s Gay Nineties",
+"created": "2010-05-25T05:27:48-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "Done up with boxing photos, a brass cash register and an upright piano, Bill\u2019s may have been the template for a thousand old-timey speak-easy style saloons. They are faking it. Bill\u2019s is not.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bill\u2019s Gay Nineties",
+"foursquare-venue-id": 89422,
+"website": "billsnyc.com",
+"phonenumber": "(212) 355-0243",
+"crossstreet": "(between Madison and Park Avenues)",
+"neighborhood": "Midtown East",
+"street": "57 East 54th Street",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.76029",
+"longitude": "-73.9729"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-54",
+"archived": false,
+"title": "Black Swan",
+"created": "2010-05-25T05:33:43-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "Black Swan ends the long drought of worthwhile bars in this corner of Bed-Stuy. It\u2019s a beer-and-shot kind of place, but the beers are craft brews from around the world (including one cask ale tap), and the shots are fancy whiskies and rums at unfancy prices.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Black Swan",
+"foursquare-venue-id": 2147190,
+"website": "blackswannyc.com",
+"phonenumber": "(718) 783-4744",
+"crossstreet": "(between Lafayette Avenue and Clinton Place)",
+"neighborhood": "Bedford Stuyvesant, Brooklyn",
+"street": "1048 Bedford Avenue",
+"city": "Brooklyn",
+"zip": "11205",
+"state": "NY",
+"latitude": "40.68917",
+"longitude": "-73.95536"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-79",
+"archived": false,
+"title": "Blind Tiger Ale House",
+"created": "2010-10-18T11:07:59-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "A beer-geek shrine, but fun for civilians as well. Great hearty bar food helps. The boisterous crowds might be overwhelming to some, but they also make the whole enterprise less earnest and precious than it could be.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Blind Tiger Ale House",
+"foursquare-venue-id": 2208,
+"website": "blindtigeralehouse.com",
+"phonenumber": "(212) 462-4682",
+"crossstreet": "(at Jones Street)",
+"neighborhood": "West Village",
+"street": "281 Bleecker Street",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.73193",
+"longitude": "-74.0032"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-99",
+"archived": false,
+"title": "Bongo",
+"created": "2010-12-16T13:01:51-0500",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "Recently relocated from Chelsea to the way-west village, this sanctuary of midcentury modern design now comes with a Hudson view. Knocking back cocktails amidst the note-perfect bachelor pad furnishings can make you feel pretty swank. Oyster platters and lobster rolls help. ",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bongo",
+"foursquare-venue-id": 95373,
+"website": "bongonyc.com",
+"phonenumber": "(212) 675-6555",
+"crossstreet": "(at West 10th Street)",
+"neighborhood": "West Village",
+"street": "395 West Street",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.733012",
+"longitude": "-74.010076"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-55",
+"archived": false,
+"title": "Brandy\u2019s Piano Bar",
+"created": "2010-05-25T05:33:49-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "Hard to find unless you know about it already. An extremely useful address when the urge hits to put on a well-tailored blazer and sing show tunes.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Brandy\u2019s Piano Bar",
+"foursquare-venue-id": 2211,
+"website": "brandysnyc.com",
+"phonenumber": "(212) 744-4949",
+"crossstreet": "(between Second and Third Avenues)",
+"neighborhood": "Upper East Side",
+"street": "235 East 84th Street",
+"city": "New York",
+"zip": "10028",
+"state": "NY",
+"latitude": "40.77716",
+"longitude": "-73.95342"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-56",
+"archived": false,
+"title": "Bushwick Country Club",
+"created": "2010-05-25T05:33:55-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "The best antidote to all the high-minded cocktails around town may be a slushy, frozen bourbon and Coke here. If that doesn\u2019t work, proceed directly to the Pickleback, a shot of Irish whiskey chased with pickle juice. Either one will put you in the right frame of mind for a few rounds of Big Buck Hunter Safari.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bushwick Country Club",
+"foursquare-venue-id": 20658,
+"website": "bushwickcountryclub.com",
+"phonenumber": "(718) 388-2114",
+"crossstreet": "(between Leonard and Lorimer Streets)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "618 Grand Street",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.71124.",
+"longitude": "-73.94739"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-100",
+"archived": false,
+"title": "The Counting Room",
+"created": "2010-12-16T13:05:46-0500",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "The industrial d\u00E9cor is a bit generic at this new two-level spot, but there\u2019s some top-notch drinking to be done. The short, smart wine list is filled with winning choices and the cocktails \u2013 many of them created by crazy-genius bartender Maks Pazuniak \u2013 are really special: lots of fascinating stuff with bitter and salty flavors. ",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Counting Room",
+"foursquare-venue-id": 1195187,
+"website": "thecountingroombk.com",
+"phonenumber": "(718) 599-1860",
+"crossstreet": "(at North 11th Street)",
+"neighborhood": null,
+"street": "44 Berry Street",
+"city": "Booklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.721035",
+"longitude": "-73.956453"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-80",
+"archived": false,
+"title": "David Copperfield's",
+"created": "2010-10-18T11:08:05-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "A solid, unpretentious beer bar with an impressive selection of taps and bargain happy hour specials. You won't forget you're on the Upper East Side \u2013 there's an \u201980s night and there's a Ladies Night \u2013 but a well-drawn pint of cask ale at the end of the day offers pleasures mostly unavailable in this zip code.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "David Copperfield's",
+"foursquare-venue-id": 9237,
+"website": "davidcopperfields.com",
+"phonenumber": "(212) 734-6152",
+"crossstreet": "(at East 74th Street)",
+"neighborhood": "Upper East Side",
+"street": "1394 York Avenue",
+"city": "New York",
+"zip": "10021",
+"state": "NY",
+"latitude": "40.76826",
+"longitude": "-73.95273"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-93",
+"archived": false,
+"title": "The Diamond",
+"created": "2010-10-18T10:57:01-0400",
+"updated": "2011-03-21T16:46:31-0400",
+"description": "A lovely, quirky little place with a lovely, quirky little selection of craft beers. Order up a few glasses of something light and refreshing, then head to the shuffleboard table or eat a meat pie in the ski lift gondola moored in the garden.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Diamond",
+"foursquare-venue-id": 53091,
+"website": "thediamondbrooklyn.com",
+"phonenumber": "(718) 383-5030",
+"crossstreet": "(near Calyer Street)",
+"neighborhood": "Greenpoint, Brooklyn",
+"street": "43 Franklin Street",
+"city": "Brooklyn",
+"zip": "11222",
+"state": "NY",
+"latitude": "40.7268",
+"longitude": "-73.95749"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-106",
+"archived": false,
+"title": "Donovan\u2019s Pub",
+"created": "2011-03-21T16:43:29-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "This warm faux-Tudor spot has been keeping Woodside\u2019s Irish-American community in Guinness and hefty cheeseburgers since 1966. Retired cops at the bar reminisce about long nights they spent there, decades ago; families who moved away come back to show off their grandchildren. The burgers get big praise from the food press (yeah, they\u2019re pretty good), but they\u2019re not the only reason to come here.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Donovan\u2019s Pub",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(718) 429-9339",
+"crossstreet": "(at 58th Street)",
+"neighborhood": "Woodside, Queens",
+"street": "57-24 Roosevelt Avenue",
+"city": "Queens",
+"zip": "11377",
+"state": "NY",
+"latitude": "40.74522366604021",
+"longitude": "-73.90681246788938"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-81",
+"archived": false,
+"title": "Dram",
+"created": "2010-10-18T11:08:11-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "The gorgeous, blonde wood d\u00E9cor suggests Polynesia filtered through Danish Modern, and the drinks follow suit: tiki without camp. There's a rotating cast of all-star mixologists, for those who follow that kind of thing. For everybody else, Dram is just a sweet, slick place to get a drink made with care.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Dram",
+"foursquare-venue-id": 975980,
+"website": "drambar.com",
+"phonenumber": "(718) 486-3726",
+"crossstreet": "(between Driggs Avenue and Roebling Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "177 South Fourth Street",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.71137",
+"longitude": "-73.96075"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-102",
+"archived": false,
+"title": "The Drink",
+"created": "2011-02-07T17:12:52-0500",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A cheerfully rough-hewn, handmade sort of place, the Drink feels less like a bar than a neighborhood clubhouse for fans of interesting beverages. There are always a couple of deliciously complex punches on hand, ready to be ladled out in single servings, and several more that can be whipped up for group celebrations. Arcane Belgian beers and interesting whiskeys are also on the menu, and yeah, they\u2019ll make you a cocktail if you ask.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Drink",
+"foursquare-venue-id": 9152847,
+"website": "thedrinkbrooklyn.com",
+"phonenumber": "(718) 782-8463",
+"crossstreet": "(between Grand and Maujer Streets)",
+"neighborhood": "Williamsburg",
+"street": "228 Manhattan Avenue",
+"city": "Brooklyn",
+"zip": "11206",
+"state": "NY",
+"latitude": "40.7110661",
+"longitude": "-73.9454057"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-58",
+"archived": false,
+"title": "Fort Defiance",
+"created": "2010-05-25T05:34:07-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "The great virtue of Fort Defiance is that the bartenders never let the effort show. The drinks don\u2019t taste challenging, they just taste good. The superlative Irish coffee, made with Counter Culture beans and Powers whiskey, is worth an excursion to Red Hook all by itself.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Fort Defiance",
+"foursquare-venue-id": 65087,
+"website": "fortdefiancebrooklyn.com",
+"phonenumber": "(347) 453-6672",
+"crossstreet": "(at Dikeman Street)",
+"neighborhood": "Red Hook, Brooklyn",
+"street": "365 Van Brunt Street",
+"city": "Brooklyn",
+"zip": "11231",
+"state": "NY",
+"latitude": "40.67668",
+"longitude": "-74.01348"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-59",
+"archived": false,
+"title": "Frank\u2019s Cocktail Lounge",
+"created": "2010-05-25T05:27:52-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Despite the name, nobody settles into the red vinyl banquettes here for cocktails. It\u2019s a Jack-and-Coke and Bud Light kind of place, with one of the most diverse crowds in brownstone Brooklyn, decent jazz and a formidable dance floor.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Frank\u2019s Cocktail Lounge",
+"foursquare-venue-id": 4099,
+"website": "frankscocktaillounge.com",
+"phonenumber": "(718) 625-9339",
+"crossstreet": "(between Lafayette Avenue and South Elliott Place)",
+"neighborhood": "Fort Greene, Brooklyn",
+"street": "660 Fulton Street",
+"city": "Brooklyn",
+"zip": "11217",
+"state": "NY",
+"latitude": "40.68676",
+"longitude": "-73.97578"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-104",
+"archived": false,
+"title": "Freddy\u2019s Bar",
+"created": "2011-03-21T16:36:59-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "After the much-loved Dean Street dive was eminent domain-ed out of existence by the Atlantic Yards project, a bunch of former employees packed up all the furniture and funky knickknacks, brushed off the dust and moved the whole lot to the South Slope. The reborn Freddy\u2019s is, wonderfully, as odd and as charming as the original.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Freddy\u2019s Bar",
+"foursquare-venue-id": null,
+"website": "freddysbar.com",
+"phonenumber": "(718) 768-0131",
+"crossstreet": "(between 17th and 18th Streets)",
+"neighborhood": "Park Slope, Brooklyn",
+"street": "627 Fifth Avenue",
+"city": "Brooklyn",
+"zip": "11215",
+"state": "NY",
+"latitude": "40.6633017",
+"longitude": "-73.9912225"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-60",
+"archived": false,
+"title": "Henry Public",
+"created": "2010-05-25T05:34:19-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "While other bars have been leaning heavily on turn-of-the-century trappings lately, Henry Public goes even deeper in the past, toward the pre-Civil War period. That\u2019s when much of this neighborhood was built, but it also happens to be a congenial aesthetic for drinking old-school cocktails.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Henry Public",
+"foursquare-venue-id": 127901,
+"website": "henrypublic.com",
+"phonenumber": "(718) 852-8630",
+"crossstreet": "(between Atlantic Avenue and Pacific Street)",
+"neighborhood": "Cobble Hill, Brooklyn",
+"street": "329 Henry Street",
+"city": "Brooklyn",
+"zip": "11201",
+"state": "NY",
+"latitude": "40.69032",
+"longitude": "-73.99616"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-61",
+"archived": false,
+"title": "Holland Bar",
+"created": "2010-05-25T05:34:25-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Probably the last of the old-school Port Authority gin mills. If you commute to New Jersey, an after-work drink here is guaranteed to make you miss the last bus to Montclair.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Holland Bar",
+"foursquare-venue-id": 1295,
+"website": null,
+"phonenumber": "(212) 502-4609",
+"crossstreet": "(between West 39th and 40th Streets)",
+"neighborhood": "Midtown West",
+"street": "532 Ninth Avenue",
+"city": "New York",
+"zip": "10018",
+"state": "NY",
+"latitude": "40.7567",
+"longitude": "-73.99352"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-62",
+"archived": false,
+"title": "Hotel Delmano",
+"created": "2010-05-25T05:34:30-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "No recent cocktail bar in town has higher production values: Assembled out of salvaged and distressed fixtures, it convincingly looks as if it\u2019s been on this corner for a century, doling out classically inclined drinks.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Hotel Delmano",
+"foursquare-venue-id": 39272,
+"website": null,
+"phonenumber": "(718) 387-1945",
+"crossstreet": "(at North Ninth Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "82 Berry Street",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.71981",
+"longitude": "-73.95805"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-82",
+"archived": false,
+"title": "Huckleberry Bar",
+"created": "2010-10-18T11:08:17-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Off in the less-happening end of Williamsburg, a spacious, low-key place that does serious cocktails without all the seriousness. An interesting lineup of beers and wines, too, including an easy-drinking riesling served from the tap. They assemble some pretty fine snacks behind the bar as well.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Huckleberry Bar",
+"foursquare-venue-id": 37914,
+"website": "huckleberrybar.com",
+"phonenumber": "(718) 218-8555",
+"crossstreet": "(near Lorimer Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "588 Grand Street",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.71103",
+"longitude": "-73.94831"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-63",
+"archived": false,
+"title": "The International",
+"created": "2010-05-25T05:27:10-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "The International gets more mileage out of a few strings of Christmas lights than you might imagine. No cocktails to speak of, and no draft beer. Just a good and friendly place to disappear for an hour or two.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The International",
+"foursquare-venue-id": 2286,
+"website": null,
+"phonenumber": "(212) 777-1643",
+"crossstreet": "(between St. Marks Place and East Seventh Street)",
+"neighborhood": "East Village",
+"street": "120 1\/2 First Avenue",
+"city": "New York",
+"zip": "10009",
+"state": "NY",
+"latitude": "40.72714",
+"longitude": "-73.98539"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-94",
+"archived": false,
+"title": "The Irish Rover",
+"created": "2010-10-18T11:09:29-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "An archetypal outer-borough pub with a loyal following. Attractions include darts, quiz night, a great jukebox, Premier League soccer on the TV, affable drunkards young and old. There's probably some place like this in your neighborhood, but it probably isn't as much fun.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Irish Rover",
+"foursquare-venue-id": 17541,
+"website": null,
+"phonenumber": "(718) 278-9372",
+"crossstreet": "(at 38th Street)",
+"neighborhood": "Astoria, Queens",
+"street": "37-18 28th Avenue",
+"city": "Queens",
+"zip": "11103",
+"state": "NY",
+"latitude": "40.7658",
+"longitude": "-73.91471"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-83",
+"archived": false,
+"title": "Jimmy's Corner",
+"created": "2010-10-18T10:56:55-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Once, maybe, there were lots of bars like this: dark, inviting Midtown joints, owned by people who had stories to tell. Now, the former boxing trainer Jimmy Glenn's place seems sui generis. Yes, that's Muhammad Ali posing with Jimmy in the photo on the back wall: ask him about it.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Jimmy's Corner",
+"foursquare-venue-id": 1548,
+"website": null,
+"phonenumber": "(212) 221-9510",
+"crossstreet": "(between Sixth and Seventh Avenues)",
+"neighborhood": "Times Square Theatre District",
+"street": "140 West 44th Street",
+"city": "New York",
+"zip": "10036",
+"state": "NY",
+"latitude": "40.75667",
+"longitude": "-73.98483"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-84",
+"archived": false,
+"title": "Jimmy's No. 43",
+"created": "2010-10-18T10:56:56-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A cozy subterranean warren of rooms offering a carefully edited menu of good stuff to drink and eat. It's a beer bar first and foremost, with a fantastic, ever-changing assortment of tap offerings \u2013 mostly Belgians and artisanal American brews you won't find anywhere else.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Jimmy's No. 43",
+"foursquare-venue-id": 32096,
+"website": "jimmysno43.com",
+"phonenumber": "(212) 982-3006",
+"crossstreet": "(near Second Avenue)",
+"neighborhood": "East Village",
+"street": "43 East Seventh Street",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.72828",
+"longitude": "-73.98846"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-64",
+"archived": false,
+"title": "Lenox Lounge",
+"created": "2010-05-25T05:34:43-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "The drinks are nothing special, and can add up to real money, particularly when there\u2019s a cover charge. But between the movie-set-perfect Deco interior and the big windows on Lenox Avenue, there is no space like it in New York, or anywhere else.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Lenox Lounge",
+"foursquare-venue-id": 22270,
+"website": "lenoxlounge.com",
+"phonenumber": "(212) 427-0253",
+"crossstreet": "(between West 124th and 125th Streets)",
+"neighborhood": "Harlem",
+"street": "288 Malcolm X Boulevard",
+"city": "New York",
+"zip": "10027",
+"state": "NY",
+"latitude": "40.80739",
+"longitude": "-73.94556"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-65",
+"archived": false,
+"title": "Little Branch",
+"created": "2010-05-25T05:34:48-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A subterranean cocktail mecca. There\u2019s almost always a wait for a table, but it can be much more rewarding to find an open bartender and begin a dialogue that starts with things you\u2019ve drunk before and ends with something new.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Little Branch",
+"foursquare-venue-id": 22844,
+"website": "littlebranch.net",
+"phonenumber": "(212) 929-4360",
+"crossstreet": "(at Leroy Street)",
+"neighborhood": "West Village",
+"street": "20-22 Seventh Avenue South",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.73028",
+"longitude": "-74.00502"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-66",
+"archived": false,
+"title": "Mayahuel",
+"created": "2010-05-25T05:34:54-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A temple to agave, with not a margarita in sight. The mezcal- and tequila-based cocktails have tricky flavors that demand serious attention, despite agonizingly pun-laden names. (\"Git Ur Lapsog Souchong\"?)",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Mayahuel",
+"foursquare-venue-id": 46378,
+"website": "mayahuelny.com",
+"phonenumber": "(212) 253-5888",
+"crossstreet": "(between First and Second Avenues)",
+"neighborhood": "East Village",
+"street": "304 East Sixth Street",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.72724",
+"longitude": "-73.9882"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-67",
+"archived": false,
+"title": "Molly\u2019s Pub and Shebeen",
+"created": "2010-05-25T05:35:00-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Step down into this low-ceilinged bar with sawdust on the floor and Guinness on tap, and within five minutes Third Avenue seems a hundred miles away.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Molly\u2019s Pub and Shebeen",
+"foursquare-venue-id": 17669,
+"website": "mollysshebeen.com",
+"phonenumber": "(212) 889-3361",
+"crossstreet": "(between East 22nd and 23rd Streets)",
+"neighborhood": "Gramercy Park",
+"street": "287 Third Avenue",
+"city": "New York",
+"zip": "10010",
+"state": "NY",
+"latitude": "40.73828",
+"longitude": "-73.98316"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-85",
+"archived": false,
+"title": "Nectar Wine Bar",
+"created": "2010-10-18T11:08:35-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "If you've got issues around gentrification, you might, at first, tut-tut a snazzy wine bar in Harlem, but Nectar is anything but an interloper. The owners run Harlem Vintage, the great wine shop next door: they know wine and they know the neighborhood.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Nectar Wine Bar",
+"foursquare-venue-id": 5777453,
+"website": "nectarwinenyc.com",
+"phonenumber": "(212) 961-9622",
+"crossstreet": "(between West 120th and West 121st Streets)",
+"neighborhood": "Morningside Heights",
+"street": "2235 Frederick Douglass Boulevard",
+"city": "New York",
+"zip": "10027",
+"state": "NY",
+"latitude": "40.80746",
+"longitude": "-73.9537"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-76",
+"archived": false,
+"title": "Painkiller",
+"created": "2010-06-24T11:11:51-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Unlike other latter-day takes on Polynesian cocktail bars in the city, Painkiller is a lounge where kitsch is an element of decor, not a principle of mixology. Bad taste is welcome here, but it stops when you take your first sip. ",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Painkiller",
+"foursquare-venue-id": 3351208,
+"website": "painkillernyc.com",
+"phonenumber": "(212) 777-8454",
+"crossstreet": "(at Grand Street)",
+"neighborhood": "Lower East Side",
+"street": "49 Essex Street",
+"city": "New York",
+"zip": "10002",
+"state": "NY",
+"latitude": "40.716533",
+"longitude": "-73.989443"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/9861On",
+"title": "Dining Briefs",
+"byline": "By PETE WELLS",
+"pubdate": "2010-06-22T19:47:55-0400",
+"stars":
+0	,
+"text": [
+"49 Essex Street (Grand Street), (212) 777-8454, painkillernyc.com."
+,"There is one Polynesia in the Pacific Ocean and another in the United States, an archipelago of thatched-roof restaurants and backyard torches and bars lighted by strings of blowfish. Like chains of islands built by undersea volcanoes, the Paper Umbrella Archipelago waxes and wanes. A furious eruption of outcroppings in the 1950s and \u201960s was followed by decades of slow submersion, as American Polynesia was swallowed up by rising tides of sophistication."
+,"Now the tectonic plates are shifting again. Painkiller New York City opened this spring, an oasis of fruity and flowery tropical cocktails on a stretch of Essex Street better known for accordions and menorahs. Bamboo, leis and tribal masks are scattered around the place, instantly annexing the old East Side Company Bar to the Paper Umbrella Archipelago. There are even paper umbrellas. Unlike other latter-day takes on Polynesia in the city, Painkiller is a lounge where kitsch is an element of d\u00E9cor, not a principle of mixology. Bad taste is welcome, but it stops when you take your first sip."
+,"As the bartender feeds scoops of ice and jiggers of rum - one, two, three, four? - into a machine designed to whip up smoothies, doubts may swirl. Ignore them. Frozen daiquiris, like the grapefruit-and-lime Papa Doble, display more clarity and purity than a cocktail the size of a Jacuzzi has any right to. (Cocktails are $12 to $16.) The same is true of the 151 Swizzle, a mix of absinthe and overproof Demerara rum drunk from a straw at eye level. You admire the drink\u2019s backbone as your own begins to slump."
+,"The men behind Painkiller, Giuseppe Gonzalez and Richard Boccato, practiced at several bars that preached the fashionable cocktail orthodoxy of bitters and elegantly small glasses. It was a noble effort, but paganism is more fun."
+]
+}
+}
+,	{
+"id": "3-68",
+"archived": false,
+"title": "Palace Caf\u00E9",
+"created": "2010-05-25T05:35:06-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A horseshoe shaped bar and a jukebox stuffed to the gills with head-banging heavy metal. The combination either appeals to you or it doesn\u2019t.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Palace Caf\u00E9",
+"foursquare-venue-id": 18035,
+"website": null,
+"phonenumber": "(718) 383-9848",
+"crossstreet": "(at Russell Street)",
+"neighborhood": "Greenpoint, Brooklyn",
+"street": "206 Nassau Avenue",
+"city": "Brooklyn",
+"zip": "11222",
+"state": "NY",
+"latitude": "40.72542",
+"longitude": "-73.94458"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-98",
+"archived": false,
+"title": "Peter McManus Cafe",
+"created": "2010-12-16T12:48:16-0500",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A neighborhood bar without a speck of pretension, run by the McManus family since the 1930s. It\u2019s a charming old place, filled with mementos and dark wood, but it hasn\u2019t been preserved, really\u2014just left alone. Evenings bustle, but placid afternoons are when the magic really happens. ",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Peter McManus Cafe",
+"foursquare-venue-id": 772,
+"website": null,
+"phonenumber": "(212) 929-9691",
+"crossstreet": "(at West 19th Street)",
+"neighborhood": "Chelsea",
+"street": "152 Seventh Avenue",
+"city": "New York",
+"zip": "10011",
+"state": "NY",
+"latitude": "40.741846",
+"longitude": "-73.997555"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-69",
+"archived": false,
+"title": "PDT",
+"created": "2010-05-25T05:35:12-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "If you can put up with the secret-handshake folderol (book ahead after 3 p.m., enter hot-dog joint, turn left, lift phone), PDT rewards you with a civilized atmosphere, crazy-genius bartenders, next-level cocktails and Tater Tots.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "PDT",
+"foursquare-venue-id": 36524,
+"website": "pdtnyc.com",
+"phonenumber": "(212) 614-0386",
+"crossstreet": "(between First Avenue and Avenue A)",
+"neighborhood": "East Village",
+"street": "113 Saint Marks Place",
+"city": "New York",
+"zip": "10009",
+"state": "NY",
+"latitude": "40.72716",
+"longitude": "-73.98369"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-70",
+"archived": false,
+"title": "Pegu Club",
+"created": "2010-05-25T05:35:18-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A cocktail-snob hangout where, amazingly enough, the bartenders avoid snobbism. Their fizzy, spicy Gin-Gin Mule is much imitated. And no wonder: it\u2019s an ideal refresher.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Pegu Club",
+"foursquare-venue-id": 20531,
+"website": "peguclub.com",
+"phonenumber": "(212) 473-7348",
+"crossstreet": "(between West Broadway and Wooster Street)",
+"neighborhood": "Greenwich Village",
+"street": "77 West Houston Street",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.72685",
+"longitude": "-73.99968"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-71",
+"archived": false,
+"title": "Roebling Tea Room",
+"created": "2010-05-25T05:35:24-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Yes, this cafe is very serious about tea, but the cocktails are worth investigating as well. The rectangular bar is an island in the middle of this cafe\/restaurant and feels like an oasis.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Roebling Tea Room",
+"foursquare-venue-id": 29003,
+"website": "roeblingtearoom.com",
+"phonenumber": "(718) 963-0760",
+"crossstreet": "(at Metropolitan Avenue)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "143 Roebling Street",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.71412",
+"longitude": "-73.95728"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-101",
+"archived": false,
+"title": "The Rum House",
+"created": "2011-02-07T17:26:40-0500",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A beloved dive reborn and \u2013 believe it or not \u2013 improved. The former incarnation of the Edison Hotel bar was dark, tacky and odd: like many camp pleasures, it teetered on that knife-edge between charming and depressing. The sharp downtown team that took it over stripped out carpeting and ennui, but kept the piano and the nautical theme. It\u2019s now a vibrant grown-up bar that feels like it\u2019s been around forever \u2013 the perfect New York classic it was always meant to be.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Rum House",
+"foursquare-venue-id": 17390,
+"website": null,
+"phonenumber": "(212) 869-3005",
+"crossstreet": "(between Broadway and Eighth Avenue)",
+"neighborhood": "Times Square Theatre District",
+"street": "228 West 47th Street",
+"city": "New York",
+"zip": "10036",
+"state": "NY",
+"latitude": "40.7597055",
+"longitude": "-73.9858948"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-86",
+"archived": false,
+"title": "Russian Vodka Room",
+"created": "2010-10-18T11:08:41-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Icy vodka shots and platters of smoked fish are the main attractions at this odd, windowless gem. Cocktail piano and a certain slightly run-down Slavic chic provide the charm.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Russian Vodka Room",
+"foursquare-venue-id": 85969,
+"website": "russianvodkaroom.com",
+"phonenumber": "(212) 307-5835",
+"crossstreet": "(near Eighth Avenue)",
+"neighborhood": "Midtown",
+"street": "265 West 52nd Street",
+"city": "New York",
+"zip": "10019",
+"state": "NY",
+"latitude": "40.76341",
+"longitude": "-73.98468"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-72",
+"archived": false,
+"title": "Rusty Knot",
+"created": "2010-05-25T05:35:30-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "If you can\u2019t see the appeal of nursing a pina colada and watching the sun sink behind the Watchung Mountains, then you\u2019d better do your twilight drinking somewhere else.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Rusty Knot",
+"foursquare-venue-id": 39632,
+"website": null,
+"phonenumber": "(212) 645-5668",
+"crossstreet": "(at West 11th Street)",
+"neighborhood": "West Village",
+"street": "425 West Street",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.73528",
+"longitude": "-74.00994"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-73",
+"archived": false,
+"title": "Sakagura",
+"created": "2010-05-25T05:35:36-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Enter a faceless Midtown office building and walk down stairs, as if you were going to the janitor\u2019s closet. Instead you\u2019re transported to Tokyo. Sakagura has an encyclopedic sake collection and the staff to guide you through it.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sakagura",
+"foursquare-venue-id": 4865,
+"website": "sakagura.com",
+"phonenumber": "(212) 953-7253",
+"crossstreet": "(between Second and Third Avenues)",
+"neighborhood": "Midtown East",
+"street": "211 East 43rd Street",
+"city": "New York",
+"zip": "10017",
+"state": "NY",
+"latitude": "40.75114",
+"longitude": "-73.97286"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-74",
+"archived": false,
+"title": "The Summit Bar",
+"created": "2010-05-25T05:35:42-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "This bar rejects the hushed tones and reverential mumbo jumbo that make so many other cocktail havens feel like church. The drinks are original and very fine, but the bartenders won\u2019t treat you like a heathen if you prefer beer or wine.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Summit Bar",
+"foursquare-venue-id": 118721,
+"website": "thesummitbar.net\/main.html",
+"phonenumber": null,
+"crossstreet": "(between East Eighth and Ninth Streets)",
+"neighborhood": "East Village",
+"street": "133 Avenue C",
+"city": "New York",
+"zip": "10009",
+"state": "NY",
+"latitude": "40.725064",
+"longitude": "-73.978466"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-87",
+"archived": false,
+"title": "Sunny's Bar",
+"created": "2010-10-18T11:08:47-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "In the \u201980s, after wandering the world, the painter Sunny Balzano returned to the ancient longshoreman's bar his family owned, and remade it in his own image. Sunny doesn't come around as much anymore, but it's still the rangy, bohemian place he loved into being. For the three nights a week it's open, this is one of the most pleasant places in New York.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sunny's Bar",
+"foursquare-venue-id": 17763,
+"website": "sunnysredhook.com",
+"phonenumber": "(718) 625-8211",
+"crossstreet": "(between Reed and Beard Streets)",
+"neighborhood": "Red Hook, Brooklyn",
+"street": "253 Conover Street",
+"city": "Brooklyn",
+"zip": "11231",
+"state": "NY",
+"latitude": "40.67574",
+"longitude": "-74.01691"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-88",
+"archived": false,
+"title": "Sweet Afton",
+"created": "2010-10-18T11:08:53-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "The gastro-hipster aesthetic comes to Queens, but gently, without making waves. Really, it's just a friendly neighborhood place, but one where everything is done with care and taste: the beer selection, the serious burger, the spare but comfortable industrial d\u00E9cor. Yes, there are ambitious cocktails and artisanal pickles, but the sausage rolls come from an Irish grocery on Queens Boulevard and the bartenders love to chat.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sweet Afton",
+"foursquare-venue-id": 106923,
+"website": "sweetaftonbar.com",
+"phonenumber": "(718) 777-2570",
+"crossstreet": "(near 30th Avenue)",
+"neighborhood": "Astoria, Queens",
+"street": "30-09 34th Street",
+"city": "Queens",
+"zip": "11103",
+"state": "NY",
+"latitude": "40.76535",
+"longitude": "-73.91896"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-89",
+"archived": false,
+"title": "Sycamore",
+"created": "2010-10-18T11:08:59-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A sweet, stylish spot that doubles as a florist shop during the day. For $10, you can get the combo special: a pint and a bouquet. The wine selection is nice, and the backyard garden is even nicer.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sycamore",
+"foursquare-venue-id": 42468,
+"website": "sycamorebrooklyn.com",
+"phonenumber": "(347) 240-5850",
+"crossstreet": "(near Westminster Road)",
+"neighborhood": "Ditmas Park, Brooklyn",
+"street": "1118 Cortelyou Road",
+"city": "Brooklyn",
+"zip": "11218",
+"state": "NY",
+"latitude": "40.63973",
+"longitude": "-73.9673"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-90",
+"archived": false,
+"title": "Tavern on Jane",
+"created": "2010-10-18T11:09:05-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "The drinks are fine and the food is above average, but the real lure is the warm atmosphere: a fireplace crackling away, crayons on the table for doodling, and a cast of eccentric regulars whiling away their days and nights at the bar. The scene feels like the old Jane Jacobs West Village, not the Marc Jacobs version that has mostly replaced it .",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Tavern on Jane",
+"foursquare-venue-id": 1969,
+"website": "tavernonjane.com",
+"phonenumber": "(212) 675-2526",
+"crossstreet": "(at Jane Street)",
+"neighborhood": "West Village",
+"street": "31 Eighth Avenue",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.73835",
+"longitude": "-74.00427"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-91",
+"archived": false,
+"title": "The Ten Bells",
+"created": "2010-10-18T11:09:11-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A dark, sexy, hipster-y wine bar with tons of personality. Blackboards on the walls list a fascinating selection of organic obscurities from all over the world, and lots of tasty little snacks \u2013 though you may need to borrow a candle to read them.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Ten Bells",
+"foursquare-venue-id": 39854,
+"website": "thetenbells.typepad.com",
+"phonenumber": "(212) 228-4450",
+"crossstreet": "(between Ludlow and Orchard Streets)",
+"neighborhood": "Lower East Side",
+"street": "247 Broome Street",
+"city": "New York",
+"zip": "10002",
+"state": "NY",
+"latitude": "40.71784",
+"longitude": "-73.98987"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-107",
+"archived": false,
+"title": "Terraza 7 Train Caf\u00E9",
+"created": "2011-03-21T16:44:47-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A groovy little hand-built music bar catering to the Latin-American boho set, neighborhood community activists and other fellow travelers. The drinks are rudimentary \u2013 stick to beer or decent sangria \u2013 but there are great live bands, film screenings and hammocks. There\u2019s nothing else remotely like it in the neighborhood.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Terraza 7 Train Caf\u00E9",
+"foursquare-venue-id": null,
+"website": "terrazacafe.com",
+"phonenumber": "(718) 803-9602",
+"crossstreet": "(near Roosevelt Avenue)",
+"neighborhood": "Elmhurst",
+"street": "40-19 Gleane Street",
+"city": "Queens",
+"zip": "11373",
+"state": "NY",
+"latitude": "40.7473899",
+"longitude": "-73.8819088"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-92",
+"archived": false,
+"title": "Terroir",
+"created": "8970-03-11T01:05:47-0500",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "Paul Grieco, a co-owner, shares his wine obsessions with a kind of aggressive whimsy that's off-putting to some, delightful to many. Terroir's list is a Byzantine tome, part surrealist collage, part manifesto. The man knows his stuff, though, and his staff members are great at guiding you through the tangle. Three-ounce tasting glasses let you sample widely; the chef Marco Canora offers little plates of delicious things, often fried or spherical. The new TriBeCa spinoff has more of everything \u2013 including, most importantly, space.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Terroir",
+"foursquare-venue-id": 39732,
+"website": "restauranthearth.com\/terrior\/Terroir.html",
+"phonenumber": null,
+"crossstreet": "(between First Avenue and Avenue A)",
+"neighborhood": "TriBeCa",
+"street": "413 East 12th Street",
+"city": "New York",
+"zip": "10009",
+"state": "NY",
+"latitude": "40.72981",
+"longitude": "-73.98273"	}
+,{
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 625-9463",
+"crossstreet": "(between Greenwich and Hudson Streets)",
+"neighborhood": "TriBeCa",
+"street": "24 Harrison Street",
+"city": "New York",
+"zip":	"10013",
+"state": "NY",
+"latitude": "40.71893",
+"longitude": "-74.00998"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-95",
+"archived": false,
+"title": "Three Jolly Pigeons",
+"created": "2010-10-18T11:09:35-0400",
+"updated": "2011-03-21T16:46:32-0400",
+"description": "A beautiful century-old bar filled with stamped tin and stained glass \u2013 and an oddball mix of friendly pickled locals. Definitely the most eccentric spot on the Bay Ridge strip. Karaoke night is something to write home about.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Three Jolly Pigeons",
+"foursquare-venue-id": 119590,
+"website": "3jollypigeons.com",
+"phonenumber": "(718) 745-9350",
+"crossstreet": "(at 68th Street)",
+"neighborhood": "Bay Ridge, Brooklyn",
+"street": "6802 Third Avenue",
+"city": "Brooklyn",
+"zip": "11209",
+"state": "NY",
+"latitude": "40.63664",
+"longitude": "-74.0259"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-103",
+"archived": false,
+"title": "Vandaag",
+"created": "2011-02-07T17:14:51-0500",
+"updated": "2011-03-23T16:19:17-0400",
+"description": "Most of the crowd is here for the excellent food, a fancied-up version of homey Dutch cuisine. But the drink menu is reason enough for a visit: nobody else is serving cocktails like these. Combining traditional North European spirits like genever and aquavit with all sorts of clever infusions and reductions, they are strange, wonderful and unique.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Vandaag",
+"foursquare-venue-id": 6773794,
+"website": "vandaagnyc.com",
+"phonenumber": "(212) 253-0470",
+"crossstreet": "(at East Sixth Street)",
+"neighborhood": "East Village",
+"street": "103 Second Avenue",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.72757989238325",
+"longitude": "-73.98863910926207"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-105",
+"archived": false,
+"title": "Waterfront Ale House",
+"created": "2011-03-21T16:38:15-0400",
+"updated": "2011-03-21T16:46:33-0400",
+"description": "Years before anyone ever uttered the word \u201Cgastropub,\u201D the Waterfront Ale house was serving venison chili, home-smoked meats and a whole bunch of serious beers and spirits. Both locations have the same sweet, shaggy, hippie-ish feeling (not to mention free fresh popcorn).",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Waterfront Ale House",
+"foursquare-venue-id": null,
+"website": "waterfrontalehouse.com",
+"phonenumber": "(212) 696-4104",
+"crossstreet": "(at East 30th Street)",
+"neighborhood": "Kips Bay",
+"street": "540 Second Avenue",
+"city": "New York",
+"zip": "10016",
+"state": "NY",
+"latitude": "40.7421243",
+"longitude": "-73.9775395"	}
+,{
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(718) 522-3794",
+"crossstreet": "(between Clinton and Henry Streets)",
+"neighborhood": "Brooklyn Heights",
+"street": "155 Atlantic Avenue",
+"city": "Brooklyn",
+"zip":	"11201",
+"state": "NY",
+"latitude": "40.6903883",
+"longitude": "-73.994862"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-75",
+"archived": false,
+"title": "White Star",
+"created": "2010-05-25T05:35:48-0400",
+"updated": "2011-03-21T16:46:33-0400",
+"description": "There are other things to drink but the reason for White Star\u2019s existence is absinthe, slowly diluted until opaque by ice water that falls drop by drop from an antique fountain.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "White Star",
+"foursquare-venue-id": 40850,
+"website": null,
+"phonenumber": "(212) 995-9244",
+"crossstreet": "(between Hester and Canal Streets)",
+"neighborhood": "Lower East Side",
+"street": "21 Essex Street",
+"city": "New York",
+"zip": "10002",
+"state": "NY",
+"latitude": "40.71545",
+"longitude": "-73.99002"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-96",
+"archived": false,
+"title": "Winnie's",
+"created": "2010-10-18T11:09:41-0400",
+"updated": "2011-03-21T16:46:33-0400",
+"description": "A venerable Chinatown dive, featuring karaoke in Cantonese and English. It fills up with crowds of kids mining it for kitsch value, but for best results, go when it's sleepy and slow, sip a brandy and enjoy the strange noir-ish poetry of the place.",
+"author": "Steven Stern",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Winnie's",
+"foursquare-venue-id": 1055,
+"website": null,
+"phonenumber": "(212) 732-2384",
+"crossstreet": "(between Baxter and Mulberry Streets)",
+"neighborhood": "Chinatown",
+"street": "104 Bayard Street",
+"city": "New York",
+"zip": "10013",
+"state": "NY",
+"latitude": "40.7163",
+"longitude": "-73.99974"	}
+],
+"images":
+null
+}
+,	{
+"id": "3-57",
+"archived": true,
+"title": "dba",
+"created": "2010-05-25T05:34:01-0400",
+"updated": "2011-03-21T16:46:33-0400",
+"description": "Roomier and more relaxed than other local beer bars, this is the home base of a mini chain that extends east to Williamsburg and south to New Orleans. Aficionados appreciate the cask ales, but there\u2019s something for all tastes here, including top-shelf liquor.",
+"author": "Pete Wells",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "dba",
+"foursquare-venue-id": 351,
+"website": "drinkgoodstuff.com",
+"phonenumber": "(212) 475-5097",
+"crossstreet": "(between East Second and Third Streets)",
+"neighborhood": "East Village",
+"street": "41 First Avenue",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.72451",
+"longitude": "-73.98805"	}
+],
+"images":
+null
+}
+]
+}
+}

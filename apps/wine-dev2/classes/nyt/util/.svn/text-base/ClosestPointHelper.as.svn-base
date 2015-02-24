@@ -1,0 +1,63 @@
+package nyt.util {
+	import flash.geom.Point;
+	
+
+// jon
+// this takes a large amount of points and a "radius"
+// When passed a point value, it will return a point that overlaps that point within the radius distance.
+// Each point passed back is actually an Object--it can have other information, as long as it contains an X and Y attribute
+
+// This class is not efficient -- it's O(n) on each invocation, but the points are assumed unordered.
+
+	
+	
+	public class ClosestPointHelper	{
+		
+		protected var pArr:Array; // objects
+		public var radius:Number; 
+		
+		public function ClosestPointHelper(radius, points:Array = null)	{
+			this.pArr = points;		
+			this.radius = radius;
+		}
+		
+		public function set pointsArray(points:Array):void {
+			this.pArr = points;
+		}
+		public function get pointsArray():Array {
+			return pArr.concat(); // copy
+		}
+		
+		public function getOverlappingPoint(newPt:Point):Object {
+			for (var i:int = 0; i<pArr.length; i++) {
+				var oldPtObj:Object = pArr[i];
+				var oldPt:Point = new Point(oldPtObj.x,oldPtObj.y);
+				if (Point.distance(newPt,oldPt) < radius) {
+					return oldPtObj;
+				}
+			}
+			
+			trace ("No overlapping point found");
+			return null;
+		}
+
+		public function getClosestPoint(newPt:Point):Object {
+			
+			var closestDist:Number = Number.MAX_VALUE;
+			var closestPtObj:Object = null;
+			
+			for (var i:int = 0; i<pArr.length; i++) {
+				var oldPtObj:Object = pArr[i];
+				var oldPt:Point = new Point(oldPtObj.x,oldPtObj.y);
+				var dist:Number = Point.distance(newPt,oldPt);
+				if (dist < radius && dist < closestDist) {
+					closestDist = dist;
+					closestPtObj = oldPtObj;
+				}
+			}
+			
+			return closestPtObj;
+		}		
+
+	}
+}

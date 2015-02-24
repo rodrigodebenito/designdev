@@ -1,0 +1,5 @@
+Things to Do with the Data
+
+1) Including update information in newcategorylist.json
+2) Adding a field to newcategorylist.json for home screen icons
+3) Fixing the category / title entries to accurately reflect reality

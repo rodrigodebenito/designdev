@@ -1,0 +1,88 @@
+/*
+Foundation
+*/
+
+body{
+  font-family: 'nyt-franklin', sans-serif;
+  /*font-size: 18px;*/
+  color:#222;
+}
+
+a{
+  color:#fb3346;
+  color:#fb5f67;
+  color:#3795fb;
+  /*color:#000;*/
+}
+a:hover{
+  color:#fb5f67; 
+  color:#2a78cd;
+}
+
+h4{
+  font-weight: 500;
+}
+section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.container{
+  max-width: 700px;
+}
+
+#main{
+  background: #efefef;
+}
+
+
+/*Navbar*/
+.navbar-default{
+  background: none;
+  border:none;
+}
+.navbar-default .navbar-brand{
+  color:#000;
+  font-size: 24px;
+  font-weight: 300;
+}
+.navbar-brand img{
+  position: relative;
+  top:-3px;
+  height: 20px;
+}
+
+
+.heading{
+  margin:0;
+  margin-bottom: 15px;
+  padding:0 15px;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+
+#departments{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.dep{}
+.dep h4{
+  font-weight: 500;
+}
+
+#video{
+  background: #efefef;
+}
+
+#profile{}
+#profile .container{
+  max-width: 960px;
+}
+
+#related-posts{}
+#related-posts h4{
+  text-align: center;
+}
+
+

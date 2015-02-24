@@ -1,0 +1,115 @@
+#viewList #list {
+	width: 392px;
+	background-color: #ffffff;
+	left: 166px;
+	bottom: 0px;
+	overflow: auto;
+}
+
+#viewList #list #header {
+	background-color: #f4f4f4;
+	padding: 18px 12px 24px 20px;
+}
+
+#viewList #list #header .categoryImage {
+	/* height: 48px; */
+	float: right;
+	margin-left: 18px;
+	margin-bottom: 24px;
+}
+
+#viewList #list #header p {
+	font-size: 13px;
+	line-height: 18px;
+	font-family: Georgia, serif;
+	color: #666666;
+}
+
+#viewList #list ul {
+	list-style: none;
+	margin: 0;
+}
+
+#viewList #list ul li {
+	border-bottom: 1px solid #d1d1d1;
+	padding: 12px 20px;
+	display: block;
+	background-color: #ffffff;
+}
+
+#viewList #list ul li h4 {
+	background: transparent url('../img/itemArrowDown.png') no-repeat 6px right;
+}
+
+#viewList #list ul li.first {
+	border-top: 1px solid #d1d1d1;
+}
+
+#viewList #list ul li:hover {
+	background-color: #f7f7f7;
+}
+
+#viewList #list ul li h4 {
+	margin-bottom: 2px;
+	padding-right: 35px;
+}
+
+#viewList #list ul li p,
+#viewList #list ul li blockquote {
+	font-size: 12px;
+	line-height: 18px;
+	color: #666666;
+}
+
+#viewList #list ul li blockquote {
+	font-family: Georgia, serif;
+	padding-left: 25px;
+	background: url('../img/quote.png') no-repeat top left;
+}
+
+#viewList #list ul li .author {
+	font-style: italic;
+}
+
+#viewList #list ul li .article {
+	padding-left: 16px;
+	background: url('../img/t.png') no-repeat 1px left;
+}
+
+#viewList #list ul li .ctntOpened {
+	display: none;
+}
+
+#viewList #list ul li.current {
+	background-color: #f4f4f4;
+}
+
+#viewList #list ul li.current h4 {
+	background-image: url('../img/itemArrowUp.png');
+}
+
+#viewList #list ul li.currentHighlight {
+	background-color: #f94949;
+}
+
+#viewList #list ul li.current .ctntOpened {
+	display: block;
+}
+
+#viewList #list ul li.current .ctntClosed {
+	display: none;
+}
+
+#viewList #list .twitterCtnt {
+	float: right;
+}
+
+#viewList #list hr {
+	display: block;
+	height: 0px;
+	border: 0;
+	border-top: 1px solid #d9d9d9;
+	border-bottom: 1px solid #ffffff;
+	margin: 1em 0;
+	padding: 0;
+}

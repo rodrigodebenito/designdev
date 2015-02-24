@@ -1,0 +1,131 @@
+body,
+html > body {
+	background:#FFFFFF url(/index/NYTimes_logo.gif) no-repeat scroll 52px 20px;
+	color:#333333;
+	font-family:Arial,Helvetica,sans-serif;
+  font-size:12px;
+  line-height:15px;
+  margin:59px 50px;
+}
+
+table {
+  border-collapse:collapse;
+  width:100%;
+  border:1px solid #ccc;
+  border-width:1px 0;
+  margin-bottom:1em;
+  font-size:12px;
+}
+
+th, td {
+	border-spacing:0;
+	margin:0;
+	padding:8px 5px 5px;
+	text-align:left;
+	vertical-align:top;
+}
+
+th {
+	text-transform:uppercase;
+	font-weight:bold;
+	text-align:left;
+	font-size:11px;
+	margin-bottom:2px;
+	padding-top:5px;
+}
+
+td {
+  border-top:1px solid #efefef;
+}
+
+td input[type='text'], td textarea {
+  width:80%;
+  border:1px solid;
+  border-color: #999 #ddd #ddd #999;
+}
+
+h1,h2,h3 {
+  margin-top:0;
+}
+
+tt {
+  color:black;
+}
+
+#page {
+  width:100%;
+  margin:0 auto;
+  position:relative;
+  padding-bottom:40px;
+}
+
+#header {
+  padding:10px 0 0;
+  border-top:3px solid #000000;
+  margin:0 0 20px;
+}
+
+#header h1 {
+  font-size:15px;
+  margin:0;
+  font-weight:bold;
+}
+
+#header h1 a {
+  color:#000;
+}
+
+
+
+.module {
+  border-top:1px solid #ccc;
+  padding:10px 5px
+}
+
+ol {
+  margin-left:2em;
+}
+
+li {
+  margin-bottom:.5em;
+}
+
+.box {
+  padding:20px;
+  background-color:#f0f4f5;
+  border:1px solid #ccc;
+  margin-bottom:1em;
+}
+
+.box h2.closed, .box h2.open {
+	padding-left:18px;
+	background:transparent no-repeat 0 3px;
+}
+
+.box h2.closed {
+	background-image: url(http://graphics8.nytimes.com/images/apps/mytimes/widgets/toggle_closed.gif);
+	margin-bottom:0;
+}
+
+.box h2.open {
+	background-image: url(http://graphics8.nytimes.com/images/apps/mytimes/widgets/toggle_open.gif);
+}
+
+#directions {
+	display:none;
+}
+
+.innerFields label {
+	float:left;
+	width:100px;
+}
+
+.innerFields input {
+	width:64.4%;
+	margin-bottom:5px;
+}
+.innerFields input.short {
+	width:40%;
+}
+
+td.label { width:150px;}

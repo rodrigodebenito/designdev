@@ -1,0 +1,2244 @@
+{"list":{
+"title": "The Filter",
+"category": "Coffee",
+"description": "Oliver Strand, a Dining section contributor, shares his list of notable coffee shops and cafes.",
+"updated": "2011-03-24T15:51:41-0400",
+"items": [
+{
+"id": "5-106",
+"archived": false,
+"title": "Abra\u00E7o",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "There\u2019s barely room enough for six standing adults, never mind the dozen or more who crowd in during prime time. And yet the baristas here turn out some of the city\u2019s best cappuccinos and drip coffee \u2013 so what if you end up outside with your cortado and cured-olive cookie? The sidewalk scene is part of the experience.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Abra\u00E7o",
+"foursquare-venue-id": 39733,
+"website": "abraconyc.com",
+"phonenumber": null,
+"crossstreet": "(at First Avenue)",
+"neighborhood": "East Village",
+"street": "86 East Seventh Street",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.7270779",
+"longitude": "-73.9859981"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-108",
+"archived": false,
+"title": "Bakeri",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "Pretty and crowded, Bakeri produces an astonishing variety of pastries and breads (there must be elves in the basement) and coffee that can sometimes be as good as what\u2019s found at the city\u2019s most serious spots.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bakeri",
+"foursquare-venue-id": 78022,
+"website": "bakeribrooklyn.com",
+"phonenumber": "(718) 388-8037",
+"crossstreet": "(at North Eighth Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "150 Wythe Avenue",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.720052",
+"longitude": "-73.960112"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-168",
+"archived": false,
+"title": "Bedford Hill",
+"created": "2010-12-16T11:47:18-0500",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "Nestled below street level in a sleepy corner of Bedford Stuyvesant, Bedford Hill is so likable you\u2019ll want to spend the day camped out at the slatted banquette. The coffee, prepared with beans from Milwaukee\u2019s Anodyne Coffee Roasting Company, is reason enough to stake a space.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bedford Hill",
+"foursquare-venue-id": 11968675,
+"website": "bedfordhillbrooklyn.com",
+"phonenumber": "(718) 636-7650",
+"crossstreet": "(at Greene Avenue)",
+"neighborhood": "Bedford Stuyvesant",
+"street": "343 Franklin Avenue",
+"city": "Brooklyn",
+"zip": "11216",
+"state": "NY",
+"latitude": "40.687692",
+"longitude": "-73.956952"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-109",
+"archived": false,
+"title": "Blue Bottle Coffee",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "This tasteful, minimalist Williamsburg warehouse is the first New York outpost of the noted California roaster. There\u2019s a coffee bar in the front, roasting works in the back \u2014 and so much light and air that it feels like the left coast. Try the SG-120, a single-origin cortado, or the Kyoto, iced coffee made on a Japanese slow-dripper.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Blue Bottle Coffee",
+"foursquare-venue-id": 1283426,
+"website": "bluebottlecoffee.net",
+"phonenumber": "(718) 534-5488",
+"crossstreet": "(at North Fifth Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "160 Berry Street",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.717416",
+"longitude": "-73.960623"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-110",
+"archived": false,
+"title": "Bluebird Coffee Shop",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "So pleasant and tiny, it\u2019s disarming, especially when the weather is nice and you can sit at the shady outdoor counter. Still, this is a serious place, with some of the best coffee in New York. Right now the baristas are pulling two espresso blends: Espresso Apollo is sweet and seasonal, best enjoyed straight; Espresso Toscano is for steamed milk drinks, like the exceptional cortado. Plan your visit around a fresh-baked pastry, like the pistachio cake.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Bluebird Coffee Shop",
+"foursquare-venue-id": 328330,
+"website": "bluebirdcoffeeshop.com",
+"phonenumber": "(212) 260-1879",
+"crossstreet": "(at First Avenue)",
+"neighborhood": "East Village",
+"street": "72 East First Street",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.7233891",
+"longitude": "-73.9886731"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-111",
+"archived": false,
+"title": "Breukelen Coffee House",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "Stumptown coffee and Balthazar pastries during the day, art openings and D.J.s at night.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Breukelen Coffee House",
+"foursquare-venue-id": 198466,
+"website": null,
+"phonenumber": "(718) 789-7070",
+"crossstreet": "(at St. Johns Place)",
+"neighborhood": "Crown Heights, Brooklyn",
+"street": "764A Franklin Avenue",
+"city": "Brooklyn",
+"zip": "11238",
+"state": "NY",
+"latitude": "40.672274",
+"longitude": "-73.957687"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-157",
+"archived": false,
+"title": "Caf\u00E9 Colette",
+"created": "2010-10-01T16:47:49-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "Get your cappuccino to go from the coffee window, or take a moment and drink your macchiato inside at the bar. The restaurant\u2019s high ceilings and weathered walls feel less like Kings County than Cartagena.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Caf\u00E9 Colette",
+"foursquare-venue-id": 5130238,
+"website": "cafe-colette.com",
+"phonenumber": null,
+"crossstreet": "(at North Ninth Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "79 Berry Street",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.719662",
+"longitude": "-73.9575"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-112",
+"archived": false,
+"title": "Caf\u00E9 Grumpy",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "Each Caf\u00E9 Grumpy is different, though they all serve some of the city\u2019s best coffee. Chelsea is low-key, a neighborhood spot. Greenpoint is for laptop jockeys. Park Slope opened last year, and it\u2019s more coffee bar than cafe \u2013 order a flat white (an Australian innovation, it\u2019s a cappuccino-sized latte), and take it to the handsome counter in front. Caf\u00E9 Grumpy is one of a handful in New York to roast its own beans.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Caf\u00E9 Grumpy",
+"foursquare-venue-id": 34610,
+"website": "cafegrumpy.com",
+"phonenumber": "(212) 255-5511",
+"crossstreet": "(between Seventh and Eighth Avenues)",
+"neighborhood": "Chelsea",
+"street": "224 West 20th Street",
+"city": "New York",
+"zip": "10011",
+"state": "NY",
+"latitude": "40.742691",
+"longitude": "-73.998336"	}
+,{
+"venue": "Caf\u00E9 Grumpy",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(718) 499-4404",
+"crossstreet": "(between 11th and 12th Streets)",
+"neighborhood": "Park Slope South, Brooklyn",
+"street": "383 Seventh Avenue",
+"city": "Brooklyn",
+"zip":	"11215",
+"state": "NY",
+"latitude": "40.665207",
+"longitude": "-73.982642"	}
+,{
+"venue": "Caf\u00E9 Grumpy",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(718) 349-7623",
+"crossstreet": "(at Diamond Street)",
+"neighborhood": "Greenpoint, Brooklyn",
+"street": "193 Meserole Avenue",
+"city": "Brooklyn",
+"zip":	"11222",
+"state": "NY",
+"latitude": "40.728632",
+"longitude": "-73.948731"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-169",
+"archived": false,
+"title": "Caf\u00E9 Madeline",
+"created": "2010-12-16T11:48:31-0500",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "A sunny, comfortable coffee shop in the heart of the Cortelyou corridor with a communal table in front and ample seating in back. It\u2019s related to Milk Bar in Prospect Heights, and the two share a temperament. Get a flat white and a pastry, a latte and a sandwich; take the kids, take the parents.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Caf\u00E9 Madeline",
+"foursquare-venue-id": 11705105,
+"website": "cafemadeline.com",
+"phonenumber": "(718) 941-4020",
+"crossstreet": "(at East 16th and 17th Streets)",
+"neighborhood": "Ditmas",
+"street": "1603 Cortelyou Road",
+"city": "Brooklyn",
+"zip": "11226",
+"state": "NY",
+"latitude": "40.641876",
+"longitude": "-73.963362"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-113",
+"archived": false,
+"title": "Caf\u00E9 Pedlar",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "A joint venture by Frank Falcinelli and Frank Castronovo (Frankies Spuntino and Prime Meats) and Duane Sorensen (Stumptown Coffee Roasters), with a Cobble Hill location that\u2019s large, airy and popular with the stroller set, and a Lower East Side space that\u2019s more intimate.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Caf\u00E9 Pedlar",
+"foursquare-venue-id": 43687,
+"website": null,
+"phonenumber": "(718) 855-7129",
+"crossstreet": "(at Warren Street)",
+"neighborhood": "Cobble Hill, Brooklyn",
+"street": "210 Court Street",
+"city": "Brooklyn",
+"zip": "11201",
+"state": "NY",
+"latitude": "40.686789",
+"longitude": "-73.9937937"	}
+,{
+"venue": "Caf\u00E9 Pedlar",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 253-2303",
+"crossstreet": "(between East Houston and Stanton Streets)",
+"neighborhood": "Lower East Side",
+"street": "17 Clinton Street",
+"city": "New York",
+"zip":	"10002",
+"state": "NY",
+"latitude": "40.720844",
+"longitude": "-73.984458"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-114",
+"archived": false,
+"title": "Caff\u00E9 Mocias",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:11-0400",
+"description": "This tiny kosher coffee bar observes Shabbat. Drip coffee is made with beans from PT\u2019s Coffee Roasting Company from Topeka, considered to be one of the country\u2019s best artisanal roasters.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Caff\u00E9 Mocias",
+"foursquare-venue-id": 106746,
+"website": "mocias.com",
+"phonenumber": "(347) 533-2800",
+"crossstreet": "(at West 94th Street)",
+"neighborhood": "Upper West Side",
+"street": "711 Amsterdam Avenue",
+"city": "New York",
+"zip": "10025",
+"state": "NY",
+"latitude": "40.792887",
+"longitude": "-73.971063"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-165",
+"archived": false,
+"title": "Colson Patisserie",
+"created": "2010-11-01T11:59:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "One of the few places in New York that serves coffee from the cult roaster George Howell. The baristas do it justice. Grab a single-origin espresso and a flaky pear turnover, or rearrange your morning and indulge in a cappuccino and a Paris-Brest.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Colson Patisserie",
+"foursquare-venue-id": 30121,
+"website": "colsonpastries.com",
+"phonenumber": "(718) 965-6400",
+"crossstreet": "(at Sixth Avenue)",
+"neighborhood": "Park Slope, Brooklyn",
+"street": "374 Ninth Street",
+"city": "Brooklyn",
+"zip": "11215",
+"state": "NY",
+"latitude": "40.66782",
+"longitude": "-73.98385"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-179",
+"archived": false,
+"title": "Cookie Road",
+"created": "2011-02-14T13:05:50-0500",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A small, cheerful bakery that looks out onto Greenpoint\u2019s abandoned waterfront. Although cookies and cakes are the point, espresso drinks are expertly made with Counter Culture Coffee. Take your cup and a raspberry-and-rosewater macaron to the tiny counter when it\u2019s cold, or to the bench outside in T-shirt weather.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Cookie Road",
+"foursquare-venue-id": 63941,
+"website": "cookieroad.com",
+"phonenumber": "(718) 383-8094",
+"crossstreet": "(entrance on Oak Street)",
+"neighborhood": "Greenpoint, Brooklyn",
+"street": "94 Franklin Street",
+"city": "Brooklyn",
+"zip": "11222",
+"state": "NY",
+"latitude": "40.7278779",
+"longitude": "-73.957006"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-117",
+"archived": false,
+"title": "Culture Espresso Bar",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Culture is part of the Australian coffee diaspora (one owner is from Down Under) and one of the few serious coffee bars in Midtown.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Culture Espresso Bar",
+"foursquare-venue-id": 81070,
+"website": "cultureespresso.com",
+"phonenumber": "(212) 302-0200",
+"crossstreet": "(at Sixth Avenue)",
+"neighborhood": "Midtown South",
+"street": "72 West 38th Street",
+"city": "New York",
+"zip": "10018",
+"state": "NY",
+"latitude": "40.752216",
+"longitude": "-73.985713"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-170",
+"archived": false,
+"title": "Dora",
+"created": "2010-12-16T11:49:33-0500",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "All neighborhoods deserve a Dora. A simple room with herringbone floors and plate glass windows that let in the light, it\u2019s serious coffee in a comfortable setting. Order a cappuccino made with Stumptown\u2019s Hair Bender, then browse the gear: grinders and kettles, Chemex and Hario, descalers and books by Scott Rao. Fanatical? Yes, but sweet: Nicole Slaven, the owner, named the shop for her great grandmother. ",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Dora",
+"foursquare-venue-id": 12099958,
+"website": "doranyc.com",
+"phonenumber": "(212) 876-8065",
+"crossstreet": "(at Clinton Street)",
+"neighborhood": "Lower East Side",
+"street": "221 East Broadway",
+"city": "New York",
+"zip": "10002",
+"state": "NY",
+"latitude": "40.71421",
+"longitude": "-73.98707"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-180",
+"archived": false,
+"title": "Eleven Madison Park",
+"created": "2011-02-14T13:05:43-0500",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Serious coffee meets fine dining: the tableside siphon or Chemex at Eleven Madison Park, one of only seven restaurants awarded four stars by The New York Times, is part ceremony, part spectacle. There\u2019s the service (relaxed, elegant), the setting (one of the city\u2019s great rooms) and the coffee (Intelligentsia and Ecco). A meal isn\u2019t required, though deep pockets help: the siphon, which serves three, costs around $25. Just ask for a seat in the bar area.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Eleven Madison Park",
+"foursquare-venue-id": 33279,
+"website": "elevenmadisonpark.com",
+"phonenumber": "(212) 889-0905",
+"crossstreet": "(at East 24th Street)",
+"neighborhood": "Midtown South",
+"street": "11 Madison Avenue",
+"city": "New York",
+"zip": "10010",
+"state": "NY",
+"latitude": "40.74149409220905",
+"longitude": "-73.98740010317994"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-118",
+"archived": false,
+"title": "Espresso 77",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Child-friendly, small, and crowded, Espresso 77 is on a side street in a busy part of Jackson Heights. There\u2019s beer, wine and Gimme! Coffee.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Espresso 77",
+"foursquare-venue-id": 85918,
+"website": "www.espresso77.com",
+"phonenumber": "(718) 424-1077",
+"crossstreet": "(between 35th and 37th Avenues)",
+"neighborhood": "Jackson Heights, Queens",
+"street": "35-57 77th Street",
+"city": "Queens",
+"zip": "11372",
+"state": "NY",
+"latitude": "40.7501408",
+"longitude": "-73.8891366"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-119",
+"archived": false,
+"title": "Everyman Espresso",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "It\u2019s little more than a handful of tables and a coffee counter in the lobby of the Classic Stage Company, an off-Broad theater, but its owner, Sam Penix, is much admired by espressoheads.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Everyman Espresso",
+"foursquare-venue-id": 44002,
+"website": "everymanespresso.com",
+"phonenumber": "(212) 533-0524",
+"crossstreet": "(between Third and Fourth Avenues)",
+"neighborhood": "East Village",
+"street": "136 East 13th Street",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.7328102",
+"longitude": "-73.988173"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-120",
+"archived": false,
+"title": "Five Leaves",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "The baristas at this restaurant can hold their own with the city\u2019s leading coffee bars. The affogato is transcendent: two shots of espresso served with vanilla ice cream from the General Greene, it is the best in the city.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Five Leaves",
+"foursquare-venue-id": 41093,
+"website": "fiveleavesny.com",
+"phonenumber": "(718) 383-5345",
+"crossstreet": "(at Lorimer Street)",
+"neighborhood": "Greenpoint, Brooklyn",
+"street": "18 Bedford Avenue",
+"city": "Brooklyn",
+"zip": "11222",
+"state": "NY",
+"latitude": "40.7234437",
+"longitude": "-73.9516756"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-121",
+"archived": false,
+"title": "Fort Defiance",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "In a part of Red Hook that feels like a sleepy Maine port, Fort Defiance is part bar, part restaurant and part serious coffee joint with trained baristas. In the morning there\u2019s pour-over coffee made with single-origin beans.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Fort Defiance",
+"foursquare-venue-id": 65087,
+"website": "fortdefiancebrooklyn.com",
+"phonenumber": "(347) 453-6672",
+"crossstreet": "(at Dikeman Street)",
+"neighborhood": "Red Hook, Brooklyn",
+"street": "365 Van Brunt Street",
+"city": "Brooklyn",
+"zip": "11231",
+"state": "NY",
+"latitude": "40.676584",
+"longitude": "-74.013502"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-159",
+"archived": false,
+"title": "General Greene",
+"created": "2010-10-01T16:51:47-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A neighborhood restaurant that does coffee well. When all the seats and stools are taken, walk your cappuccino to the curb (which is more pleasant than the benches by the kitchen\u2019s flight path). Whole beans from Counter Culture Coffee are for sale in the tiny shop in back.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "General Greene",
+"foursquare-venue-id": 42760,
+"website": "thegeneralgreene.com",
+"phonenumber": "(718) 222-1510",
+"crossstreet": "(at Clermont Avenue)",
+"neighborhood": "Fort Greene",
+"street": "229 DeKalb Avenue",
+"city": "Brooklyn",
+"zip": "11205",
+"state": "NY",
+"latitude": "40.689673",
+"longitude": "-73.970368"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-122",
+"archived": false,
+"title": "Gimme! Coffee",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "The two New York outposts of Ithaca\u2019s Gimme! Coffee serve some of the city\u2019s best coffee. The Leftist Espresso Blend can be sharp on its own, but it balances the milk in the cappuccino, which is so lush and creamy it\u2019s almost a dessert. The Williamsburg shop is laid back, and has tables; the narrow NoLIta location is buzzy, with room for maybe three people at the zinc bar.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Gimme! Coffee",
+"foursquare-venue-id": 44386,
+"website": "gimmecoffee.com",
+"phonenumber": "(212) 226-4011",
+"crossstreet": "(between Prince and Spring Streets)",
+"neighborhood": "Nolita",
+"street": "228 Mott Street",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.7224786",
+"longitude": "-73.9951004"	}
+,{
+"venue": "Gimme! Coffee",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(718) 388-7771",
+"crossstreet": "(at Powers Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "495 Lorimer Street",
+"city": "Brooklyn",
+"zip":	"11211",
+"state": "NY",
+"latitude": "40.711672",
+"longitude": "-73.94926"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-123",
+"archived": false,
+"title": "Glass Shop",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A storefront kept attractively raw. There\u2019s a full lunch menu and flat whites \u2014 one of the owners is from Australia.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Glass Shop",
+"foursquare-venue-id": 49514,
+"website": "glassshoplocal.com",
+"phonenumber": "(718) 450-8905",
+"crossstreet": "(at Sterling Place)",
+"neighborhood": "Prospect Heights, Brooklyn",
+"street": "766 Classon Avenue",
+"city": "Brooklyn",
+"zip": "11238",
+"state": "NY",
+"latitude": "40.673695",
+"longitude": "-73.960787"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-124",
+"archived": false,
+"title": "Gorilla Coffee",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Some of the best baristas in the business, working with the best machines. Gorilla Coffee roasts its own beans, and it goes for a flavor profile so dark it's almost ashy. Still, this Park Slope coffee bar, a neighborhood favorite, is always busy.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Gorilla Coffee",
+"foursquare-venue-id": 4812,
+"website": "gorillacoffee.com",
+"phonenumber": "(718) 230-3244",
+"crossstreet": "(at Park Place)",
+"neighborhood": "Park Slope North, Brooklyn",
+"street": "97 Fifth Avenue",
+"city": "Brooklyn",
+"zip": "11217",
+"state": "NY",
+"latitude": "40.679673",
+"longitude": "-73.977949"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-125",
+"archived": false,
+"title": "Ground Support",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "It has the airy feeling of the art gallery that once occupied the space. Tourists and locals sit at rough wood tables and enjoy well-crafted espresso drinks, single-origin Chemex drip coffee, cold-brew iced coffee and a range of pastries and sandwiches.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Ground Support",
+"foursquare-venue-id": 101229,
+"website": null,
+"phonenumber": "(212) 219-8722",
+"crossstreet": "(between Spring and Broome Streets)",
+"neighborhood": "SoHo",
+"street": "399 West Broadway",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.72419",
+"longitude": "-74.002022"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-126",
+"archived": false,
+"title": "Indian Road Cafe & Market",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "In a part of Manhattan that feels less like a metropolis than a quiet Hudson Valley hamlet, the macchiato is solid, and a nominal market has a good selection of beans from Counter Culture Coffee.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Indian Road Cafe & Market",
+"foursquare-venue-id": 43080,
+"website": "indianroadcafe.com",
+"phonenumber": "(212) 942-7451",
+"crossstreet": "(at Indian Road)",
+"neighborhood": "Inwood",
+"street": "600 West 218th Street",
+"city": "New York",
+"zip": "10034",
+"state": "NY",
+"latitude": "40.872793",
+"longitude": "-73.918296"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-127",
+"archived": false,
+"title": "Iris Caf\u00E9",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Hidden in one of the prettiest corners of Brooklyn Heights, Iris Cafe has a simple menu (fresh sticky buns are a must) and a serious coffee bar. The macchiato can be great.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Iris Caf\u00E9",
+"foursquare-venue-id": 316279,
+"website": null,
+"phonenumber": "(718) 722-7395",
+"crossstreet": "(between State and Joralemon Streets)",
+"neighborhood": "Brooklyn Heights",
+"street": "20 Columbia Place",
+"city": "Brooklyn",
+"zip": "11201",
+"state": "NY",
+"latitude": "40.693205",
+"longitude": "-73.998593"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-129",
+"archived": false,
+"title": "Joe",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "The newest Joe is the most spectacular of them all: sprawled across the airy second floor of a science building on the campus of Columbia University, there are slabs of Portuguese marble, soaring windows that look over Broadway and a brew bar with single origin coffees from Ecco Caff\u00E9. The first Joe opened in the West Village in 2003, an eternity ago; now there are six locations, and each is focused, turning out some of the city\u2019s best coffee. The more Joe grows, the better it gets.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Joe",
+"foursquare-venue-id": 21722,
+"website": "joetheartofcoffee.com",
+"phonenumber": "(212) 924-6750",
+"crossstreet": "(at Gay Street)",
+"neighborhood": "West Village",
+"street": "141 Waverly Place",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.733192",
+"longitude": "-74.000664"	}
+,{
+"venue": "Joe",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 661-8580",
+"crossstreet": "(at Park Avenue)",
+"neighborhood": "Midtown East",
+"street": "In Grand Central Terminal, 89 East 42nd Street",
+"city": "New York",
+"zip":	"10017",
+"state": "NY",
+"latitude": "40.752369",
+"longitude": "-73.977894"	}
+,{
+"venue": "Joe",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 875-0100",
+"crossstreet": "(between West 84th and 85th Streets)",
+"neighborhood": "Upper West Side",
+"street": "514 Columbus Avenue",
+"city": "New York",
+"zip":	"10024",
+"state": "NY",
+"latitude": "40.785567",
+"longitude": "-73.97303"	}
+,{
+"venue": "Joe",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 924-7400",
+"crossstreet": "(between Fifth Avenue and University Place)",
+"neighborhood": "Greenwich Village",
+"street": "9 East 13th Street",
+"city": "New York",
+"zip":	"10003",
+"state": "NY",
+"latitude": "40.7350707",
+"longitude": "-73.9935266"	}
+,{
+"venue": "Joe",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 206-0669",
+"crossstreet": "(at Ninth Avenue)",
+"neighborhood": "Chelsea",
+"street": "405 West 23rd Street",
+"city": "New York",
+"zip":	"10011",
+"state": "NY",
+"latitude": "40.746712",
+"longitude": "-74.001632"	}
+,{
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 851-1901",
+"crossstreet": "(near Broadway)",
+"neighborhood": "Morningside Heights",
+"street": "550 West 120th Street, second floor",
+"city": "New York",
+"zip":	"10027",
+"state": "NY",
+"latitude": "40.81044",
+"longitude": "-73.96133"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-130",
+"archived": false,
+"title": "Kaffe 1668",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "In some ways, Kaffe 1668 is a neighborhood cafe; in other ways, it\u2019s an orthodox coffee bar. For New Yorkers on the run there are lattes in paper cups and croissant breakfast sandwiches. But for the obsessed there is some of the city\u2019s best coffee: drip coffee from a Clover machine, seasonal single-origin espressos, artful machiattos.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Kaffe 1668",
+"foursquare-venue-id": 43291,
+"website": "kaffe1668.com",
+"phonenumber": "(212) 693-3750",
+"crossstreet": "(between Murray and Warren Streets)",
+"neighborhood": "TriBeCa",
+"street": "275 Greenwich Street",
+"city": "New York",
+"zip": "10007",
+"state": "NY",
+"latitude": "40.715147",
+"longitude": "-74.011021"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-181",
+"archived": false,
+"title": "Kava Cafe",
+"created": "2011-02-14T13:03:24-0500",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Small and sexy, this coffee bar feels less 21st-century New York than 1970s Milan. The design is by Roman and Williams (the architects behind the Ace Hotel), the beans are from Stumptown Coffee Roasters and the gear is a pair of next-generation Stradas, the pressure-profiling espresso machine from La Marzocco.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Kava Cafe",
+"foursquare-venue-id": 15634698,
+"website": "kavanyc.com",
+"phonenumber": "(212) 255-7495",
+"crossstreet": "(between Horatio and Gansevoort Streets)",
+"neighborhood": "West Village",
+"street": "803 Washington Street",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.7389775",
+"longitude": "-74.0080651"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-131",
+"archived": false,
+"title": "Kickstand Coffee",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "The Kickstand mobile coffee setup is ingenious; two vintage bikes with trailers that flip open into a coffee bar. There\u2019s no power, so there\u2019s no espresso. Instead, there\u2019s iced coffee and a custom-made pour-over bar outfitted with glass cones sliced off of Chemex drippers\u2014it\u2019s as if coffee geeks and pedalheads made off with the keys to shop class. Locations change, though Kickstand tends to stick to Williamsburg. Check their Twitter account (twitter.com\/kickstandcoffee).",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Kickstand Coffee",
+"foursquare-venue-id": 3794129,
+"website": "kickstandbrooklyn.com",
+"phonenumber": "(917) 209-4741",
+"crossstreet": null,
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "Locations vary; follow on Twitter for updates",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.717835",
+"longitude": "-73.959149"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-132",
+"archived": false,
+"title": "Knave",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Le Parker Meridien converted a soaring corridor with vaulted ceilings into a coffee bar. It\u2019s one of the city\u2019s most ceremonious settings, and one of New York\u2019s most expensive cappuccinos.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Knave",
+"foursquare-venue-id": 132629,
+"website": "parkermeridien.com\/eat5.php",
+"phonenumber": "(212) 708-7392",
+"crossstreet": "(between Sixth and Seventh Avenues)",
+"neighborhood": "Midtown",
+"street": "Le Parker Meridien Hotel, 118 West 57th Street",
+"city": "New York",
+"zip": "10019",
+"state": "NY",
+"latitude": "40.764667",
+"longitude": "-73.978074"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-133",
+"archived": false,
+"title": "La Colombe Torrefaction",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Hit or miss. Sometimes it lives up to the sterling reputation earned in Philadelphia; sometimes the baristas don\u2019t seem to care. The SoHo coffee bar is streamlined, the TriBeCa storefront more relaxed and loft-like.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "La Colombe Torrefaction",
+"foursquare-venue-id": 43948,
+"website": "lacolombe.com",
+"phonenumber": "(212) 343-1515",
+"crossstreet": "(at Lispenard Street)",
+"neighborhood": "TriBeCa",
+"street": "319 Church Street",
+"city": "New York",
+"zip": "10013",
+"state": "NY",
+"latitude": "40.719858",
+"longitude": "-74.003777"	}
+,{
+"venue": "La Colombe Torrefaction",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 625-1717",
+"crossstreet": "(at Prince Street)",
+"neighborhood": "SoHo",
+"street": "270 Lafayette Street",
+"city": "New York",
+"zip":	"10012",
+"state": "NY",
+"latitude": "40.723837",
+"longitude": "-73.996492"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-134",
+"archived": false,
+"title": "Little Skips",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A funky Bushwick coffee spot that serves its neighborhood well: tattered chairs, overstuffed couches, a sideways view of elevated train tracks through the plate-glass windows. The coffee is serious, even if the baristas stray a little with the tasty Bushwick Egg Cream, a traditional egg cream with a shot of espresso from Counter Culture Coffee.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Little Skips",
+"foursquare-venue-id": 856393,
+"website": "littleskips.com",
+"phonenumber": "(718) 484-0980",
+"crossstreet": "(at Myrtle Avenue)",
+"neighborhood": "Bushwick, Brooklyn",
+"street": "941 Willoughby Avenue",
+"city": "Brooklyn",
+"zip": "11221",
+"state": "NY",
+"latitude": "40.697653",
+"longitude": "-73.931246"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-173",
+"archived": false,
+"title": "Lucid Caf\u00E9",
+"created": "2010-12-16T11:52:40-0500",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A Murray Hill storefront with two tables, a handful of chairs, Counter Culture Coffee, espresso drinks and a Japanese slow dripper. Friendly and unassuming, a neighborhood spot that does all the little things right. ",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Lucid Caf\u00E9",
+"foursquare-venue-id": 10459380,
+"website": null,
+"phonenumber": null,
+"crossstreet": "(at East 38th Street)",
+"neighborhood": "Murray Hill",
+"street": "311 Lexington Avenue",
+"city": "New York",
+"zip": "10016",
+"state": "NY",
+"latitude": "40.748751",
+"longitude": "-73.977879"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-135",
+"archived": false,
+"title": "Maialino",
+"created": "2010-08-25T09:52:26-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "This Roman-style restaurant turns coffee into a ritual: during the morning, a pour-over drip bar is set up in a sunny area up front.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Maialino",
+"foursquare-venue-id": 250778,
+"website": "maialinonyc.com",
+"phonenumber": "(212) 777-2410",
+"crossstreet": "(between East 21st and 22nd Streets)",
+"neighborhood": "Gramercy Park",
+"street": "Gramercy Park Hotel, 2 Lexington Avenue",
+"city": "New York",
+"zip": "10010",
+"state": "NY",
+"latitude": "40.738546",
+"longitude": "-73.985772"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-136",
+"archived": false,
+"title": "Marlow & Sons",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "During the day, it acts like a cafe, with a full-service coffee bar that opens at 8 a.m. A selection of whole beans from Stumptown Coffee Roasters is available at Marlow & Daughters, just down the street.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Marlow & Sons",
+"foursquare-venue-id": 17537,
+"website": "marlowandsons.com",
+"phonenumber": "(718) 384-1441",
+"crossstreet": "(at Berry Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "81 Broadway",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.710686",
+"longitude": "-73.965671"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-137",
+"archived": false,
+"title": "Milk Bar",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Cheerful and family friendly, with a full cafe menu. One of the owners is Australian, which means there\u2019s a flat white on the menu and cocoa powder on the cappuccino.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Milk Bar",
+"foursquare-venue-id": 84974,
+"website": "milkbarbrooklyn.com",
+"phonenumber": "(718) 230-0844",
+"crossstreet": "(at Prospect Place)",
+"neighborhood": "Prospect Heights, Brooklyn",
+"street": "620 Vanderbilt Avenue",
+"city": "Brooklyn",
+"zip": "11238",
+"state": "NY",
+"latitude": "40.6777722",
+"longitude": "-73.9688455"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-138",
+"archived": false,
+"title": "Moomah Caf\u00E9",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A arts and crafts center for stylish TriBeCa children where the coffee is as good as any of the edgy spots in Williamsburg and Greenpoint. Stroller parking out front.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Moomah Caf\u00E9",
+"foursquare-venue-id": 102890,
+"website": "moomah.com",
+"phonenumber": "(212) 226-0345",
+"crossstreet": "(between Laight and Hubert Streets)",
+"neighborhood": "TriBeCa",
+"street": "161 Hudson Street",
+"city": "New York",
+"zip": "10013",
+"state": "NY",
+"latitude": "40.721698",
+"longitude": "-74.008432"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-139",
+"archived": false,
+"title": "The National",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "At night, it is an intimate restaurant; by day, it\u2019s a coffee bar with good cappuccinos and a small selection of pastries baked in house.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The National",
+"foursquare-venue-id": 47790,
+"website": null,
+"phonenumber": "(212) 777-2177",
+"crossstreet": "(bewteen Chrystie Street and the Bowery)",
+"neighborhood": "Lower East Side",
+"street": "8 Rivington Street",
+"city": "New York",
+"zip": "10002",
+"state": "NY",
+"latitude": "40.72158",
+"longitude": "-73.9927079"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-140",
+"archived": false,
+"title": "Ninth Street Espresso",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "New York\u2019s first next-generation coffee bar has stayed on top of its game since opening in 2001, and still serves some of the city's best coffee. The original Ninth Street location is for lounging; the coffee counter in the Chelsea Market and the whitewashed storefront across from Tompkins Square Park are for a quick shot with a friend. Last year it introduced Alphabet City Blend, a custom espresso roasted by Intelligentsia Coffee and Tea. It\u2019s good in a cappuccino, great in a macchiato.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Ninth Street Espresso",
+"foursquare-venue-id": 21523,
+"website": "ninthstreetespresso.com",
+"phonenumber": "(212) 358-9225",
+"crossstreet": "(at Avenue C)",
+"neighborhood": "East Village",
+"street": "700 East Ninth Street",
+"city": "New York",
+"zip": "10009",
+"state": "NY",
+"latitude": "40.7252613",
+"longitude": "-73.977945"	}
+,{
+"venue": "Ninth Street Espresso",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 777-3508",
+"crossstreet": "(near Avenue B)",
+"neighborhood": "East Village",
+"street": "341 East 10th Street",
+"city": "New York",
+"zip":	"10009",
+"state": "NY",
+"latitude": "40.727122",
+"longitude": "-73.980076"	}
+,{
+"venue": "Ninth Street Espresso",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 228-2930",
+"crossstreet": "(between West 15th and 16th Streets)",
+"neighborhood": "Chelsea",
+"street": "In the Chelsea Market, 75 Ninth Avenue",
+"city": "New York",
+"zip":	"10011",
+"state": "NY",
+"latitude": "40.741964",
+"longitude": "-74.004793"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-172",
+"archived": false,
+"title": "Nolita Mart & Espresso Bar",
+"created": "2010-12-16T11:51:39-0500",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A coffee bar in front of a convenience store that, despite the name, is decidedly in Chinatown. The espresso is Stumptown\u2019s Hair Bender, the pour over bar is outfitted with Beehouse drippers. Stand and sip at counters made with reclaimed wood.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Nolita Mart & Espresso Bar",
+"foursquare-venue-id": 12760065,
+"website": "nolitamart.com",
+"phonenumber": "(212) 966-8883",
+"crossstreet": "(near Broome Street)",
+"neighborhood": "Chinatown",
+"street": "156 Mott Street",
+"city": "New York",
+"zip": "10013",
+"state": "NY",
+"latitude": "40.719492",
+"longitude": "-73.996206"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-141",
+"archived": false,
+"title": "Ost Caf\u00E9",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Excellent coffee, including a fine cappuccino. Most people here seem to nurse their drinks, a tacit rent for the comfy chairs and WiFi.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Ost Caf\u00E9",
+"foursquare-venue-id": 41202,
+"website": "ostcafenyc.com",
+"phonenumber": "(212) 477-5600",
+"crossstreet": "(at Avenue A)",
+"neighborhood": "East Village",
+"street": "441 East 12th Street",
+"city": "New York",
+"zip": "10009",
+"state": "NY",
+"latitude": "40.729194",
+"longitude": "-73.981419"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-161",
+"archived": false,
+"title": "Peels",
+"created": "2010-10-01T16:54:54-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "All the neighborhood\u2019s coltish young things are drawn to the second restaurant from the duo behind Freemans. Mornings are a delight: claim a stool and order a cappuccino and a buckwheat muffin with lemon and rosemary. Nights are a different scene.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Peels",
+"foursquare-venue-id": 2086298,
+"website": "peelsnyc.com",
+"phonenumber": "(646) 602-7015",
+"crossstreet": "(at East Second Street)",
+"neighborhood": "East Village",
+"street": "325 Bowery",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.725633",
+"longitude": "-73.991705"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-142",
+"archived": false,
+"title": "Prime Meats",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Prime Meats's coffee bar has beans from Stumptown Coffee Roasters and gorgeous German-accented pastries baked downstairs. It turns out a pretzel with butter and sea salt that goes nicely with a macchiato.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Prime Meats",
+"foursquare-venue-id": 42503,
+"website": "frankspm.com",
+"phonenumber": "(718) 254-0327",
+"crossstreet": "(at Luquer Street)",
+"neighborhood": "Carroll Gardens, Brooklyn",
+"street": "465 Court Street",
+"city": "Brooklyn",
+"zip": "11231",
+"state": "NY",
+"latitude": "40.677158",
+"longitude": "-73.998084"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-174",
+"archived": false,
+"title": "Qathra Cafe",
+"created": "2010-12-16T11:53:59-0500",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Middle Eastern food and Italian coffee in a room with the potted plants and exposed brick walls from Koch-era New York. The baristas work magic with the Crop to Cup beans, and draw what flavor they can out of the dark roast.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Qathra Cafe",
+"foursquare-venue-id": 9295283,
+"website": "qathracafe.com",
+"phonenumber": "(718) 484-3322",
+"crossstreet": "(between Stratford and Westminster Roads)",
+"neighborhood": "Ditmas",
+"street": "1112 Cortelyou Road",
+"city": "Brooklyn",
+"zip": "11218",
+"state": "NY",
+"latitude": "40.639805",
+"longitude": "-73.967442"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-162",
+"archived": false,
+"title": "The Randolph at Broome",
+"created": "2010-10-01T16:56:04-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Coffee gets the cocktail treatment. A freshly made pot is \u201Caugmented\u201D and, say, mixed with a shot of syrup infused with orange peel, star anise and sarsaparilla, and topped with a float of heavy cream thickened in a shaker. Baroque? Absolutely. Purists can stick to coffee French-pressed to order.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Randolph at Broome",
+"foursquare-venue-id": 43267,
+"website": "randolphnyc.com",
+"phonenumber": "(212) 274-0667",
+"crossstreet": "(between Elizabeth Street and the Bowery)",
+"neighborhood": "Chinatown",
+"street": "349 Broome Street",
+"city": "New York",
+"zip": "10013",
+"state": "NY",
+"latitude": "40.719643",
+"longitude": "-73.994988"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-143",
+"archived": false,
+"title": "RBC NYC",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Slick and ambitious, RBC is best known for having New York\u2019s only Slayer, a tricked-out variable pressure espresso machine made in Seattle. It should be known for its Vietnamese coffee, a short espresso-fueled version of the classic mix of coffee and condensed milk.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "RBC NYC",
+"foursquare-venue-id": 586873,
+"website": "rbcnyc.com",
+"phonenumber": "(212) 226-1111",
+"crossstreet": "(between Church Street and Broadway)",
+"neighborhood": "TriBeCa",
+"street": "71 Worth Street",
+"city": "New York",
+"zip": "10013",
+"state": "NY",
+"latitude": "40.716881",
+"longitude": "-74.005808"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-163",
+"archived": false,
+"title": "Sant Ambroeus",
+"created": "2010-10-01T16:57:31-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "Like visiting Milan without the jet lag. Both locations have the same salmon-colored marble and classic cappuccinos, but the scene at the Upper East Side is more exotic: regulars in furs and heavy watches, summer-weight cashmere sweaters knotted just so.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sant Ambroeus",
+"foursquare-venue-id": 28892,
+"website": "santambroeus.com",
+"phonenumber": "(212) 604-9254",
+"crossstreet": "(at Perry Street)",
+"neighborhood": "West Village",
+"street": "259 West Fourth Street ",
+"city": "New York",
+"zip": "10014",
+"state": "NY",
+"latitude": "40.735414",
+"longitude": "-74.003209"	}
+,{
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 570-2211",
+"crossstreet": "(between East 77th and 78th Streets)",
+"neighborhood": "Upper East Side",
+"street": "1000 Madison Avenue",
+"city": "New York",
+"zip":	"10021",
+"state": "NY",
+"latitude": "40.77538",
+"longitude": "-73.962985"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-167",
+"archived": false,
+"title": "Saraghina",
+"created": "2010-11-01T12:04:41-0400",
+"updated": "2011-03-24T15:26:12-0400",
+"description": "A coffee bar colonizes the back of this excellent Bed-Stuy pizzeria in the early morning. Ask for a macchiato made with Counter Culture Coffee and a fresh pastry like a bacci di dama. Then linger as long as you can in a whitewashed room that feels like a beach rental in the off-season.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Saraghina",
+"foursquare-venue-id": 70977,
+"website": "saraghinabrooklyn.com",
+"phonenumber": "(718) 574-0010",
+"crossstreet": "(at Lewis Avenue)",
+"neighborhood": "Bedford Stuyvesant, Brooklyn",
+"street": "435 Halsey Street",
+"city": "Brooklyn",
+"zip": "11233",
+"state": "NY",
+"latitude": "40.6836",
+"longitude": "-73.935282"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-146",
+"archived": false,
+"title": "Saturdays Surf",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "A surf shop tucked away on one of the last quiet streets in SoHo. Inside are lacquered surfboards, cult sneakers and a boxy La Marzocco staffed by baristas who know what they\u2019re doing. Take your macchiato to the deck in back, browse the weekend bags on the way. So pleasant you won\u2019t mind the paper cups.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Saturdays Surf",
+"foursquare-venue-id": 108885,
+"website": null,
+"phonenumber": "(212) 966-7875\u200E",
+"crossstreet": "(between Broome and Grand Streets)",
+"neighborhood": "SoHo",
+"street": "31 Crosby Street",
+"city": "New York",
+"zip": "10013",
+"state": "NY",
+"latitude": "40.720853",
+"longitude": "-73.999304"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-148",
+"archived": false,
+"title": "Sit & Wonder",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "A large and dimly lighted room that feels a little like a bar, the kind where you get beer. It\u2019s serious about coffee, with a rotating selection of serious origin espressos.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sit & Wonder",
+"foursquare-venue-id": 53720,
+"website": null,
+"phonenumber": "(718) 622-0299",
+"crossstreet": "(at St. Marks Avenue)",
+"neighborhood": "Prospect Heights, Brooklyn",
+"street": "688 Washington Avenue",
+"city": "Brooklyn",
+"zip": "11238",
+"state": "NY",
+"latitude": "40.677307",
+"longitude": "-73.963964"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-149",
+"archived": false,
+"title": "The Smile",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "This stylish, dimly lighted basement restaurant has a vintage Faema from 1963 (not the reissue), regarded as the first modern espresso machine. But even if you don\u2019t care about the mechanics you can appreciate the aesthetics \u2014 the dials look like they\u2019re from a Fiat Spider. And everybody can appreciate the plummy espressos.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Smile",
+"foursquare-venue-id": 44721,
+"website": "thesmilenyc.com",
+"phonenumber": "(646) 329-5836",
+"crossstreet": "(between Lafayette Street and the Bowery)",
+"neighborhood": "NoHo",
+"street": "26 Bond Street",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.726621",
+"longitude": "-73.993545"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-150",
+"archived": false,
+"title": "Southside Coffee",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "This friendly, bare-bones coffee bar opened in 2009 and is already a neighborhood fixture. The chairs out front fill up when the weather is nice.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Southside Coffee",
+"foursquare-venue-id": 43514,
+"website": null,
+"phonenumber": "(347) 599-0887",
+"crossstreet": "(at 19th Street)",
+"neighborhood": "Sunset Park, Brooklyn",
+"street": "652 Sixth Avenue",
+"city": "Brooklyn",
+"zip": "10010",
+"state": "NY",
+"latitude": "40.661131",
+"longitude": "-73.990198"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-151",
+"archived": false,
+"title": "Stumptown Coffee Roasters",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "Travertine floors, walnut bar, natty staff: When Stumptown Coffee Roasters opened in the Ace Hotel in 2009, it was one of New York\u2019s most elegant coffee bars. Now it\u2019s one of the busiest, and for a good reason. The cappuccinos and mochas (made with Mast Brothers Chocolate) are worth the wait. Coffee geeks and the coffee-curious should trek out to a second coffee bar that opened in the warehouse in Red Hook, Brooklyn, where the beans are roasted. There\u2019s no espresso, just coffee brewed by the cup, with a mind-spinning selection of up to 35 kinds of beans. The Red Hook location is open Friday, Saturday and Sunday only.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Stumptown Coffee Roasters",
+"foursquare-venue-id": 112903,
+"website": "stumptowncoffee.com",
+"phonenumber": null,
+"crossstreet": "(between Broadway and Fifth Avenue)",
+"neighborhood": "Midtown South",
+"street": "18 West 29th Street",
+"city": "New York",
+"zip": "10001",
+"state": "NY",
+"latitude": "40.745802",
+"longitude": "-73.9880939"	}
+,{
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": null,
+"crossstreet": "(at Commerce Street)",
+"neighborhood": "Red Hook, Brooklyn",
+"street": "219 Van Brunt Street",
+"city": "Brooklyn",
+"zip":	"11231",
+"state": "NY",
+"latitude": "40.680814",
+"longitude": "-74.008609"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-177",
+"archived": false,
+"title": "Swallow Cafe",
+"created": "2010-12-16T12:10:34-0500",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "There\u2019s good technique behind the bar, and the dark Italian-style beans give the cappuccinos a nostalgic ring. Get a shot at the counter or nurse your coffee on the couch, then graduate to a michelada at Roberta\u2019s around the corner. There\u2019s no reason to leave Bushwick.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Swallow Cafe",
+"foursquare-venue-id": 11611633,
+"website": null,
+"phonenumber": null,
+"crossstreet": "(near Moore Street)",
+"neighborhood": "Williamsburg",
+"street": "49 Bogart Street",
+"city": "Brooklyn",
+"zip": "11206",
+"state": "NY",
+"latitude": "40.70541",
+"longitude": "-73.933424"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-152",
+"archived": false,
+"title": "Sweetleaf",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "Sweetleaf recently climbed a few rungs: now a pour-over bar and single-origin espresso program round out a coffee menu anchored by Stumptown\u2019s Hair Bender. There are fresh pastries and a good selection of whole beans, a laptop lounge (WiFi, tables) and a vinyl room (LP's, a turntable). One of the most civilized things about Long Island City.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sweetleaf",
+"foursquare-venue-id": 1927261,
+"website": "sweetleaflic.com",
+"phonenumber": "(917) 832-6726",
+"crossstreet": "(between 48th and 48th Avenues)",
+"neighborhood": "Long Island City, Queens",
+"street": "10-93 Jackson Avenue",
+"city": "Queens",
+"zip": "11101",
+"state": "NY",
+"latitude": "40.74345",
+"longitude": "-73.951497"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-166",
+"archived": false,
+"title": "Tacombi @ Fonda Nolita",
+"created": "2010-11-01T12:00:29-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "A taqueria in a NoLIta warehouse that brews coffee to order in a Chemex. Order a Veracruz-style caf\u00E9 con leche made with Plowshares coffee and a breakfast taco with egg, chorizo and guajillo chili. Simple pleasures in a stylish setting.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Tacombi @ Fonda Nolita",
+"foursquare-venue-id": 2085831,
+"website": "tacombi.com",
+"phonenumber": "(917) 727-0179",
+"crossstreet": "(between Prince and East Houston Streets)",
+"neighborhood": "Nolita",
+"street": "267 Elizabeth Street",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.724015",
+"longitude": "-73.993706"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-153",
+"archived": false,
+"title": "Think Coffee",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "The baristas at Think Coffee make expert cappuccinos with a custom Italian-style dark blend from Porto Rico Importing. More interesting are the brewed-to-order coffees made with beans from different artisanal roasters. Think Coffee\u2019s three roomy cafes (ample seating, tables big enough for laptops) were joined this summer by a smaller coffee bar in the N.Y.U. Bookstore on Broadway.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Think Coffee",
+"foursquare-venue-id": 29805,
+"website": "thinkcoffeenyc.com",
+"phonenumber": "(212) 533-3366",
+"crossstreet": "(between West Third and Fourth Streets)",
+"neighborhood": "Greenwich Village",
+"street": "248 Mercer Street",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.728386",
+"longitude": "-73.995347"	}
+,{
+"venue": "Think Coffee",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 228-6226",
+"crossstreet": "(at the Bowery)",
+"neighborhood": "East Village",
+"street": "1 Bleecker Street",
+"city": "New York",
+"zip":	"10012",
+"state": "NY",
+"latitude": "40.725395",
+"longitude": "-73.992451"	}
+,{
+"venue": "Think Coffee",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 614-6644",
+"crossstreet": "(between East 12th and 13th Streets)",
+"neighborhood": "East Village",
+"street": "123 Fourth Avenue",
+"city": "New York",
+"zip":	"10003",
+"state": "NY",
+"latitude": "40.733101",
+"longitude": "-73.9899322"	}
+,{
+"venue": "Think Coffee",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(212) 992-7373",
+"crossstreet": "(between Waverly Place and Washington Place)",
+"neighborhood": "Greenwich Village",
+"street": "728 Broadway, in the NYU Bookstore",
+"city": "New York",
+"zip":	"10003",
+"state": "NY",
+"latitude": "40.730195",
+"longitude": "-73.992867"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-154",
+"archived": false,
+"title": "Third Rail Coffee",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "Third Rail Coffee punches above its weight: It\u2019s one of the best \u2013 and smallest - coffee bars in the city. And it\u2019s one of the few to pull two kinds of espresso, Intelligentsia Coffee and Tea\u2019s Black Cat and Stumptown Coffee Roaster\u2019s Hair Bender. Order a cortado, squeeze behind a table the size of an LP, and taste just how much New York coffee has changed for the better.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Third Rail Coffee",
+"foursquare-venue-id": 68953,
+"website": "thirdrailcoffee.com",
+"phonenumber": null,
+"crossstreet": "(near West Third Street)",
+"neighborhood": "Greenwich Village",
+"street": "240 Sullivan Street",
+"city": "New York",
+"zip": "10012",
+"state": "NY",
+"latitude": "40.7299192",
+"longitude": "-73.9995053"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-155",
+"archived": false,
+"title": "Van Leeuwen Artisan Ice Cream",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "The newest truck in Van Leeuwen Artisan Ice Cream\u2019s buttercup-yellow fleet is as much about coffee as it is about ice cream. Named Turtle, it spends its days parked at the restaurant formerly known as Tavern on the Green, bringing Intelligentsia\u2019s single-origin coffee to Central Park. Two additional trucks, Panda and Roo, are outfitted with Mistral espresso machines (locations vary, so check Twitter for the latest: twitter.com\/VLAIC. The bricks-and-mortar headquarters in Greenpoint stays put.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Van Leeuwen Artisan Ice Cream",
+"foursquare-venue-id": 1351006,
+"website": "vanleeuwenicecream.com",
+"phonenumber": "(718) 701-1630",
+"crossstreet": "(at Nassau Avenue)",
+"neighborhood": "Greenpoint, Brooklyn",
+"street": "632 Manhattan Avenue",
+"city": "Brooklyn",
+"zip": "11222",
+"state": "NY",
+"latitude": "40.724022",
+"longitude": "-73.950664"	}
+,{
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": null,
+"crossstreet": "(at West 67th Street)",
+"neighborhood": "Upper West Side",
+"street": "Just inside Central Park",
+"city": "New York",
+"zip":	"10023",
+"state": "NY",
+"latitude": "40.772666",
+"longitude": "-73.977815"	}
+,{
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": null,
+"crossstreet": "(at Smith Street)",
+"neighborhood": "Boerum Hill",
+"street": "81 Bergen Street",
+"city": "Brooklyn",
+"zip":	"11217",
+"state": "NY",
+"latitude": "40.6866891",
+"longitude": "-73.9901707"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-187",
+"archived": false,
+"title": "Vandaag",
+"created": "2011-03-24T15:25:01-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "A tastefully spare restaurant with raw concrete floors, Eames chairs and an old La Marzocco Linea behind the bar. Sit at a leather banquette, order a shot of Plowshares espresso, a still-warm stroopwafel (sticky, delicate, civilized).",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Vandaag",
+"foursquare-venue-id": 6773794,
+"website": "vandaagnyc.com",
+"phonenumber": "(212) 253-0470",
+"crossstreet": "(at East Sixth Street)",
+"neighborhood": "East Village",
+"street": "103 Second Avenue",
+"city": "New York",
+"zip": "10003",
+"state": "NY",
+"latitude": "40.72755143552093",
+"longitude": "-73.98860155833586"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-156",
+"archived": false,
+"title": "Variety Coffee and Tea",
+"created": "2010-08-25T09:52:27-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "These kids just raised the stakes. Now Variety Coffee and Tea exclusively pulls single origin espresso (SOE, in coffee speak) from Stumptown Coffee Roasters. It means the character of the cappuccino will change depending on what\u2019s in season, and might taste different from one day to another. Still some of the best coffee in New York.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Variety Coffee and Tea",
+"foursquare-venue-id": 45370,
+"website": "varietynyc.com",
+"phonenumber": "(347) 599-2351",
+"crossstreet": "(at Conselyea Street)",
+"neighborhood": "Williamsburg, Brooklyn",
+"street": "368 Graham Avenue",
+"city": "Brooklyn",
+"zip": "11211",
+"state": "NY",
+"latitude": "40.715404",
+"longitude": "-73.944411"	}
+,{
+"venue": "Variety Coffee and Tea",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": "(347) 689-3790",
+"crossstreet": "(near Russell Street)",
+"neighborhood": "Greenpoint, Brooklyn",
+"street": "145 Driggs Avenue",
+"city": "Brooklyn",
+"zip":	"11222",
+"state": "NY",
+"latitude": "40.722949",
+"longitude": "-73.944383"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-175",
+"archived": false,
+"title": "Venticinque Coffee",
+"created": "2010-12-16T11:56:05-0500",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "Sleek by the standards of Park Slope, take your macchiato to the counter in front, watch the latest in baby gear parade by. ",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Venticinque Coffee",
+"foursquare-venue-id": null,
+"website": null,
+"phonenumber": null,
+"crossstreet": "(near Degraw Street)",
+"neighborhood": "Park Slope North",
+"street": "162 Fifth Avenue",
+"city": "Brooklyn",
+"zip": "11217",
+"state": "NY",
+"latitude": "40.677906",
+"longitude": "-73.97974"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-176",
+"archived": false,
+"title": "WTF Coffee Lab",
+"created": "2010-12-16T11:56:53-0500",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "Small, shiny and easily the most tricked-out coffee bar in New York. Japanese slow drippers and siphons, a drip bar and woodnecks (called \u201Csock pots\u201D here), French press and a Chemex outfitted with a stainless steel Kone filter: it\u2019s a lot of technique for a tiny shop. The beans, from Tarrytown\u2019s Coffee Labs Roasters, are up to it. The cappuccino is a fine example of the craft, the iced coffee tastes like aged rum. ",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "WTF Coffee Lab",
+"foursquare-venue-id": 11125349,
+"website": null,
+"phonenumber": null,
+"crossstreet": "(near Adelphi Street)",
+"neighborhood": "Fort Greene",
+"street": "47 Willoughby Avenue",
+"city": "Brooklyn",
+"zip": "11205",
+"state": "NY",
+"latitude": "40.69174",
+"longitude": "-73.971176"	}
+],
+"images":
+null
+}
+,	{
+"id": "5-164",
+"archived": false,
+"title": "Zibetto Espresso Bar",
+"created": "2010-10-01T16:59:39-0400",
+"updated": "2011-03-24T15:26:13-0400",
+"description": "Narrow, stark and stylish coffee bars where espressos made from dark Italian-style roasts are served at white marble counters. Throw back a shot, get on with your busy day.",
+"author": "Oliver Strand",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Zibetto Espresso Bar",
+"foursquare-venue-id": 39249,
+"website": "zibettoespressobar.com",
+"phonenumber": null,
+"crossstreet": "(between West 56th and 57th Streets)",
+"neighborhood": "Midtown",
+"street": "1385 Avenue of the Americas",
+"city": "New York",
+"zip": "10019",
+"state": "NY",
+"latitude": "40.763895",
+"longitude": "-73.977691"	}
+],
+"images":
+null
+}
+]
+}
+}

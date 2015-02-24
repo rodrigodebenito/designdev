@@ -1,0 +1,1 @@
+Basic set of files to style homepage for digital design department at NYT.

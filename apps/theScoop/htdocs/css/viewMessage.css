@@ -1,0 +1,28 @@
+.htmlViewMessage,
+.htmlViewMessage body,
+.htmlViewMessage #container {
+	height: 100%;
+}
+
+#viewMessage {
+	height: 100%;
+}
+
+#viewMessage table,
+#viewMessage table td {
+	width: 100%;
+	height: 100%;
+}
+
+#viewMessage table td {
+	vertical-align: middle;
+}
+
+#viewMessage h1.theScoop {
+	margin: 0 auto 25px;
+}
+
+#viewMessage #message {
+	text-align: center;
+	color: #aaaaaa;
+}

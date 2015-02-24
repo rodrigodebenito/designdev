@@ -1,0 +1,11 @@
+#index td {
+	vertical-align: top;
+}
+
+pre {
+	font-family:Arial,sans-serif;
+}
+
+.noNotes {
+	color:#ccc;
+}

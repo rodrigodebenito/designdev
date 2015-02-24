@@ -1,0 +1,1190 @@
+{"list":{
+"title": null,
+"category": "Day Trips",
+"description": "A selection of outings and excursions outside the five boroughs.",
+"updated": "2010-12-30T10:45:19-0500",
+"items": [
+{
+"id": "6-77",
+"archived": false,
+"title": "Ski at Historic, Family-Friendly Slopes",
+"created": "2010-12-30T10:27:57-0500",
+"updated": "2010-12-30T10:45:19-0500",
+"description": "The Thunder Ridge Ski Area in Patterson, N.Y., has been hosting New York skiers since 1948, with many arriving at the homey base lodge via Metro-North, which offers discounted rail and ski passes on weekends and holidays. Thunder Ridge offers 30 trails generally geared to beginners and intermediates, with a few pitches primed for the more advanced. Mount Peter in Warwick, N.Y., has been welcoming skiers since 1936, when it was owned by Macy's. Family-owned for the last 40 years, Mount Peter's 11 trails and rustic setting, overlooking a bucolic village and valley, are a true country experience. It offers free beginner ski and snowboard lessons on weekends and holidays (for ages 5 and older). Even when city streets are dry, there is ample (often man-made) snow 50 to 60 miles away. These are not big mountain extravaganzas, but they are small jewels.",
+"how-to-get-there": "Transit info: \r\nThunder Ridge: About 90 minutes by Metro-North. Take the Harlem line to Patterson Station. A free shuttle transports skiers and snowboarders the final mile from train station to slopes. Mount Peter: Approximately 70 minutes by car.",
+"author": "Bill Pennington",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Thunder Ridge Ski Area",
+"foursquare-venue-id": null,
+"website": "thunderridgeski.com",
+"phonenumber": "(845) 878-4100",
+"crossstreet": null,
+"neighborhood": null,
+"street": "50 Thunder Ridge Road",
+"city": "Patterson",
+"zip": "12563",
+"state": "NY",
+"latitude": "41.507217",
+"longitude": "-73.585236"	}
+,{
+"venue": "Mount Peter",
+"foursquare-venue-id": null,
+"website": "mtpeter.com ",
+"phonenumber": "(845) 986-4940",
+"crossstreet": null,
+"neighborhood": null,
+"street": "40 Ski Lane",
+"city": "Warwick",
+"zip":	"10990",
+"state": "NY",
+"latitude": "41.247399",
+"longitude": "-74.295324"	}
+],
+"images":
+null
+}
+,	{
+"id": "6-75",
+"archived": false,
+"title": "Stroll Over the Hudson River",
+"created": "2010-09-14T10:26:39-0400",
+"updated": "2010-09-14T11:05:11-0400",
+"description": "Score another point for parks reclaimed from derelict industrial areas. In its previous life, the Walkway Over the Hudson was a steel railroad bridge, abandoned after it was ravaged by fire in 1974. It reopened last year as a state park and the world\u2019s longest pedestrian bridge, spanning the Hudson between Poughkeepsie and Highland, N.Y. The wide walkway is 212 feet above river level, which means nothing until you plant yourself in the middle of the span and see the mighty Hudson stretching out below you. You'll feel as if you're flying.",
+"how-to-get-there": "Transit info: The train to Poughkeepsie takes about 90 minutes on Amtrak (from Penn Station) or two hours on Metro-North (from Grand Central). The walkway is four blocks north of the train station. Driving takes approximately 90 minutes. Check the Web site for parking details.",
+"author": "Corey Kilgannon",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Walkway Over the Hudson State Historic Park",
+"foursquare-venue-id": 1059895,
+"website": "walkway.org",
+"phonenumber": "(845) 834-2867",
+"crossstreet": null,
+"neighborhood": null,
+"street": "Between Poughkeepsie and Highland, NY",
+"city": "Poughkeepsie",
+"zip": "null",
+"state": "NY",
+"latitude": "41.71046",
+"longitude": "-73.944938"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/ckLD3e",
+"title": "Hudson River Walkway, an Improbable Treat",
+"byline": "By PETER APPLEBOME",
+"pubdate": "2010-05-09T23:10:16-0400",
+"stars":
+0	,
+"text": [
+"POUGHKEEPSIE, N.Y."
+,"\"Big day Saturday,\" David Williams said on Friday evening as he pedaled his bike, a 40-year-old Sears Spyder, across the breathtaking span 1.28 miles long, 212 feet above the Hudson about 80 miles north of Manhattan."
+,"And it was, for the hard-core devotees who noticed - the 36th anniversary of the fire on May 8, 1974, that turned an old steel railroad bridge across the Hudson into an abandoned eyesore, and the first time that the anniversary could be pondered from a pedestrian walkway that evokes the feeling of floating on air."
+,"For the rest it was just another day - albeit rainy and windy - at one of the least likely environmental and architectural achievements in recent times - the improbable idea that became the Walkway Over the Hudson, the longest pedestrian bridge in the world."
+,"When it opened in October, after almost 20 years of quixotic reclamation efforts, it seemed a victory of inspiration and persistence over practicality. But six months later it has become something else: a marvel of adaptive-use architecture that has been embraced to a degree even its backers hadn\u2019t expected."
+,"So in honor of the anniversary and in advance of the unveiling on Saturday evening of the new LED lighting system that will for the first time allow visitors to cross the bridge at night, an admiring hat tip to the walkway and the people who made it happen. Now we\u2019ll see how it fares in tough times that almost certainly would have killed the project if it were still struggling to become reality."
+,"In the beginning, when Poughkeepsie was a bustling industrial town, was the railroad bridge, which opened to train traffic on Jan. 1, 1889, a crucial link between the coal fields of Pennsylvania and the factories of New England. People like Mr. Williams, 55, an out-of-work former truck driver who carries in his pickup truck a photo of the last train over the bridge, still remember the midday fire that ended that era and put the bridge out of business."
+,"Despite sporadic ideas to save it, many people assumed it would one day be torn down until a local handyman, Bill Sepe, became obsessed with turning the bridge into a pedestrian walkway and formed Walkway Over the Hudson in 1992. His idea of doing it with volunteer labor and funds never worked, but the organization took ownership of the bridge in 1998. A new board with an expanded vision took over in 2004, and in 2007 began working with the nearby Dyson Foundation to raise money. Once work began, it took 16 months and $38.8 million to build the walkway, which is managed by the state as Walkway Over the Hudson State Historic Park."
+,"Still, the thought lingered - now what? Unlike its city cousin, the High Line on Manhattan\u2019s West Side, it wasn\u2019t in a major urban center. What if they built a marvel and no one came?"
+,"But to visit the walkway on a warm Friday evening is to see just the opposite. People walk, run, roll and stroll in a steady stream. They come on foot, in strollers and wheelchairs, on rollerblades and bikes, the fit, the seriously unfit, the young and the old, many from the low-income areas near the walkway\u2019s entrance, and some from points around the world."
+,"The original estimate was for about 250,000 visits a year. More than double that number have already shown up. Fred Schaeffer, the current board chairman, said the walkway was on track to have a million visitors this year, taxing the availability of parking. \"It\u2019s almost all spreading by word of mouth and on blogs and the Internet,\" he said. \"We\u2019re just astonished by the turnout.\""
+,"Of course, no good event goes uncomplicated, so success has its problems. With the state considering closing 41 state parks and 14 historic sites, the walkway isn\u2019t immune. There are plans to begin charging $5 for parking this summer, with perhaps some local pass system to keep it affordable for its neighbors. There is not enough money available to keep it open at night, but Mr. Schaeffer said local volunteers might staff it once a week. The state is considering limiting the days it is open over the winter."
+,"Still, it does feel like the rare thing that has gone improbably right. You amble across near sunset, the Catskills to the north, the Hudson Highlands to the south. A tugboat chugs underneath. A train whistle sounds from the Poughkeepsie side. During a week of jitters in Times Square, panic on Wall Street, riots in Greece, oil on the Gulf Coast, it feels serene beyond belief, an unlikely ribbon of tranquillity over the river that made New York New York."
+,"E-mail: peappl@nytimes.com"
+]
+}
+}
+,	{
+"id": "6-57",
+"archived": false,
+"title": "See an Impressive Collection of Impressionist Art",
+"created": "2010-08-25T10:03:45-0400",
+"updated": "2010-09-14T10:22:01-0400",
+"description": "Yes, it\u2019s a bit of chore to visit (and you\u2019ll have to make an appointment). Yes, some of the paintings are hung way too high. And, yes, it might have a few too many Renoirs (181!). But the Barnes Foundation, the tiny museum outside of Philadelphia packed with masterpieces, is a once-in-a-lifetime visit for any art lover. And the days are limited when the collection can be seen in the place where its founder, the eccentric Albert C. Barnes, established it in the 1920\u2019s, hanging his C\u00E9zannes and Modiglianis and Picassos so strangely, along with antique hinges and andirons and Pennsylvania Dutch chests. The museum will be moved to a new building in downtown Philadelphia, most likely by 2011, so catch the artwork in its original digs while you still can.",
+"how-to-get-there": "Transit info: About two hours by car, or take Amtrak to Philadelphia\u2019s 30th Street Station (90 minutes) and catch a Septa train to Merion Station (20 minutes).",
+"author": "Randy Kennedy",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "The Barnes Foundation",
+"foursquare-venue-id": 208411,
+"website": "barnesfoundation.org",
+"phonenumber": "(610) 667-0290",
+"crossstreet": null,
+"neighborhood": null,
+"street": "300 North Latch\u2019s Lane",
+"city": "Merion",
+"zip": "19066",
+"state": "PA",
+"latitude": "39.99773",
+"longitude": "-75.24103"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/bqHaWy",
+"title": "Winter Weekends: Impressionists at the Barnes",
+"byline": "By FRED A. BERNSTEIN",
+"pubdate": "2009-01-02T00:00:00-0500",
+"stars":
+0	,
+"text": [
+"Sometime in the next few years, possibly as soon as 2011, the hundreds of paintings collected by Albert Barnes, who died in 1951, will move from the gallery at his former home in a Philadelphia suburb to a new building in the city center. But waiting until then to see one of the world\u2019s greatest collections, which includes 181 Renoirs, 69 C\u00E9zannes and seven van Goghs, would be a huge mistake."
+,"Barnes didn\u2019t just hang his paintings. He worked them into idiosyncratic compositions that use American Indian pottery, African masks and everyday items like spoons and door hinges to establish startling aesthetic connections. The very capable Manhattan architects Tod Williams and Billie Tsien will recreate Barnes\u2019s rooms in the new building, but the change of venue will alter the experience."
+,"The Barnes is easy to reach from Center City Philadelphia, by car, bus, train or taxi. Several downtown hotels offer packages that include guaranteed admission to the museum. If you have time and want to see even more art, check out the Institute of Contemporary Art on the campus of the University of Pennsylvania (www.icaphila.org) or the Philadelphia Museum of Art (www.philamuseum.org), where the Perelman Building, a large, light-filled annex, opened last year in an Art Deco structure updated by Richard Gluckman, the designer of the Andy Warhol Museum in Pittsburgh. (A Frank Gehry exhibition runs through April 5.)"
+,"But those museums &#151; unlike the Barnes &#151; aren\u2019t going anywhere. So make the Barnes (300 North Latch\u2019s Lane, Merion, Pa.; 610-667-0290; www.barnesfoundation.org; open Friday through Sunday in winter) your priority. Be sure to obtain tickets in advance and arrive well fed &#151; no food is allowed on the grounds."
+,"Back in Philadelphia, you may want to try Butcher and Singer, a steakhouse at 1500 Walnut Street (215-732-4444). It\u2019s the latest restaurant from Stephen Starr, whose Morimoto and Buddakan were Philadelphia stalwarts long before he opened branches in New York. Or you\u2019ll want to spend the evening calling friends and telling them to get to the Barnes now. No more excuses."
+,""
+]
+}
+}
+,	{
+"id": "6-58",
+"archived": false,
+"title": "Pick Apples in Dutchess County",
+"created": "2010-08-25T09:51:25-0400",
+"updated": "2010-09-03T17:03:46-0400",
+"description": "For the most picturesque apple orchards, it's worth going the extra mile(s) north to Dutchess County. All of these orchards are within about 10 miles of the Taconic State Parkway, an exhilarating drive in the full blaze of October foliage. At each, you'll find extraordinary apple varieties and a farm stand or the occasional corn maze \u2014 but no carnival rides or supermarkets. They're real working farms; and isn't that what you left the city for?",
+"how-to-get-there": "Transit info: About two hours by car.",
+"author": "Julia Moskin",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Rose Hill Farm",
+"foursquare-venue-id": null,
+"website": "pickrosehillfarm.com",
+"phonenumber": "(845) 758-4215",
+"crossstreet": null,
+"neighborhood": null,
+"street": "19 Rose Hill Farm",
+"city": "Red Hook",
+"zip": "12571",
+"state": "NY",
+"latitude": "42.009376",
+"longitude": "-73.849563"	}
+,{
+"venue": "Greig Farm",
+"foursquare-venue-id": null,
+"website": "greigfarm.com",
+"phonenumber": "(845) 758-1234",
+"crossstreet": null,
+"neighborhood": null,
+"street": "223 Pitcher Lane",
+"city": "Red Hook",
+"zip":	"12571",
+"state": "NY",
+"latitude": "42.02801",
+"longitude": "-73.85452"	}
+,{
+"venue": "Mead Orchards",
+"foursquare-venue-id": null,
+"website": "meadorchards.com",
+"phonenumber": "(845) 756-5641",
+"crossstreet": null,
+"neighborhood": null,
+"street": "15 Scism Road",
+"city": "Tivoli",
+"zip":	"12583",
+"state": "NY",
+"latitude": "42.04456",
+"longitude": "-73.85374"	}
+,{
+"venue": "Fishkill Farms",
+"foursquare-venue-id": null,
+"website": "fishkillfarms.com",
+"phonenumber": "(845) 897-4377",
+"crossstreet": null,
+"neighborhood": null,
+"street": "9 Fishkill Farm Road",
+"city": "Hopewell Jct",
+"zip":	"12533",
+"state": "NY",
+"latitude": "41.51716",
+"longitude": "-73.82329"	}
+],
+"images":
+null
+}
+,	{
+"id": "6-59",
+"archived": false,
+"title": "Ride Bikes Along a Historic Canal",
+"created": "2010-08-25T10:04:35-0400",
+"updated": "2010-09-03T17:03:55-0400",
+"description": "At the Delaware & Raritan Canal State Park in New Jersey, biking along the waterway's banks, with their old bridge tender\u2019s houses, locks and stone bridges, is easy on the heart rate and the hamstrings. The blessed absence of hills and the abundant greenery along the banks \u2014 including shady stands of silver maple, ash and birch \u2014 makes it bearable even on the most scorching summer day. And if you\u2019re fortunate enough to join a guided tour led by Linda and Bob Barth, your imagination will be stirred by the ghosts of laborers who built this navigational wonder by hand.",
+"how-to-get-there": "Transit info: Between 60 - 90 minutes by train on NJ Transit to the Princeton Station.",
+"author": "Julia Lawlor",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Delaware & Raritan Canal State Park",
+"foursquare-venue-id": 2177442,
+"website": "dandrcanal.com",
+"phonenumber": "(609) 397-2000",
+"crossstreet": "(where it intersects with Country Road 526)",
+"neighborhood": null,
+"street": "Pick up the canal trail near Princeton, NJ",
+"city": "Princeton",
+"zip": "8542",
+"state": "NJ",
+"latitude": "40.33923",
+"longitude": "-74.64786"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/c3IuYV",
+"title": "History and Nature on Delaware and Raritan Canal",
+"byline": "By JULIA LAWLOR",
+"pubdate": "2010-07-30T13:37:05-0400",
+"stars":
+0	,
+"text": [
+"AS American canals go, the Erie, which famously linked Buffalo to Albany in the early 19th century, gets all the glory. But at its peak in the 1860s, the V-shaped Delaware and Raritan Canal running through central New Jersey was no pipsqueak transportation system. One year it even outdid the Erie in tonnage carried. And since the early 1970s the narrow waterway has been the centerpiece of a 70-mile-long state park popular with bikers, walkers, fishermen and boaters."
+,"Biking along the banks of the canal, with its old bridge tender\u2019s houses, locks and stone bridges, is easy on the heart rate and the hamstrings. The blessed absence of hills and the abundant greenery along the banks - including shady stands of silver maple, ash and birch - makes it bearable even on the most scorching summer day. And if you\u2019re fortunate enough to join a guided tour led by Linda and Bob Barth, your imagination will be stirred by the ghosts of laborers who built this navigational wonder by hand."
+,"The D&R, as it is commonly known, opened in 1834, nine years after the official debut of the Erie Canal, to speed the transport of coal from northeastern Pennsylvania to New York City. The main canal ran from the Delaware River at Bordentown, N.J., to the Raritan River in New Brunswick, while a feeder canal stretched from Bull\u2019s Island, just upriver from Stockton, to the main canal in Trenton. The feeder was built to supply water from the Delaware to the main canal, though it was later used to transport goods as well."
+,"Boats and barges on the canals were pulled by mules, followed later by steam-powered vessels. By the late 1800s, though, competition from the railroads drastically reduced traffic, and the canal was finally closed after the 1932 season."
+,"On a Sunday this summer, my husband and I rented bikes in Princeton and met the Barths at an entrance to the main canal after coasting about 10 minutes downhill from the borough\u2019s center. The plan was to bike north, passing Lake Carnegie and several historic sites, make a detour to see a Revolutionary-era site, then return to the starting point - a round trip of about 19 miles."
+,"The initial stretch of path near Princeton was crowded with bikers, runners and Sunday strollers. A lone rower pulled at the oars of a single scull on the sparkling surface of Lake Carnegie, where Princeton University\u2019s crew team practices. Mr. Barth stopped to point out a \"swing bridge\" over the canal, an innovative technology in its day that allowed workers, using a cable-and-pulley system, to pivot the bridge horizontally out of the way of approaching vessels. \"There was no height limit on the canal,\" he said. That meant more goods could be stuffed into the long, narrow boats."
+,"Four miles farther up the path, at the village of Kingston, we stopped to see the lock (one of 15 originals) and the bridge tender\u2019s house, with black-and-white photographs showing early life on the canal. A plaque outside commemorates the 3,000 Irish laborers who endured punishing conditions during the four-plus years it took to complete the project."
+,"The men were hired to dig the canal with pickaxes and shovels for $1 a day, six days a week. Some could not afford the $12 steerage fee from New York, Ms. Barth said, and were forced into indentured servitude. \"They worked from sunrise to sunset,\" Mr. Barth added, with their bare feet wrapped in rags. They lived in crowded tents without sanitation or medical facilities, and many died in an 1832 cholera outbreak."
+,"Although legend has it that the dead workers\u2019 bodies were thrown over the edge of the canal and hastily interred, Mr. Barth said that they were actually given proper burials in nearby cemeteries. Paul Muldoon, the Irish poet and Princeton professor, who lives in Griggstown, has immortalized the Irish \"navvies,\" as the canal workers were called, in his poem \"The Loaf\" and in his Pulitzer Prize-winning collection, \"Moy Sand and Gravel.\""
+,"At Kingston, Mr. Barth explained that he and his wife were longtime canal buffs and spent much of their free time visiting canals worldwide, from Scotland to Panama. He is a member of D&R Canal Watch, a group of volunteers who work to preserve the canal\u2019s history. The two spent their honeymoon in 1998 plying the Erie Canal in a narrow boat, after getting married in another 19th-century canal town, Waterloo Village, near the Morris Canal at Stanhope, N.J. Ms. Barth said her husband had briefly suggested she ride a mule to the banks of the Morris for the ceremony. \"That was not happening,\" she said. \"In my fancy dress? I think not.\""
+,"After we had a quick picnic lunch in Kingston, the crowds thinned. We spotted deer in the bushes and turtles basking on logs in the water. Stephanie Fox, the park\u2019s naturalist, said the D&R land was home to several species of turtle, as well as beaver, muskrat and 160 species of birds, including great blue herons and bald eagles."
+,"Two miles farther north, at Rocky Hill, a settlement started in the mid-18th century with a sawmill and gristmill along the nearby Millstone River, only the foundation of the bridge tender\u2019s house remains. A plaque explains that when the canal opened in 1834, Rocky Hill was rocking: there were a dozen or so houses, two stores, two taverns and a wool manufacturer."
+,"Then we took a detour back in time, to 1783 and the denouement of the Revolutionary War. An uphill path leads to Rockingham, the house where George Washington had a lengthy wait for word that the war was officially over."
+,"The two-story house, built between 1702 and 1710, has been moved three times and now stands on state land. There we learned that the general arrived in late August with his wife, Martha, and at least a dozen servants and aides and stayed until early November, when he learned that the Treaty of Paris had been signed. His friend Thomas Paine, who had a house in Bordentown, south of Trenton, visited for a month. Washington is believed to have written his farewell to the troops in a small room on the second floor."
+,"Pedaling downhill into the 19th century again, we headed for the last stop, Griggstown, which is considered the most intact village on the D&R."
+,"Griggstown, like Rocky Hill, dates to the mid-18th century, when Benjamin Griggs built a gristmill along the Millstone River. The mill is gone, but there is a bridge, a bridge tender\u2019s house (soon to be a visitors center) and station, and a mule barracks building that served as a museum until it was damaged in 1999 by Hurricane Floyd. (The building is to open soon as a meeting space.) You can also rent a canoe or kayak here."
+,"Daryl Gruet was out for a run with his dog, Lily, and stopped at Griggstown to read a plaque explaining the history of the area. A native of Woodbridge, N.J., he said he had been biking, hunting and running in the park for years."
+,"Lily jumped in the water to cool off before Mr. Gruet retrieved her and started off again down the path. \"It\u2019s a lost gem,\" he said."
+,"Prepare for your trip at these spots in Princeton, N.J.:"
+,"Kopp\u2019s Cycle For pickup of rental bikes and bike maintenance; 38 Spring Street; (609) 924-1052, koppscycle.net."
+,"Milepost A quarterly listing of events in the Delaware and Raritan Canal State Park, including tours by Linda and Bob Barth and other canal experts; dandrcanal.com."
+,"PRINCETON AND GRIGGSTOWN CANOE AND KAYAK Paddle to the D&R Canal from docks in either town; (609) 452-2403 or (908) 359-5970, canoenj.com; $11 to $40."
+,"PRINCETON TOUR COMPANY Bike tours and rentals, with early pick-up and late drop-off, as well as walking, ghost, pub and grub tours; (609) 902-3637, princetontourcompany.com; $10 to $35."
+,"Triumph Brewing Company Cold beer and live music; 138 Nassau Street; (609) 924-7855, triumphbrewing.com."
+,"Witherspoon Bread Company Breakfast and lunch, to go; 74 Witherspoon Street; (609) 688-0188, terramomo.com\/rest_witherspoonbreadcompany.php."
+,""
+]
+}
+}
+,	{
+"id": "6-60",
+"archived": false,
+"title": "See Minimalist Art at Dia:Beacon",
+"created": "2010-08-25T10:04:47-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "Sometimes referred to as \u201Cthe Vatican of Minimalism\u201D for its concentration of 1960s art, the upstate branch of the Dia Art Foundation is situated near the Hudson River in Beacon, N.Y., about an hour and a half north of Manhattan. A former printing factory, the indoor space is truly fabulous, a Minimalist experience in itself: high, wide, stripped down, endless, with pouring-in natural light. It\u2019s an ideal setting for Dia\u2019s exemplary collection of abstract sculpture by Donald Judd, Dan Flavin and Sol Lewitt. Painting looks great, too. A continually rotating selection of work by Agnes Martin fills three rooms; Andy Warhol\u2019s mural-size \u201CShadows\u201D unfurls across two very long walls. In addition to marvelous art, there\u2019s a cafe and a bookstore on the premises; in short, all of life's necessities in a pilgrimage site that is also Shangri-La.",
+"how-to-get-there": "Transit info: Approximately 80 minutes by train. Take Metro-North's Hudson line to Beacon. The museum is within walking distance of the station.",
+"author": "Holland Cotter",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Dia:Beacon",
+"foursquare-venue-id": 46082,
+"website": "diabeacon.org",
+"phonenumber": "(845) 440-0100",
+"crossstreet": null,
+"neighborhood": null,
+"street": "3 Beekman Street",
+"city": "Beacon",
+"zip": "12508",
+"state": "NY",
+"latitude": "41.50078",
+"longitude": "-73.98264"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/amtXcB",
+"title": "Beacon, N.Y., Reinvents Itself as a Haven for Art",
+"byline": "By LISA W. FODERARO",
+"pubdate": "2009-03-27T16:31:20-0400",
+"stars":
+0	,
+"text": [
+"BEACON, N.Y."
+,"EVEN before it opened six years ago in a former Nabisco cracker box factory, Dia:Beacon, the largest museum of contemporary art in the country, had set in motion a cultural makeover in this once-forlorn river city. The mere anticipation of its arrival turned empty storefronts into gleaming galleries and coaxed residents of Williamsburg, Brooklyn, and other artistic enclaves in New York City to relocate here."
+,"In the years since, Beacon has solidified its reputation as a destination for art in much the way that Hudson, N.Y., transformed itself into a mecca for antiques."
+,"The sudden bloom of spare white spaces, in which art is front and center, has been joined by cafes and shops, making Beacon an attractive place to contemplate the creative process and while away an afternoon or evening. In fact, Beacon has followed the lead of other towns in the Hudson Valley by designating one Saturday a month - in its case, the second - as a day when galleries stay open late amid live entertainment."
+,"To appreciate how a single institution can jump-start a whole town, start your visit at Dia:Beacon. The installations, by modern giants like Andy Warhol, Richard Serra, Donald Judd and Dan Flavin, sprawl across vast galleries, which total more than a quarter of a million square feet. With the arrival of spring, the museum stays open later since it relies on rows and rows of skylights to illuminate the galleries - until 6 p.m. starting in mid-April, as opposed to 4 p.m. in winter."
+,"Children especially seem to appreciate the playfulness and strangeness of some of the works, like \"North, East, South, West,\" by Michael Heizer, which comprises four giant depressions in the floor of one gallery, their simple geometric voids plunging 20 feet. Serra\u2019s \"Torqued Ellipses\" are lofty walls of rust-hued steel that curl inward, tilting this way and that. The ones that invite the viewer along a narrow path to the center are particularly disorienting, but pleasantly so."
+,"The museum\u2019s excellent bookstore - long on books and short on gifts - is a nice way to end your museum tour before going gallery-hopping."
+,"It is a short drive, or a half-mile walk, to Beacon\u2019s mile-long Main Street, which runs from Route 9D, not far from the Hudson River, toward Mount Beacon, whose gentle dome can be seen in the distance. The two ends of Main Street clearly pulse with the most creative energy, flanking a still-gritty, rather dull stretch that gives a sense of Beacon, pre-Dia."
+,"On the western end of Main is a collection of noteworthy galleries, among them Fovea Exhibitions, Van Brunt Gallery and Hudson Beach Glass."
+,"Housed in an understated gray brick building, Fovea is a nonprofit education organization dedicated to photojournalism. It gives the dictionary definition of the name right on its door: \"a small depression in the retina, constituting the point where vision is most clear.\" On view through May 3 is an exhibition called \"Hard Rain (From Memory to History)\" by Anthony Suau, the veteran Time magazine photographer and Pulitzer Prize winner, showing some of his images of conflict from the past 25 years."
+,"A few doors down is the Van Brunt Gallery, which in December relocated from the other end of town to 137 Main Street. A recent show included a luminescent landscape bordering on abstraction and a painted assemblage incorporating bits of wood evocative of a picket fence. In the current exhibition, the owner, Carl Van Brunt, invited six artists - four photographers and two painters - to contribute works that relate loosely to the quadricentennial of Henry Hudson\u2019s historic voyage. The \"Quad Show,\" which Mr. Van Brunt described as a \"postmodern vision of the Hudson Valley,\" will be on view through April 27."
+,"Across the street, Hudson Beach Glass, which occupies a beautifully renovated former firehouse, features handmade art glass, both sculptural and functional - from undulating bowls and elaborate light fixtures to jewelry and mobiles. Among the more beguiling objects recently on display were intricate glass pumpkins in unusual colors (purple was my favorite), each topped with a sinuous green stem. An adjoining studio frequently offers glass-blowing demonstrations."
+,"Before venturing to the other end of Main Street, stop in at the Muddy Cup coffeehouse, with its Victorian-inspired chairs in brushed gold and red velvet, for a cup of hot \"white\" chocolate and a lemon square. Or try the Chill Wine Bar, a new restaurant with a light menu."
+,"More galleries, gift shops and restaurants await in the shadow of Mount Beacon. In a weathered brick building covered with vines, Go North: A Space for Contemporary Art recently featured the work of an Estonian multimedia artist, Marko M&#228;etamm, whose show, \"Another Day With My Family,\" explored the relationship between the artist and his family, the family and society, and public versus private through a mix of photographs, sculpture and video."
+,"If you are inclined to linger - perhaps it is the second Saturday of the month - visit the Piggy Bank Restaurant, a lively barbecue restaurant in a former bank building. It is one of the few businesses that strutted into town well before Dia:Beacon opened its doors."
+]
+}
+}
+,	{
+"id": "6-61",
+"archived": false,
+"title": "Go Mansion-Hopping on Long Island's Gold Coast",
+"created": "2010-08-25T10:04:54-0400",
+"updated": "2010-09-14T10:21:25-0400",
+"description": "Leafy and scenic but conveniently close to the city, the North Shore of Long Island was once dotted with the estates of the Social Register elite. A few are preserved as museums and parks, offering glimpses of bygone opulence. The vast 1906 estate of the steel heir Jay Phipps is now Old Westbury Gardens; Harry Guggenheim\u2019s Jazz Age mansion Falaise, where Charles Lindbergh was a frequent guest, is part of the Sands Point Preserve; the greenhouses are as fascinating as the house, Coe Hall, at Planting Fields Arboretum; Sagamore Hill in Cove Neck was Theodore Roosevelt\u2019s home and summer White House; William K. Vanderbilt gave his art and scientific collections as well as his mansion, Eagle\u2019s Nest, for a county park in Centerport that also features a planetarium. You won't have time to see all five in one day, but any two make for a relaxing, if envy-inducing, day out. Note that some estates close in the winter months, so call or check their Web sites before you visit.",
+"how-to-get-there": "Transit info: About 45 to 75 minutes by car. All of the houses, individually, can be reached by cab from a nearby L.I.R.R. train station, but most are on different branches of the railroad, so getting from one to another without a car would be hard.",
+"author": "Patrick J. Lyons",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Old Westbury Gardens",
+"foursquare-venue-id": 2640002,
+"website": "oldwestburygardens.org",
+"phonenumber": "(516) 333-0048",
+"crossstreet": null,
+"neighborhood": null,
+"street": "71 Old Westbury Road",
+"city": "Old Westbury",
+"zip": "11568",
+"state": "NY",
+"latitude": "40.77521",
+"longitude": "-73.60235"	}
+,{
+"venue": "Sands Point Preserve",
+"foursquare-venue-id": null,
+"website": "sandspointpreserve.org\/htm\/falaise.htm",
+"phonenumber": "(516) 571-7900",
+"crossstreet": null,
+"neighborhood": null,
+"street": "127 Middle Neck Road",
+"city": "Port Washington",
+"zip":	"11050",
+"state": "NY",
+"latitude": "40.85611",
+"longitude": "-73.70196"	}
+,{
+"venue": "Planting Fields Arboretum",
+"foursquare-venue-id": null,
+"website": "plantingfields.org",
+"phonenumber": "(516) 922-9200",
+"crossstreet": null,
+"neighborhood": null,
+"street": "1395 Planting Fields Road",
+"city": "Oyster Bay",
+"zip":	"11771",
+"state": "NY",
+"latitude": "40.86282",
+"longitude": "-73.55617"	}
+,{
+"venue": "Sagamore Hill",
+"foursquare-venue-id": null,
+"website": "nps.gov\/sahi",
+"phonenumber": "(516)\u00A0922-4788",
+"crossstreet": null,
+"neighborhood": null,
+"street": "12 Sagamore Hill Road",
+"city": "Oyster Bay",
+"zip":	"11771",
+"state": "NY",
+"latitude": "40.88671",
+"longitude": "-73.4997"	}
+,{
+"venue": "Vanderbilt Museum",
+"foursquare-venue-id": null,
+"website": "vanderbiltmuseum.org",
+"phonenumber": "(631) 854-5555",
+"crossstreet": null,
+"neighborhood": null,
+"street": "180 Little Neck Road",
+"city": "Centerport",
+"zip":	"11721",
+"state": "NY",
+"latitude": "40.905065",
+"longitude": "-73.367859"	}
+],
+"images":
+null
+}
+,	{
+"id": "6-62",
+"archived": false,
+"title": "Shop for Furniture in Hudson, N.Y.",
+"created": "2010-08-25T10:05:05-0400",
+"updated": "2010-10-22T16:31:17-0400",
+"description": "New York City has no shortage of treasure-laden antique stores, but city dwellers seeking a more bucolic, concentrated and often more affordable shopping experience should head north to Hudson, N.Y. Collected mostly along a quaint stretch of Warren Street between First and Eighth Streets, more than 60 stores in this historic Columbia County town offer furniture and decorative objects from the 17th century to the present day. Devotees of mid-century modern pieces will be particularly pleased: dozens of dealers, including Historical Materialism and Skalar Antiques, feature hand-picked collections that include both top-quality Danish furniture and inexpensive kitsch.",
+"how-to-get-there": "Transit info: Two hours by train. Take Amtrak from Penn Station to the Hudson stop.",
+"author": "Alexis Mainland",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Downtown Hudson",
+"foursquare-venue-id": null,
+"website": "hudsonantiques.net",
+"phonenumber": null,
+"crossstreet": "(between First and Eighth Streets)",
+"neighborhood": null,
+"street": "Warren Street",
+"city": "Hudson",
+"zip": "12534",
+"state": "NY",
+"latitude": "42.253002",
+"longitude": "-73.791213"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/bs3Nuv",
+"title": "Winter Weekends: Hudson\u0092s Art and Antiques",
+"byline": "By KATHRYN MATTHEWS",
+"pubdate": "2009-01-02T00:00:00-0500",
+"stars":
+0	,
+"text": [
+"Throughout its colorful history, Hudson has reinvented itself: as a once-bustling late-18th-century whaling town, a bawdy 19th-century industrial city and now the place to go for a rustic French country table, a pair of Swedish Sirocco chairs or a quirky objet d\u2019art. Along with over 50 antiques shops, this small Hudson River city also offers galleries, restaurants and lively performance arts."
+,"Get a sense of place with a walk through one of \"the richest dictionaries of architectural history in the state,\" according to Patricia Fenoff, a Hudson historian. From the riverside promenade, stroll up Warren Street past Federal, Italianate and Queen Anne buildings. The Hudson Opera House (327 Warren Street; 518-822-1438; www.hudsonoperahouse.org) is a restoration-in-progress, with exhibition space and a center for concerts, readings, lectures and workshops."
+,"A Warren Street gallery crawl offers provocative exhibits at Limner Gallery (No. 123), contemporary art at Nicole Fiacco Gallery (No. 336) and the work of Hudson Valley artists at Carrie Haddad Gallery (No. 622)."
+,"Browse the shelves at Spotty Dog Books &#38; Ale (440 Warren Street; 518-671-6006), a converted 19th-century firehouse where you\u2019ll find 10,000 titles and eight artisanal beers on tap. Get a a make-up lesson ($90) at Face Stockholm (401 Warren Street; 518-822-9474). Or book a massage at Bodhi Holistic Spa (323 Warren Street; 518-828-2233)."
+,"Dine casual (burgers and soup) or fancy (foie gras panna cotta and dill-baked artic char) at the Scandinavian-inspired DA\/BA (225 Warren Street; 518-249-4631). Sample flights of Iberian wine at p.m. (119 Warren Street; 518-828-2833), a new tapas and wine bar. Or tuck into a crepe at Le Gamin (609 Warren Street; 518-828-2885), where you can shop for tableware between courses."
+,"Hudson is rich in charming bed-and-breakfasts. The Inn at Hudson (317 Allen Street; 518-822-9322; www.theinnathudson.com; from $200) occupies a Dutch-Jacobean mansion designed for a soapmaking heir. The Country Squire B &#38; B (251 Allen Street; 518-822-9229; www.countrysquireny.com; from $115) is in a former convent. And Mount Merino Manor (4317 Route 23; 518-828-5583; www.mountmerinomanor.com; from $175) sits on 100 wooded acres near the Olana State Historic Site, the stunning Persian-style home of Frederic Church (5720 State Route 9G; 518-828-0135; www.olana.org)."
+,""
+]
+}
+}
+,	{
+"id": "6-63",
+"archived": false,
+"title": "Take an Easy Path to White Sands",
+"created": "2010-08-25T09:52:47-0400",
+"updated": "2010-09-14T10:21:25-0400",
+"description": "Long Beach \u2014 a favorite seaside stop on the Long Island Railroad \u2014 is a well-known summer destination for people drawn to the beautiful strand of white sand, the wide wooden boardwalk and the ocean waves. In the summer months, many visitors go directly from the train to the beach, an easy walk from the old restored station downtown. But visitors need not limit themselves to June, July and August. There is plenty to do in town, without even stopping by the boardwalk.",
+"how-to-get-there": "Transit info: Approximately 50 minutes by train. The Long Island Railroad offers packages that include train tickets and beach passes.",
+"author": "Alan Feuer",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Long Beach",
+"foursquare-venue-id": 19822,
+"website": null,
+"phonenumber": null,
+"crossstreet": null,
+"neighborhood": null,
+"street": null,
+"city": "Long Beach",
+"zip": "11561",
+"state": "NY",
+"latitude": "40.58366",
+"longitude": "-73.66501"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/9PBVdl",
+"title": "In Long Beach, N.Y., Finding Life on the Water, and Off",
+"byline": "By ALAN FEUER",
+"pubdate": "2009-08-13T15:14:24-0400",
+"stars":
+0	,
+"text": [
+"Even if you are a habitu\u00E9 of Long Beach - the beautiful white-sand strand that lies a bridge-length off Long Island between Atlantic Beach and Jones Beach State Park - the chances are good that you know only the Boardwalk, the beach and the 10-minute walk to the water from the old restored train station. You cannot go to Long Beach without enjoying the ocean, but there are other things in town to round out your excursion, according to Roslyn Bernstein, a native of the island and the author of \"Boardwalk Stories,\" a recent collection of linked tales that use her sunburned memories of childhood as their narrative core."
+,"&#8226;"
+,"11 A.M. Start with the obvious and head toward the beach after arriving on the Long Island Rail Road, a 50-minute trip from Pennsylvania Station (a $19 round-trip fare also gets you a free pass to the beach). Enjoy the sun, the sand and the volleyball courts, and try to picture the Boardwalk in its heyday when, instead of faceless condominiums, there were carnival amusements like Seidel\u2019s Skee Ball and the Sportman\u2019s shooting gallery. \"And Waller\u2019s frozen custard,\" Ms. Bernstein said with a sigh. \"You could eat yourself absolutely sick on that.\""
+,"&#8226;"
+,"12:30 P.M. For those interested in more than mere sunbathing, there is the Long Beach Surf Shop, 70 West Park Avenue, (516) 431-5431, where you can rent a long board or a short board for as little as $40 a day. Be sure to check the Web site, longbeachsurfcam.com, for the weather and wave report before you head out to the breaks."
+,"&#8226;"
+,"1:30 P.M. If you\u2019re looking for simple beach fare, walk back up Edwards Boulevard toward the station. There are plenty of inexpensive meals to be found on West Park Avenue, the town\u2019s main drag, beginning with Five Guys Burgers and Fries, 2-4 West Park Avenue, (516) 431-1999, where a bacon cheeseburger ($6.29, all toppings free) goes down easily with a large order of fries ($4.39). For something more authentic, take Ms. Bernstein\u2019s advice - and an $8 cab ride from the station ($5 more for each extra passenger) - and head to the Point Lookout Clam Bar at the eastern tip of the island, 99 Bayside Drive, (516) 897-4024. This small shack, nestled beside a fishing pier, has fantastic fried clam rolls ($8) and blackened tuna wraps ($8.50) served in an atmosphere suggested by the sign near the take-out window: \"Old fisherman never die. They just smell that way.\""
+,"&#8226;"
+,"3 P.M. Returning to the station, take a brief walk to the Long Beach Historical Society, two blocks from the water, 226 West Penn Street, (516) 432-1192, for a look at the rich past of the island, which was largely developed in 1906 by William Reynolds, a former state senator and real estate maven. The society is housed inside a sprawling Tudor home - it has a great sun porch with antique wicker furniture - which is itself indicative of the island\u2019s residential legacy."
+,"&#8226;"
+,"4:30 P.M. On your way back to the train, stop off for a moment to look at one of Ms. Bernstein\u2019s favorite pieces of art: the mural in the Long Beach post office, 99 East Park Avenue, called \"Pleasures of the Bathing Beach.\" Created in 1939 by the artist John Corbino, it shows a typical scene of women clad in swimsuits, but their faces bear an angst-ridden air, as if anticipating the hostilities that were just around the corner."
+]
+}
+}
+,	{
+"id": "6-64",
+"archived": false,
+"title": "Visit a Robber Baron's Castle in Tarrytown",
+"created": "2010-08-25T10:05:17-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "Lyndhurst, most famous as the Gothic Revival home of railroad magnate and financier Jay Gould, is unusual for its surroundings \u2014 it's as if someone airlifted a small castle from the British Isles and set it down next to the Hudson River. Guided tours are frequent, and you can also take yourself on a self-directed walk of the property, which includes one of the oldest private bowling alleys in America. P.S.: If you have a car, Lyndhurst can be easily combined with a trip to Sunnyside.",
+"how-to-get-there": "Transit info: 45 minutes by train, then a five-minute taxi ride. Take Metro-North's Hudson line to Tarrytown. Taxis are often available at the station.",
+"author": "Sam Grobart",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Lyndhurst",
+"foursquare-venue-id": 40021,
+"website": "lyndhurst.org",
+"phonenumber": "(914) 631-4481",
+"crossstreet": null,
+"neighborhood": null,
+"street": "635 South Broadway",
+"city": "Tarrytown",
+"zip": "10591",
+"state": "NY",
+"latitude": "41.05439",
+"longitude": "-73.86634"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/caDHEG",
+"title": "Tracing History of Private Bowling Alley in Historic Lyndhurst Mansion",
+"byline": "By LAURA JOSEPH MOGIL",
+"pubdate": "2009-04-07T15:17:18-0400",
+"stars":
+0	,
+"text": [
+"TARRYTOWN"
+,"POINTING to a two-by-three-inch spot where the wood on the Lyndhurst bowling alley\u2019s ball return is much lighter and shinier, Krystyn Hastings-Silver called it \"the ghost of the maker\u2019s plate.\""
+,"Ms. Hastings-Silver, the restoration project manager the past two years at Lyndhurst, the Gothic Revival mansion and estate here, was referring to a missing metal plate that would have identified the manufacturer of the two-lane bowling alley, which dates to the late 1800s."
+,"As work to restore the recreation building that houses the bowling alley has gone on, Ms. Hastings-Silver has been trying to solve the case of the missing identification plate. She said it was most likely stolen as a souvenir while the building was left unsecured in the mid-20th century."
+,"\"My hunch is that it\u2019s within a 50-mile radius of here, and I wonder if it\u2019s in somebody\u2019s garage or on a mantel or bookshelf,\" she said. If that plate can be located, Ms. Hastings-Silver said, \"it would really unlock the mystery of the lanes.\""
+,"Lyndhurst, designed in 1838 by the architect Alexander Jackson Davis, was bought by the railroad magnate Jay Gould in 1880 and passed on to his oldest daughter, Helen Gould, upon his death in 1892. The maple bowling lanes, which are inside a 4,300-square-foot, free-standing building at the rear of the property, are reported to have been built by Helen Gould in 1895. Ms. Hastings-Silver said this date could make it the oldest known two-lane private indoor bowling alley in the United States."
+,"\"It\u2019s safe to say it\u2019s one of the oldest, but it\u2019s very difficult to pinpoint it down,\" said Chuck Pezzano, a former historian for the Professional Bowlers Association. Mr. Pezzano was recently involved in the restoration of the 1899 bowling lanes at Georgian Court University, the former home in Lakewood, N.J., of Helen Gould\u2019s older brother George Jay Gould. He plans to visit Lyndhurst in the spring to examine the lanes as well as original pins and bowling balls."
+,"\"The more you delve into the estates of the rich, almost all of them had bowling,\" he said."
+,"ACCORDING to Ms. Hastings-Silver, private bowling alleys for highly affluent families of that time, including those on the estates of George Jay Gould and of George and Edith Vanderbilt (1896), were often built by the Brunswick-Balke-Collender Company. (It is now the Brunswick Corporation.)"
+,"Looking for clues as to who built their lanes, Lyndhurst officials invited a representative from Brunswick\u2019s nonprofit foundation out in 1995. While the company provided instruction for refurbishing and resurfacing of the lanes that was undertaken then, it could not confirm that Brunswick made them."
+,"\"It all goes back to the ball return,\" Ms. Hastings-Silver said. \"Ours looks like an Art Deco radio, where others by Brunswick are shaped like a newel post, similar to what you would see at the bottom of a staircase. It seems to suggest that our lanes were built from a set of drawings by itinerant carpenters in the area.\""
+,"Documents show that in addition to holding bowling soirees for friends, Helen Gould, who married Finley J. Shephard in 1913, often let her staff use the lanes. She also held a sewing school for local girls in the building\u2019s two octagonal-shaped parlors and on the pair of outdoor viewing platforms on top of the structure."
+,"When Helen Gould Shephard died in 1938, her sister, Anna, Duchess of Talleyrand-Perigord, bought the estate. She added electricity to the recreation building and opened the lanes to recuperating soldiers and sailors in World War II."
+,"The lanes have not been used since. Ms. Hastings-Silver said the building was in disrepair when the National Trust for Historic Preservation acquired the estate under the duchess\u2019s will in 1961. Over the past 25 years the building has been restored a little at a time as funding allowed."
+,"Ms. Hastings-Silver said she hoped the restoration of the front veranda and steps as well as the creation of two public, handicap-accessible bathrooms would be completed for a June 7 event at Lyndhurst. It will highlight the Westchester RiverWalk, a 52.9-mile waterfront trail that passes through the rear of the Lyndhurst property."
+,"The county is financing the bathrooms, two pedestrian access pathways and related renovations, spending $882,400 in exchange for a 20-year lease on the bathrooms (the only public comfort station on the trail) and a permanent easement on the part of the RiverWalk that passes over Lyndhurst roads."
+,"Lyndhurst is seeking $400,000 to $450,000 to complete restoration of the building so it can be used regularly by the public and nonprofit groups."
+,"\"As a contrast to the mansion, it\u2019s a building where you\u2019ll be able to bowl on the lanes and sit on the furniture,\" Ms. Hastings-Silver said. \"You can have a party down there and enjoy yourselves in the same fashion as the former owners did more than 100 years ago.\""
+]
+}
+}
+,	{
+"id": "6-65",
+"archived": false,
+"title": "Watch the Horses at Monmouth Park Racetrack",
+"created": "2010-08-25T10:05:23-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "Ocean breezes and fast horses are the draw at Monmouth Park, a thoroughbred racetrack on the Jersey Shore with the atmosphere of a summer resort. For New Yorkers haunted by the specter of dingy OTB betting parlors, it\u2019s a passport to paradise: a cute-as-a-button building, clean surroundings, nonsurly personnel. The racing has seen dramatic improvement, thanks to a cutback in dates and a big hike in the purse money for each race. That translates into more horses in each race, which means a bigger bang for the bettor\u2019s buck. Nonbettors can cool off at the Lady\u2019s Secret Caf\u00E9, an outdoor restaurant looking out on a splashy fountain and the woodchip walking ring, where jockeys hop aboard their mounts, or hang out at the rail and watch the dirt fly as the horses thunder down the stretch. Win or lose, it\u2019s a thrill.",
+"how-to-get-there": "Transit info: Approximately 90 minutes by train. Take NJ Transit from Penn Station to Monmouth Park Station and walk.",
+"author": "William Grimes",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Monmouth Park",
+"foursquare-venue-id": 113212,
+"website": "monmouthpark.com",
+"phonenumber": "(732) 222-5100",
+"crossstreet": null,
+"neighborhood": null,
+"street": "175 Oceanport Avenue",
+"city": "Oceanport",
+"zip": "07757",
+"state": "NJ",
+"latitude": "40.31028",
+"longitude": "-74.01475"	}
+],
+"images":
+null
+}
+,	{
+"id": "6-66",
+"archived": false,
+"title": "Visit a Botanical Garden in the Garden State",
+"created": "2010-08-25T10:05:29-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "New York City is home to several terrific botanical gardens, but if you\u2019re wondering whether the grass is greener on the other side, spend a day at the New Jersey Botanical Garden. Just about an hour\u2019s drive from New York, the 96-acre property has a wonderful collection of plants, and is home to both formal tiered gardens as well as wooded trails with wildflowers and ferns.",
+"how-to-get-there": "Transit info: Approximately 60 minutes by car.",
+"author": null,
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "New Jersey Botanical Garden",
+"foursquare-venue-id": 1805559,
+"website": "njbg.org",
+"phonenumber": "(973) 962-9534",
+"crossstreet": null,
+"neighborhood": null,
+"street": "2 Morris Road",
+"city": "Ringwood",
+"zip": "07456",
+"state": "NJ",
+"latitude": "41.12695",
+"longitude": "-74.23954"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/aq4GAn",
+"title": "A Garden Crawl Through the Garden State",
+"byline": "By JUDITH H. DOBRZYNSKI",
+"pubdate": "2010-06-25T01:30:30-0400",
+"stars":
+0	,
+"text": [
+"NEW JERSEY is the Garden State, but that nickname wasn\u2019t always so secure. Unofficially, it dates to at least 1876, when Abraham Browning of Camden likened \"our Garden State\" to \"an immense barrel, filled with good things to eat and open at both ends, with Pennsylvanians grabbing from one end and New Yorkers from the other.\" But in 1954, when the State Legislature voted to add the moniker to license plates, Governor Robert B. Meyner vetoed the measure, saying, \"I do not believe that the average citizen of New Jersey regards his state as more peculiarly identifiable with gardening for farming than any of its other industries or occupations.\" He was overruled."
+,"Nowadays New Jersey ranks second among states in blueberry production, third in cranberries and spinach and fourth in bell peppers, peaches and head lettuce, the official state Web site, nj.gov, boasts. Its status in flowers is unrecorded. But never mind the state\u2019s reputation for being rather unlovely in places, gardens are what I set out to find. I visited five public gardens in five counties. Three are, as Michelin would say, \"worth a detour.\" Often I was alone with just the birds and other animals, which didn\u2019t seem to mind the company. Once, when I stopped to take a picture, a chipmunk ran between my feet."
+,"The New Jersey Botanical Garden, in Ringwood, in the northern part of the state, was the most pleasant surprise: an enchanting collection of specimens. It helps to stop at the visitors\u2019 center, which offers a map and brochures about each specialty garden."
+,"When I was there, in mid-May, the annual beds were bare, though the peonies in the neighboring perennial garden were about to bloom. Across the road, however, the site began to shine. Behind Skylands Manor, a 1920s Tudor revival mansion on the property that\u2019s used as an inn, lies a series of tiered gardens: they start with hip-level beds of irises, violets and similar flowers that form an octagon around a stone fountain and gradually descend to a magnolia walk, azalea chamber, summer garden and tree peony garden. On the left, clusters of lilac trees - past their prime, but many still blooming - created an aroma that, like one of Proust\u2019s madeleines, sparked a remembrance of springs past."
+,"You can cross the road again to find gardens with a less manicured feel. On the trail along the pond you may hear a chorus of frogs while you take in the yellow water lilies. And don\u2019t miss the moraine garden, which simulates a glacial area with mint-family plants, lily of the valley, ferns and the like, or the rhododendron and hosta gardens."
+,"Equally worth a trip is the 127-acre Frelinghuysen Arboretum, in Morris Township, which describes itself as \"part English-style park, part flower gardens, part working farm\" built around a Colonial Revival home."
+,"Near the visitors\u2019 center, small patches illustrate \"color gardens.\" The blue garden wore full regalia on my visit, a m\u00E9lange of blue and purple pansies, purply-blue aubrieta gracilis, true blue ladybells, brunnera and sweet Kate spiderwort. There\u2019s also a yellow-red garden, but its time had not yet come."
+,"Behind the mansion is a rose garden, with climbing roses and tea roses strutting their stuff, some a bright cerise. When you\u2019ve finished smelling the roses, head for the gazebo, which offers a beautiful vista of a grassy area framed by baronial trees. And nearby is a charming knot garden, fashioned from trimmed boxwood hedges of differing shades of green in a four-point design."
+,"The Frelinghuysen has two distinctive features: a garden for people with \"special needs,\" which was wheelchair-friendly but disappointingly small and spare, and a Braille nature trail, whose signs for the blind point out tree varieties, for example. Unfortunately, the promised guiding rope, with balls signaling where to stop for the signs, was missing."
+,"A little farther south, in Bernardsville, is the Cross Estate Gardens, within Morristown National Historical Park. Drive right up to the mansion, a Queen Anne-style summer retreat dating to 1905 (now closed), and park in the circular driveway. The very appealing gardens, laid out in the 1930s, are entered through a nearby wooden gate."
+,"A pergola - abloom with pendulous wisteria clusters in the spring - has weather-worn wooden benches that make a perfect spot for gazing at the flowers. Bees and birds provide background music."
+,"On the right lies a formal walled garden, with brick walks and flower boxes. The regularly replenished beds held, on my visit, a variety of tall, purple-veined gas plants; irises in blue, purple and yellow; white peonies; yellow foxglove; and hosta. On the left is a native plant garden, its paths lined with pebbles. After the walled garden, this one seems unruly, a mille-fleur tapestry of ferns, oakleaf hydrangea, red-vein enkianthus, jack-in-the-pulpit, Virginia sweetspire, cardinal flowers, rusty red Canada columbine and various anemones. Nature rules here: I wasn\u2019t surprised to learn that a New Jersey Audubon sanctuary was nearby."
+,"I drove south, to the Pine Barrens, stopping in Lakewood at Georgian Court University. The campus, once the winter estate of the robber baron Jay Gould\u2019s son George Jay Gould, is home to the Sister Mary Grace Burns Arboretum. The wonderful aroma of fresh-cut grass was in the air. Little wonder: the largest garden here - the so-called Italian garden - is more grass, statuary and flowering trees than flowers. Amid its formal design, with crisscrossing paths, pergolas and Greek-god statuary, are groves of Colorado blue spruce, Norway spruce, yellow poplar and Southern magnolia."
+,"Likewise, the \"sunken garden and lagoon\" features marble urns, a staircase flanked by lions, a bridge, a fountain and a wonderful view of Lake Carasaljo, but no plants or flowers to speak of. The formal garden, a maze of boxwood hedges, has seen better days and had none of the advertised annuals or perennials on my visit."
+,"But there is a gem here: a one-acre Japanese garden designed by Takeo Shiota, who plotted Brooklyn Botanic Garden\u2019s Japanese Hill-and-Pond Garden, which, when it opened in 1915, was the first public Japanese garden in America. Shiota was known for traveling all over Japan - on foot - to learn the natural landscape."
+,"Here, he created an oasis anchored by a bushy Japanese yew, which shelters benches, and a tall, red-barked Japanese umbrella pine. Around them you\u2019ll find a grove of traditional, rust-leaved Japanese maple, along with samples of paper-barked maple, weeping Higan cherry, Japanese cherry and others. Beneath them are beds of blue and white irises and other flowers, and nearby are tall purple rhododendron bushes. The garden paths rise and fall to create a gnarled landscape that passes a restored brown-and-cream-color tea house (which, alas, sits empty)."
+,"Be sure to ask the campus entry guard not only where to park, but also how to find the library, where visitors may obtain a handsome garden guide."
+,"In nearby Princeton, you can enjoy fantasies of paying a call on the governor as you drive past a columned mansion on the way to the parking lot of the Morven Museum & Garden, which was the New Jersey governor\u2019s mansion from 1945-81. This 18th-century home of Richard Stockton, a signer of the Declaration of Independence, was converted to a museum in 2004, and its lower floors are now galleries for furniture and decorative arts. The five-acre property, fronted by a stately lawn, counts as the garden. On one side a horse chestnut walk blooms in spring with delicate pink-and-white flowers. Out back, a square lawn is bordered by blue milkweed, irises and blue bells, along with deep red peonies."
+,"Morven was the smallest, and least interesting, of the five New Jersey gardens on my route - but it is in Princeton, which has other charms to compensate."
+,"Going Down Those Garden Paths"
+,"NEW JERSEY BOTANICAL GARDEN 2 Morris Road, Ringwood; (973) 962-9534, njbg.org. Open daily 8 a.m. to 8 p.m. Free."
+,"FRELINGHUYSEN ARBORETUM 53 East Hanover Avenue, Morris Township; (973) 326-7600; arboretumfriends.org. Open from 9 a.m. to dusk daily. Free."
+,"CROSS ESTATE GARDENS Old Jockey Hollow Road, Bernardsville, in Morristown National Historic Park; (973) 539-2016, Ext. 210 (National Park Service); crossestategardens.org. Open from dawn to dusk. Free."
+,"SISTER MARY GRACE BURNS ARBORETUM Georgian Court University, 900 Lakewood Avenue, Lakewood; (732) 987-2373, georgian.edu\/arboretum. Open 8 a.m. to dusk daily. Free."
+,"MORVEN MUSEUM & GARDEN 55 Stockton Street, Princeton; (609) 924-8144, historicmorven.org. Open Wednesday to Friday, 11 a.m. to 3 p.m.; Saturday and Sunday, noon to 4 p.m. Closed on holidays. Gardens are free. For the museum: $5; $4 for students and those 60 or older; free for children under 8."
+]
+}
+}
+,	{
+"id": "6-67",
+"archived": false,
+"title": "Take a Ferry to Sandy Hook",
+"created": "2010-08-25T10:05:35-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "How do you get to the beach without sitting in traffic? Bring your bike and catch a ferry from Manhattan to Sandy Hook, N.J., a scenic barrier peninsula with beaches, bird sanctuaries, historic buildings and paved bike paths connecting them all. The 30-or-so minute cruise through New York Harbor is a getaway in itself: the Manhattan skyline recedes as you pass beneath the drama of the Verrazano-Narrows Bridge. Land at Fort Hancock, a decommissioned Army post that protected New York Harbor until 1974, then ride the flat, five-mile-long multi-use path to a series of lifeguard-tended beaches (with snack bars and views of Coney Island in the distance). Just past the southern edge of Sandy Hook is the town of Highlands, where you can have a seafood dinner and catch the ferry back to New York.",
+"how-to-get-there": "Transit info: Approximately 30 minutes by ferry. The SeaStreak ferry stops at both Fort Hancock and Highlands.",
+"author": "Amy Virshup",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sandy Hook, N.J.",
+"foursquare-venue-id": 5610406,
+"website": "sandy-hook.com",
+"phonenumber": null,
+"crossstreet": "(at Bay Street)",
+"neighborhood": null,
+"street": "Navesink Avenue",
+"city": "Highlands",
+"zip": "07732",
+"state": "N.J.",
+"latitude": "40.46773",
+"longitude": "-74.0098"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/bJIKhn",
+"title": "Sandy Hook, So Close to Manhattan, So Far Away in Spirit",
+"byline": "By BETH GREENFIELD",
+"pubdate": "2005-08-05T00:00:00-0400",
+"stars":
+0	,
+"text": [
+"SOMETIMES getting to the beach takes so much energy that it hardly seems worth the trip. Not so when the goal is Sandy Hook, a seven-mile stretch of paradise that's accessible from Manhattan with a ferry ride of about 30 minutes."
+,"The speedy trip across New York Harbor is thrilling; the pristine ocean beaches are dune-swept and wide. Best of all, the charms of Sandy Hook, the narrow barrier peninsula that juts northeast from New Jersey to form the harbor's eastern border, don't stop with its coastline. It's a diverse national park, part of the Gateway National Recreation Area, with thriving bird sanctuaries, a dense maritime holly forest laced with hiking trails, fishing spots brimming with striped bass and bluefish, the oldest operating lighthouse in America and a historic military fort with ghostly abandoned barracks and gun batteries."
+,"The best way to do it all is to take your bicycle along for the ferry ride and to take advantage of yet another perk: the bike path completed last fall. It's a smooth tar ribbon that wends its way along the scenic length of Sandy Hook. Plus, having your own wheels allows you to finish off your day with a delightful reward: a waterside seafood feast in Highlands, a small beach town nestled into the crook of Sandy Hook Bay that's easily accessible by pedaling over a drawbridge at the beach's southern exit. The town even has its own ferry stop, allowing you to head home right from there if you're too tired to pedal back to the beach."
+,"The seaside adventure begins in Manhattan, where two companies - SeaStreak and New York Waterway - offer beach-bound ferry service on weekends. (Although the service to Sandy Hook itself continues only through Labor Day, SeaStreak, which is geared toward commuters, also has year-round rides to the Highlands, allowing another approach to the peninsula.)"
+,"The summer ferry trip is a peaceful, quick and car-free excursion that's captured the interest of many urbanites this season, even on a recent overcast morning in July that was far from a beach day. A determined crowd - people from Manhattan and Queens and tourists from France and Spain - boarded the SeaStreak Ferry at Pier 11 on Wall Street, some traveling with bicycles or babies in strollers, most toting beach gear."
+,"\"I've been living in New York all my life, and I've never seen a clean beach,\" said Jahvarn Campbell, a 23-year-old business student from Washington Heights, who rode on the top deck with his girlfriend, Kris Dirks, a student from the Netherlands. \"This one is supposed to actually be clean.\" (His information was correct; Sandy Hook's beaches really are clean.)"
+,"Also on the ferry was Carolyn LaMargo, a 38-year-old photographer and social worker from the Upper West Side, who said that she and her husband were determined to use the cloudy afternoon toward their never-ending summer goal: \"to find outdoor weekend getaways that are accessible and where you can breathe.\""
+,"Breathing came easily as the ferry zipped alongside downtown Manhattan and Brooklyn, slipped dramatically under the glorious Verrazano Bridge and then entered a pocket of fog before arriving at the surreal shores of Sandy Hook Bay."
+,"\"Yes, folks, this is the beach!\" the SeaStreak captain confirmed over his speaker."
+,"He was easing the minds of first-time passengers, who stood silent and confused as the ferry pulled up to a dock that fronted not a beachy paradise, but a row of eerily quiet former yellow-brick officers' quarters, stoic leftovers from what was once the Army's historic Fort Hancock. The beaches lay in wait nearby, on the other side of the peninsula, and a free shuttle bus was idling and ready to whisk those without bicycles on the three-minute ride. A patient park ranger, Connie Witherby, was also stationed by the shore, doling out advice on everything from the bird sanctuaries to Gunnison Beach, where clothing is optional. \"And it's actually a pretty mellow place to go, if you're into that,\" she said."
+,"YOU can begin your peaceful pedal at the start of the \"multiuse path,\" a conduit for cyclists, runners and bladers. This section is the newest and smoothest, taking you past the gleaming bay, dotted with fishing boats and wading birds, on your right. Soon you'll arrive at Fort Hancock, established to guard New York Harbor shipping channels in 1895. A small museum documents the fort's history and displays a scale model of Sandy Hook. Just behind the museum is the white Sandy Hook Lighthouse, built in 1764."
+,"\"This puppy's strong,\" said Johnnie Walker, a volunteer guide, as he tapped on the thick brick walls just inside the lighthouse's entrance and explained that the structure had withstood cannon fire during the Revolutionary War. Mr. Walker and others lead weekend tours that climb the lighthouse's 101 stairs to gather at the top around its glass-enclosed 1,000-watt bulb (visible from as far as 19 miles at sea) and catch spectacular views of the park - and, on a clear day, the city skyline."
+,"Bird fans can continue on to the nearby Sandy Hook Bird Observatory, run by the New Jersey Audubon Society. Here they can chat with experts about current sightings - the mute swan, the green heron and the Eurasian collared dove have all made appearances this season - and pick up a free map of birding hot spots, like the Hook's Plum Island and the sandy Old Dune Trail, which is also great for hikers."
+,"From the bird observatory, you can ride for the pleasure of riding - through the shady forest, lush with holly trees, beach plums and odd patches of prickly pear cactuses; along mud flats, grasslands and shrub thickets; and past strange reminders of the region's military past, like the Ajax Nike Missile display that pops up just before the Sandy Hook Visitor Center, a good place to orient yourself midride and also the starting point for a wealth of public programs, from nature hikes to bicycle tours. Military buffs can take guided tours of barracks and weapons sites from here on weekends."
+,"All this does not replace the sand and the surf, of course, which could easily fill your day. There are mellow beaches both seaside and bayside. And you'll find full-amenity beaches aplenty, with lifeguards, snack bars, bathrooms and showers; Area D has a casual bar and restaurant, the Sea Gulls' Nest, where you can enjoy fried clams and a beer on a rooftop dining deck."
+,"For a more serious meal, though, continue biking right off the peninsula, over the Navesink River drawbridge and onto the mainland. There's no bike path there, so use caution while riding on the road. Turn right on the other side of the bridge and roll down a scenic hill into the small town of Highlands, where a row of waterfront restaurants awaits."
+,"The Inlet Caf\u00E9 has an extensive seafood menu, with excellent crab cakes and salads, and a dining patio where you can gaze back at the length of Sandy Hook, which you've spent your day exploring. If you're up for a final bit of touring, you can bike back under the bridge and up a steep hill to the town's proud historic site: the Twin Lights, a double lighthouse built of local brownstone in 1828. From the top, and if it's clear, you'll see the Manhattan skyline, a quick preview of the up-close glimpse you'll have from the next ferry leaving Highlands."
+,"If You Go"
+,"SANDY HOOK is 30 to 45 minutes from Manhattan by ferry. SeaStreak (800-262-8743; www.seastreak.com) and New York Waterway (800-533-3779; www.nywaterway.com) go to Sandy Hook weekends through Labor Day. SeaStreak goes to Highlands, daily and year-round. Fares: about $30 round-trip adults, $15 children; bikes extra."
+,"Sandy Hook is part of the Gateway National Recreation Area (732-872-5970, www.nps.gov\/gate). The visitor center is open from 10 a.m. to 5 p.m. daily. The Fort Hancock Museum is open 1 p.m. to 5 p.m. daily in summer and weekends the rest of the year; admission is free. The Sandy Hook Lighthouse is open for tours, which are free, in July and August 1 p.m. to 4 p.m. Monday through Friday and noon to 4 p.m. weekends."
+,"The multiuse path is 5.5 miles long."
+,"The New Jersey Audubon Society Sandy Hook Bird Observatory (732-872-2500; www.njaudubon.org\/centers\/shbo) is open 10 a.m. to 5 p.m. Tuesday through Friday and 10 a.m. to 3 p.m. on weekends."
+,"The Twin Lights Historic Site (732-872-1814) is open 10 a.m. to 5 p.m. daily Memorial Day through Labor Day and 10 a.m. to 5 p.m. Wednesday to Sunday September through May. Admission is free."
+,""
+]
+}
+}
+,	{
+"id": "6-68",
+"archived": false,
+"title": "Go Rock Climbing in the 'Gunks'",
+"created": "2010-08-25T10:05:41-0400",
+"updated": "2010-09-14T10:21:25-0400",
+"description": "If you've ever dreamed of being Spiderman, head to upstate New York and go rock climbing in the Gunks, an adventure suited to people with sticky fingers and no fear of heights. Rock climbers travel from all over the world to what is officially called the Shawangunk Ridge, a mass of conglomerate rock near New Paltz, N.Y. Climbers put up routes here beginning in the 1930s, and now beginners and veterans alike can find hundreds of challenges with great views. (First-timers would be wise to hire the guide.) If scaling rock walls seems daunting, the area offers wonderful opportunities for hiking and mountain biking, as well.",
+"how-to-get-there": "Transit info: About two hours by car.",
+"author": "Louise Story",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Shawangunk Ridge",
+"foursquare-venue-id": 24662,
+"website": "mohonkpreserve.org\/index.php",
+"phonenumber": "(845) 255-0919",
+"crossstreet": null,
+"neighborhood": null,
+"street": "3197 Route 44\/55",
+"city": "Gardiner",
+"zip": "12525",
+"state": "NY",
+"latitude": "41.7348",
+"longitude": "-74.18706"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/aqKrqq",
+"title": "Dads and Daughters Scale the Gunks in Upstate New York",
+"byline": "By LOUISE STORY",
+"pubdate": "2010-07-09T01:30:09-0400",
+"stars":
+0	,
+"text": [
+"SURROUNDED by three teenage girls and their fathers, a rock climbing guide calls out the ABC\u2019s of the sport: A is for anchor; B is for buckle; C, carabiner; and so on, until she gets to G and H."
+,"\"God help me,\" Michael Suscello, one of the fathers, declares, as the group erupts in laughter."
+,"The right answer - \"Got helmet\" - sparks even more jabs and jokes. As Mr. Suscello awkwardly puts his on, his 12-year-old daughter, Nicole, proclaims, \"Dad looks really funny!\""
+,"And so it went one muggy day this summer, as three middle-aged friends and their daughters gathered to experience some conglomerate rock in upstate New York."
+,"The Shawangunk Ridge, as this part of the Appalachians is called, is an easy two-hour drive from Manhattan, and many city climbers go up there for day trips. The area, affectionately called the Gunks, is the subject of much climbing lore, from the first ascents with rudimentary gear in the 1930s to the 1960s climbers known as the Vulgarians, who shocked traditional mountaineers by sometimes climbing naked. Today the Gunks are one of the best climbing areas on the Northeast, partly because of the wide range of routes there - some for beginners and many for the advanced."
+,"The three friends, all 47, went to high school together on Long Island more than 30 years ago and have kept in touch with near weekly phone calls ever since, even though they ended up living in different states (Maryland, Georgia and Texas). One, Jay Haller, began rock climbing in college and went to the Gunks then. It was his idea to take his old pals, Mr. Suscello and Rich Smalling, climbing novices both, for a day of father-daughter bonding on the cliffs."
+,"This was a departure from an otherwise typical tourist itinerary in the city. Fresh from seeing Ellis Island and the Broadway musical \"West Side Story,\" the group made its way to New Paltz, the town nearest the Gunks. A hippie vibe prevails there, and a long day of climbing is best followed by a stop at one of its burger pubs or vegan cafes."
+,"But first there were rocks to scale. The dads and daughters picked up gear like helmets, harnesses and climbing shoes from Rock & Snow, a climbers\u2019 hub in town. That\u2019s where they arranged to meet two guides from Alpine Endeavors, one of a handful of guiding services in New Paltz, whom they had hired to show them the ropes, literally."
+,"The guides selected Peter\u2019s Kill, an area with plenty of beginners\u2019 routes that\u2019s a short walk from the parking lot. These particular rocks have a sloping back that can be walked up, but the other side presents a steep vertical challenge. One guide hiked behind the rocks and secured a handful of ropes to the top. The guide lowered the ropes, and it was time to get started."
+,"Mr. Suscello, the least experienced of the group, hesitantly approached the wall. Mr. Smalling scurried closer for a view of his old friend, declaring, \"I\u2019d pay money to see this,\" and recounted stories about how he used to steal Mr. Suscello\u2019s lunch."
+,"Ignoring the tales from high school glory days, Mr. Suscello stayed focused on the wall. Down below, his daughter, Nicole, held onto the rope, which was attached to her harness using a carabiner and another climbing device. She was anchored - tied onto a rock - on the ground because of their weight difference. Climbers of more similar weights do not have to go to such lengths. Periodically, Mr. Suscello looked back at her, eyes wide, and said, \"You got me, Nikki?\" She nodded."
+,"\"It\u2019s one of those unique experiences you can have, when you\u2019re depending on your daughter to support you,\" says Myriam Bouchard, one of the guides, who climbs in her spare time with her son. \"There\u2019s a whole bonding and trust thing. Not all parents can do it, but this is a great group.\""
+,"The first climb was a cinch, especially because, in an unusual twist, the group was allowed to use an adjacent tree as added support. But the next ones were harder. One went up a corner on the rock. The climbers had to fold their arms and legs around the sides as if they were giving it a full-body bear hug."
+,"Another route was in a narrow corridor between two rocks, roughly 100 feet high. The girls loved this one. With their backs against one rock and feet against the other, they wiggled up like inchworms."
+,"To the uninitiated, these tactics sound crazy. Just the thought of hanging 10 or 20 feet, or more, off the ground can churn some stomachs. But if you can trust the ropes and your climbing partner, the experience is exhilarating. There\u2019s a peacefulness to studying the rock in front of you and finding the pattern of holds that will take you up."
+,"Looking for patterns became all the more important when the fathers and daughters hit a difficult climb. One of the girls, Marina Smalling, 13, declared it impossible. (And, she explained, it gave her a \"wedgie extraordinaire.\")"
+,"Mr. Haller and his daughter, Kate, 16, the most experienced climbers, took it on as a challenge, despite the crew of spiders on the wall. Like Gumby, Kate stretched her legs out in a V as far as they could reach and tried to make it to the second hold. It was tough, and she stumbled. But she kept on trying."
+,"The Smallings and the Suscellos were on either side, on their own climbs. Periodically, the dads looked at each other and grinned. Marina, holding the rope below her father, cheered him on, \"Go, Dad!\" At one point Mr. Smalling fell, flinging Marina off the ground, but just a few feet - the anchor stopped her from flying farther. Father and daughter laughed and laughed as they both hung, safe together."
+,"Once the Hallers conquered the difficult climb, Marina decided to give it another try. The Hallers had brought out her competitive spirit, and they stood by, giving pointers. Marina\u2019s not as tall as Kate, but she found ledges closer together and gingerly stepped onto them. Slowly but surely, she got up the wall, wedgie be darned."
+,"As her father lowered her, Marina beamed. She had accomplished the final climb of the day. Mr. Haller proclaimed: \"You performed the impossible. You said it yourself: it\u2019s impossible, it can\u2019t be done. But you did it.\""
+,"Resources:"
+,"BOOK \"The Climber\u2019s Guide to the Shawangunks\" (Vulgarian Press), by Dick Williams."
+,"WEB SITES Mohonkpreserve.org (click on \"climbing\") also offers information; Lakeminnewaska.org\/climbmap.html has information on Peter\u2019s Kill."
+,"EQUIPMENT AND MORE Rock & Snow, 44 Main Street, New Paltz, N.Y.; (845) 255-1311, rockandsnow.com."
+,"Guide Services:"
+,"ALPINE ENDEAVORS (877) 486-5769, alpineendeavors.com."
+,"EASTERN MOUNTAIN SPORTS (800) 310-4504, emsclimb.com."
+,"HIGH XPOSURE ADVENTURES (800) 777-2546, high-xposure.com."
+,"MOUNTAIN SKILLS (845) 853-5450, mountainskills.biz"
+,"Where to eat:"
+,"BACCHUS RESTAURANT 4 South Chestnut Street, New Paltz, N.Y.; (845) 255-8636, bacchusnewpaltz.com."
+,"MAIN STREET BISTRO 59 Main Street, New Paltz, N.Y.; (845) 255-7766, mainstreetbistro.com."
+,"KARMA ROAD 11 Main Street, New Paltz, N.Y.; (845) 255-1099, karmaroad.net."
+]
+}
+}
+,	{
+"id": "6-69",
+"archived": false,
+"title": "Experience Farm Life at Stone Barns",
+"created": "2010-08-25T10:05:47-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "A good day trip should be a rejuvenating antidote to city life, so leave the skyscrapers and subways behind and spend the day watching pigs forage and cows graze. The Stone Barns Center for Food and Agriculture, once a Rockefeller family dairy, is now a working farm and education center that aims to reconnect people with their food by promoting community-based agriculture. Despite the high-minded mission, a tour of Stone Barns never feels preachy or dull. The beautiful property has greenhouses, gardens and fields to explore, and plenty of animals to fawn over. The center offers a variety of walks, workshops and lectures, but visitors are also welcome to roam free range on self-guided tours. Once you\u2019ve seen how the food is produced, enjoy it: Gourmands make pilgrimages (and weeks-out reservations) to eat at chef Dan Barber\u2019s slow locavore Blue Hill at Stone Barns, but for a simpler midday snack, the Stone Barns Cafe offers tasty light fare.",
+"how-to-get-there": "Transit info: Approximately 40 minutes by train, then a 10-minute taxi ride. Take Metro North's Hudson line to Tarrytown. Taxis are often available at the train station.",
+"author": "Alice DuBois",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Stone Barns Center for Food and Agriculture",
+"foursquare-venue-id": 71133,
+"website": "stonebarnscenter.org",
+"phonenumber": "(914) 366-6200",
+"crossstreet": null,
+"neighborhood": null,
+"street": "630 Bedford Road",
+"city": "Pocantico Hills",
+"zip": "10591",
+"state": "NY",
+"latitude": "41.10404",
+"longitude": "-73.82878"	}
+],
+"images":
+null
+}
+,	{
+"id": "6-70",
+"archived": false,
+"title": "Walk Among Sculptures at Storm King",
+"created": "2010-08-25T10:05:53-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "The Storm King Art Center in Mountainville, N.Y., is one of America\u2019s premier outdoor sculpture parks. Set on 500 acres of meadows and woodlands near the Hudson River, it holds a permanent collection of classic modern and contemporary works by Alexander Calder, Henry Moore, David Smith and others. Maya Lin\u2019s recent site-specific commission, \u201CStorm King Wavefield,\u201D is spectacular, its rows of undulating earthen mounds echoing the shapes of the surrounding hills. Storm King is open from April 1 to mid-November and changes dramatically with the seasons. You can't pick a bad time to visit: the sight of its grand sculptures set against fields and sky is always a thrill. Wear comfy shoes, pack a lunch, make a day of it. You\u2019ll be very glad you did.",
+"how-to-get-there": "Transit info: Approximately 90 minutes by bus. Short Line offers day packages from Port Authority.",
+"author": "Holland Cotter",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Storm King Art Center",
+"foursquare-venue-id": 53384,
+"website": "stormking.org",
+"phonenumber": "(845) 534-3115",
+"crossstreet": null,
+"neighborhood": null,
+"street": "Old Pleasant Hill Road",
+"city": "Mountainville",
+"zip": "10953",
+"state": "NY",
+"latitude": "41.42817",
+"longitude": "-74.06362"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/c3npfQ",
+"title": "Sandy Hook, So Close to Manhattan, So Far Away in Spirit",
+"byline": "By BETH GREENFIELD",
+"pubdate": "2005-08-05T00:00:00-0400",
+"stars":
+0	,
+"text": [
+"SOMETIMES getting to the beach takes so much energy that it hardly seems worth the trip. Not so when the goal is Sandy Hook, a seven-mile stretch of paradise that's accessible from Manhattan with a ferry ride of about 30 minutes."
+,"The speedy trip across New York Harbor is thrilling; the pristine ocean beaches are dune-swept and wide. Best of all, the charms of Sandy Hook, the narrow barrier peninsula that juts northeast from New Jersey to form the harbor's eastern border, don't stop with its coastline. It's a diverse national park, part of the Gateway National Recreation Area, with thriving bird sanctuaries, a dense maritime holly forest laced with hiking trails, fishing spots brimming with striped bass and bluefish, the oldest operating lighthouse in America and a historic military fort with ghostly abandoned barracks and gun batteries."
+,"The best way to do it all is to take your bicycle along for the ferry ride and to take advantage of yet another perk: the bike path completed last fall. It's a smooth tar ribbon that wends its way along the scenic length of Sandy Hook. Plus, having your own wheels allows you to finish off your day with a delightful reward: a waterside seafood feast in Highlands, a small beach town nestled into the crook of Sandy Hook Bay that's easily accessible by pedaling over a drawbridge at the beach's southern exit. The town even has its own ferry stop, allowing you to head home right from there if you're too tired to pedal back to the beach."
+,"The seaside adventure begins in Manhattan, where two companies - SeaStreak and New York Waterway - offer beach-bound ferry service on weekends. (Although the service to Sandy Hook itself continues only through Labor Day, SeaStreak, which is geared toward commuters, also has year-round rides to the Highlands, allowing another approach to the peninsula.)"
+,"The summer ferry trip is a peaceful, quick and car-free excursion that's captured the interest of many urbanites this season, even on a recent overcast morning in July that was far from a beach day. A determined crowd - people from Manhattan and Queens and tourists from France and Spain - boarded the SeaStreak Ferry at Pier 11 on Wall Street, some traveling with bicycles or babies in strollers, most toting beach gear."
+,"\"I've been living in New York all my life, and I've never seen a clean beach,\" said Jahvarn Campbell, a 23-year-old business student from Washington Heights, who rode on the top deck with his girlfriend, Kris Dirks, a student from the Netherlands. \"This one is supposed to actually be clean.\" (His information was correct; Sandy Hook's beaches really are clean.)"
+,"Also on the ferry was Carolyn LaMargo, a 38-year-old photographer and social worker from the Upper West Side, who said that she and her husband were determined to use the cloudy afternoon toward their never-ending summer goal: \"to find outdoor weekend getaways that are accessible and where you can breathe.\""
+,"Breathing came easily as the ferry zipped alongside downtown Manhattan and Brooklyn, slipped dramatically under the glorious Verrazano Bridge and then entered a pocket of fog before arriving at the surreal shores of Sandy Hook Bay."
+,"\"Yes, folks, this is the beach!\" the SeaStreak captain confirmed over his speaker."
+,"He was easing the minds of first-time passengers, who stood silent and confused as the ferry pulled up to a dock that fronted not a beachy paradise, but a row of eerily quiet former yellow-brick officers' quarters, stoic leftovers from what was once the Army's historic Fort Hancock. The beaches lay in wait nearby, on the other side of the peninsula, and a free shuttle bus was idling and ready to whisk those without bicycles on the three-minute ride. A patient park ranger, Connie Witherby, was also stationed by the shore, doling out advice on everything from the bird sanctuaries to Gunnison Beach, where clothing is optional. \"And it's actually a pretty mellow place to go, if you're into that,\" she said."
+,"YOU can begin your peaceful pedal at the start of the \"multiuse path,\" a conduit for cyclists, runners and bladers. This section is the newest and smoothest, taking you past the gleaming bay, dotted with fishing boats and wading birds, on your right. Soon you'll arrive at Fort Hancock, established to guard New York Harbor shipping channels in 1895. A small museum documents the fort's history and displays a scale model of Sandy Hook. Just behind the museum is the white Sandy Hook Lighthouse, built in 1764."
+,"\"This puppy's strong,\" said Johnnie Walker, a volunteer guide, as he tapped on the thick brick walls just inside the lighthouse's entrance and explained that the structure had withstood cannon fire during the Revolutionary War. Mr. Walker and others lead weekend tours that climb the lighthouse's 101 stairs to gather at the top around its glass-enclosed 1,000-watt bulb (visible from as far as 19 miles at sea) and catch spectacular views of the park - and, on a clear day, the city skyline."
+,"Bird fans can continue on to the nearby Sandy Hook Bird Observatory, run by the New Jersey Audubon Society. Here they can chat with experts about current sightings - the mute swan, the green heron and the Eurasian collared dove have all made appearances this season - and pick up a free map of birding hot spots, like the Hook's Plum Island and the sandy Old Dune Trail, which is also great for hikers."
+,"From the bird observatory, you can ride for the pleasure of riding - through the shady forest, lush with holly trees, beach plums and odd patches of prickly pear cactuses; along mud flats, grasslands and shrub thickets; and past strange reminders of the region's military past, like the Ajax Nike Missile display that pops up just before the Sandy Hook Visitor Center, a good place to orient yourself midride and also the starting point for a wealth of public programs, from nature hikes to bicycle tours. Military buffs can take guided tours of barracks and weapons sites from here on weekends."
+,"All this does not replace the sand and the surf, of course, which could easily fill your day. There are mellow beaches both seaside and bayside. And you'll find full-amenity beaches aplenty, with lifeguards, snack bars, bathrooms and showers; Area D has a casual bar and restaurant, the Sea Gulls' Nest, where you can enjoy fried clams and a beer on a rooftop dining deck."
+,"For a more serious meal, though, continue biking right off the peninsula, over the Navesink River drawbridge and onto the mainland. There's no bike path there, so use caution while riding on the road. Turn right on the other side of the bridge and roll down a scenic hill into the small town of Highlands, where a row of waterfront restaurants awaits."
+,"The Inlet Caf\u00E9 has an extensive seafood menu, with excellent crab cakes and salads, and a dining patio where you can gaze back at the length of Sandy Hook, which you've spent your day exploring. If you're up for a final bit of touring, you can bike back under the bridge and up a steep hill to the town's proud historic site: the Twin Lights, a double lighthouse built of local brownstone in 1828. From the top, and if it's clear, you'll see the Manhattan skyline, a quick preview of the up-close glimpse you'll have from the next ferry leaving Highlands."
+,"If You Go"
+,"SANDY HOOK is 30 to 45 minutes from Manhattan by ferry. SeaStreak (800-262-8743; www.seastreak.com) and New York Waterway (800-533-3779; www.nywaterway.com) go to Sandy Hook weekends through Labor Day. SeaStreak goes to Highlands, daily and year-round. Fares: about $30 round-trip adults, $15 children; bikes extra."
+,"Sandy Hook is part of the Gateway National Recreation Area (732-872-5970, www.nps.gov\/gate). The visitor center is open from 10 a.m. to 5 p.m. daily. The Fort Hancock Museum is open 1 p.m. to 5 p.m. daily in summer and weekends the rest of the year; admission is free. The Sandy Hook Lighthouse is open for tours, which are free, in July and August 1 p.m. to 4 p.m. Monday through Friday and noon to 4 p.m. weekends."
+,"The multiuse path is 5.5 miles long."
+,"The New Jersey Audubon Society Sandy Hook Bird Observatory (732-872-2500; www.njaudubon.org\/centers\/shbo) is open 10 a.m. to 5 p.m. Tuesday through Friday and 10 a.m. to 3 p.m. on weekends."
+,"The Twin Lights Historic Site (732-872-1814) is open 10 a.m. to 5 p.m. daily Memorial Day through Labor Day and 10 a.m. to 5 p.m. Wednesday to Sunday September through May. Admission is free."
+,""
+]
+}
+}
+,	{
+"id": "6-71",
+"archived": false,
+"title": "Lose Your Head at Washington Irving's Home",
+"created": "2010-08-25T09:52:52-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "Washington Irving was America's first international literary superstar. His home, called Sunnyside, is an unexpectedly cohesive mix of Scottish, Dutch and Moorish styles. Set along the banks of the Hudson, Sunnyside has rambling, naturalistic landscaping (Irving recommended Frederick Law Olmstead for the design of a little park in the middle of Manhattan) that will have you looking for headless horseman and long-napping gents around every corner. PS.: If you have a car, this trip can be easily combined with Lyndhurst, in neighboring Tarrytown. PPS.: Sunnyside is closed to visitors from late December until April, so call or check their Web site before you go.",
+"how-to-get-there": "Transit info: Approximately 45 minutes by train, then a five-minute taxi ride. Take Metro-North's Hudson line to Tarrytown. Taxis are often available at the station.",
+"author": "Sam Grobart",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Sunnyside",
+"foursquare-venue-id": 2381749,
+"website": "hudsonvalley.org\/content\/view\/13\/43\/",
+"phonenumber": "(914)631-8200",
+"crossstreet": null,
+"neighborhood": null,
+"street": "3 West Sunnyside Lane",
+"city": "Irvington",
+"zip": "10533",
+"state": "NY",
+"latitude": "41.046541",
+"longitude": "-73.864"	}
+],
+"images":
+null
+}
+,	{
+"id": "6-72",
+"archived": false,
+"title": "See a Drive-In Movie in Warwick",
+"created": "2010-08-25T10:06:11-0400",
+"updated": "2010-08-25T12:41:15-0400",
+"description": "Going to a drive-in movie is technically a night trip rather than a day trip, but the Warwick Drive-In Theater makes this list anyway because watching a movie from the comfort of a parked car is a memorable outing \u2014 an activity that is both ridiculous and sublime. Prepare yourself for a different movie-viewing etiquette, where talking during the movie won't disturb your neighbors, but stepping on your brake pedal will. The theater, the closest drive-in to New York City, has three screens showing first-run movies.",
+"how-to-get-there": "Transit info: About 90 minutes by car.",
+"author": "Alice DuBois",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Warwick Drive-In Theater",
+"foursquare-venue-id": 2199756,
+"website": "webusers.warwick.net\/~u1006131\/driveinmovie\/",
+"phonenumber": "(845) 986-4440",
+"crossstreet": null,
+"neighborhood": null,
+"street": "5 Warwick Turnpike",
+"city": "Warwick",
+"zip": "10990",
+"state": "NY",
+"latitude": "41.23598",
+"longitude": "-74.38221"	}
+],
+"images":
+null
+}
+,	{
+"id": "6-73",
+"archived": false,
+"title": "Go Wine Tasting on the North Fork",
+"created": "2010-08-25T10:06:17-0400",
+"updated": "2010-08-25T09:58:44-0400",
+"description": "The North Fork of Long Island will never be New York's Napa Valley, thank goodness. It retains the rustic, rural charm of an agricultural community even as the reputation of Long Island wines grows. Nonetheless, many wineries welcome visitors. Top choices include Paumanok in Aquebogue, Lenz in Peconic, Bedell Cellars in Cutchogue and Shinn Estate in Mattituck.",
+"how-to-get-there": "Transit info: Approximately two hours by car.",
+"author": "Eric Asimov",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Paumanok Vineyards",
+"foursquare-venue-id": null,
+"website": "paumanok.com",
+"phonenumber": "(631) 722-8800\u200E",
+"crossstreet": null,
+"neighborhood": null,
+"street": "1074 Main Road",
+"city": "Aquebogue",
+"zip": "11931",
+"state": "NY",
+"latitude": "40.94871",
+"longitude": "-72.60285"	}
+,{
+"venue": "Lenz Winery",
+"foursquare-venue-id": null,
+"website": "lenzwine.com",
+"phonenumber": "(631) 734-6010\u200E",
+"crossstreet": null,
+"neighborhood": null,
+"street": "38355 Main Road",
+"city": "Peconic",
+"zip":	"11958",
+"state": "NY",
+"latitude": "41.03474",
+"longitude": "-72.46342"	}
+,{
+"venue": "Bedell Cellars",
+"foursquare-venue-id": null,
+"website": "bedellcellars.com",
+"phonenumber": "(631) 734-7537",
+"crossstreet": null,
+"neighborhood": null,
+"street": "36225 Main Road",
+"city": "Cutchogue",
+"zip":	"11935",
+"state": "NY",
+"latitude": "41.02888",
+"longitude": "-72.46883"	}
+,{
+"venue": "Shinn Estate Vineyards",
+"foursquare-venue-id": null,
+"website": "shinnestatevineyards.com",
+"phonenumber": "(631) 804-0367",
+"crossstreet": null,
+"neighborhood": null,
+"street": "2000 Oregon Road",
+"city": "Mattituck",
+"zip":	"11952",
+"state": "NY",
+"latitude": "41.01501",
+"longitude": "-72.53233"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/aWFUKr",
+"title": "Bucolic Delights of \u0091Not Hampton\u0092 on Long Island",
+"byline": "By FLORENCE FABRICANT",
+"pubdate": "2006-08-02T00:00:00-0400",
+"stars":
+0	,
+"text": [
+"FOR 10 years or so I have been hearing that the North Fork of Long Island has arrived. The wineries that have opened since 1973 - 27 now, with 4 on the way - have attracted tourists. And there have long been farm stands laden with fresh produce and homemade pickles and jams. But the supply of country inns and fine restaurants was too limited to make the region a complete food and wine destination."
+,"Last year the restaurant scene brightened, and now it has hit its stride. The new restaurants - notably North Fork Table, Jedediah's and Vine - complement the region's bucolic allure, seaside sparkle and small-town charm by proudly serving what is locally produced."
+,"Still, the North Fork remains the \"un-Hamptons,\" not only because it lacks the South Fork's celebrities but because it is endowed with two main thoroughfares, not just a single infernal road like Montauk Highway, which snakes along the South Fork. A visit for a day or two is easy, going east from Riverhead and back, one way on Main Road (Route 25), and the other on the truck route (Route 48, also called Sound Avenue and North Road). Colonial-era villages are strung along Main Road, but both routes are dotted with wineries and farm stands. A food and wine trip from Riverhead to East Marion, just shy of Orient, is about 25 miles."
+,"East of Riverhead on the truck route is Briermere Farms and its famous homemade fruit pies. A bit farther is a new farm, Garden of Eve, one of the few on the Fork that grow organic corn. It makes up for its lack of commercial polish with jars of delicious homemade pickled baby beets ($8)."
+,"Past a string of wineries and farms is the Catapano Dairy Farm in Peconic. Its soft, lightly tangy ch\u00E8vre ($7 for 4.8 ounces) was named best goat cheese by the American Cheese Society in 2005. Sang Lee Farms in Peconic is one of my favorites for Asian greens and, in September, its edamame."
+,"Continuing on this route you will brush Long Island Sound, bypass Greenport and reach East Marion. There, Lavender by the Bay, open on weekends, has six acres planted with 18 kinds of fresh lavender ($7 a bunch) and sells lavender honey, $9 for eight ounces. In late August, a new crop will be ready for pick-your-own ($6 a bunch)."
+,"For dining you'll need Main Road, where the choices are now abundant."
+,"Greenport, where ferries to Shelter Island tie up, is the busy hub that anchors Main Road in the east. In addition to the well-established Frisky Oyster, with its sophisticated menu of local ingredients, and Scrimshaw, where the attraction is Asian dumplings, it now has Vine, an appealing little wine bar in a house with a breezy porch. It serves cheese plates, North Fork oysters, charcuterie and salads to pair with wines by the glass."
+,"To the west, in Southold, the North Fork Table and Inn, which opened in May, brings dining cachet to the area. Gerry Hayden, who worked at Aureole and Amuse in New York, and his wife, Claudia Fleming, a former pastry chef at Gramercy Tavern, have joined two partners in turning a French restaurant into a gracious tavern-style dining room in an 18th-century building."
+,"A menu rooted in the region offers food that is full of flavor, with dishes like sashimi of fluke with pink grapefruit, Atlantic black sea bass on a bed of potato and fava bean pur\u00E9e, Long Island duck breast with figs, and peach-cherry cobbler. It has a selection of food-friendly North Fork wines to match. Upstairs are four pretty guest rooms."
+,"Eon is a new inn and spa with a tailored little restaurant in a farmhouse in Southold."
+,"Part of the North Fork experience is visiting the wineries. (Information is available at liwine.com.) With a stop at Corey Creek on Main Road in Southold you can pick up a case of summery Domaines CC ros\u00E9 ($10 a bottle) that will transport you to Provence. In Peconic, to the west, is the Tasting Room, a cooperative where wines from five or more small wineries can be sampled."
+,"Still on Main Road heading west, in Cutchogue, is Wickham's Fruit Farm, owned by the descendants of a family that settled there in the 17th century. The stand is known for its fruit, but the corn, tomatoes, jams, pies and doughnuts should not be ignored. This season's pick-your-own blackberries, peaches and apples are yet to come."
+,"Close to Riverhead, in Jamesport, Jedediah Hawkins, a sea captain, built a house in 1863. It was occupied until the mid-1900's, then rescued from the wrecker's ball in 2003. Elegantly restored, it opened in June as a six-bedroom inn with beautiful grounds and a fine restaurant, Jedediah's."
+,"Tom Schaudel, the chef and a partner, is another devotee of local ingredients in dishes like Pipes Cove oysters, Long Island duck with farro and blackberry shortcake. And at the end of dinner, especially if you are spending the night, you can go into the garden, or downstairs to the comfortable stone-walled tavern, and relax as you finish your glass of Long Island wine."
+,""
+]
+}
+}
+,	{
+"id": "6-74",
+"archived": false,
+"title": "Chill on the Jersey Shore",
+"created": "2010-08-25T10:06:29-0400",
+"updated": "2010-08-25T09:58:45-0400",
+"description": "If you think Asbury Park is just a dumpy beach resort immortalized by Bruce Springsteen, think again. The city has been evolving in recent years into a newly appealing summer weekend destination \u2014 or a year-round refuge \u2014 for an eclectic population. Like many places poised between decay and regeneration, Asbury Park bewitches with hints of faded charm as well as a growing array of creature comforts. Browse boutiques on Cookman Avenue, a funky retail stretch that feels a lot like the East Village in the 1980s. Or succumb to seductive retro amusements, like the Silverball Pinball Museum, a big basement rec room where dozens of classic pinball machines are kept in mint working condition, or Asbury Lanes, an appealingly scruffy bowling alley that\u2019s also one of the cutting-edge music spots in this music-rich town.",
+"how-to-get-there": "Transit info: About 90 minutes by car or two hours by train, on New Jersey Transit.",
+"author": "Charles Isherwood",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Asbury Park, N.J.",
+"foursquare-venue-id": null,
+"website": "cityofasburypark.com",
+"phonenumber": null,
+"crossstreet": null,
+"neighborhood": null,
+"street": null,
+"city": null,
+"zip": "null",
+"state": null,
+"latitude": "40.22285",
+"longitude": "-74.00185"	}
+],
+"images":
+null
+,
+"article": {
+"url": "http:\/\/nyti.ms\/b7PWyS",
+"title": "Asbury Park, N.J., a Seaside Resort of a Certain Age, Returns, Lovelier for a Few Warts",
+"byline": "By CHARLES ISHERWOOD",
+"pubdate": "2009-09-10T16:49:05-0400",
+"stars":
+0	,
+"text": [
+"ASBURY PARK, N.J."
+,"THE past stands vigil over the present in this once-faded beach resort that has been evolving in recent years into a newly appealing summer weekend destination - or a year-round refuge - for an eclectic population."
+,"At one end of the central stretch of boardwalk, the beautiful old convention hall, a gold-brick pile with delicate wedding-cake trim, announces \"Greetings From Asbury Park\" to Ocean Avenue and beyond in old-fashioned yellow lights. The phrase was immortalized by the local boy made good Bruce Springsteen (he grew up in nearby Freehold), as the title of his debut album back in 1973. At the other end rest the elegant shell of the casino and the carousel building, now sadly empty of carousel, as if the prancing horses had fled for more profitable pastures. (Dancing men moved in temporarily this summer: a production of the musical \"Full Monty\" from the ReVision Theater was preparing to open in the space when I visited.)"
+,"But in between these venerable landmarks much is bustling, busy and almost brand new. A high-end tchotchke emporium called Bodega sells fancy candles and vintage paperbacks with lurid covers in pristine condition. Furniture stores with trendy names like the Posh Den court sun-dazed beachgoers. Stella Marina, a giant, gleaming new trattoria, does frenzied business late into the night, just next door to an upstairs bar, Watermark, that almost looks like a transplant from Manhattan but with soothing views of the moon and stars over a silvered stretch of ocean."
+,"Like many cities and towns poised between decay and regeneration, Asbury Park bewitches with hints of faded charm as well as a growing array of creature comforts. Although it was a popular middle-class summer destination for much of the 20th century, it endured decades of economic decline following race riots in 1970. Talk of a revival has ebbed and flowed for the past several decades. As is often the case in a town in a process of renewal, gay men and lesbians have a significant presence and deserve considerable credit for the current reawakening."
+,"Today, as it happens, among the most welcoming aspects of Asbury Park is an easygoing embrace of all kinds of visitors and residents. Summer resorts often cater to niches of humanity. Well-heeled Manhattanites, for example, hie to the Hamptons. In Fire Island Pines it is not unusual to encounter a sculptured male beauty shopping for vegetables in a bikini, but a man and woman pushing a stroller along the wooden walkways would be a lot more surprising. On the beach at Asbury Park you cannot even be sure a rainbow-hued umbrella signifies anything. Black and white, gay and straight, child-ridden and child-free: there\u2019s a little of everything, and everyone seems to feel at home."
+,"Evidence of the quickening pace of renewal is hard to miss in these days, notwithstanding the economic tremors of the last year. New establishments pepper Cookman Avenue, a funky retail stretch and a nice place to dawdle away a day of beach fatigue. With its cluttered stores full of mid-century furniture, smartly chosen home collections and vintage clothing, the strip feels a lot like the East Village in the 1980s. The prices also inspire nostalgia for those more economically innocent times. Vintage T-shirts that would run you $50 or more in Manhattan can be had for considerably less at stores like B Unique, a new boutique with a retro-rock feeling."
+,"But there are also \"only in New Jersey\" novelties. Less than a year old is Paranormal Books and Curiosities, presided over by the amiable proprietor, Kathy Kelly, where you can buy a Ouija board, keep up with the latest in fang lit or sign up for a ghosts and legends walk through the city by night with an emphasis on its haunted history. (In 1934 a luxury liner returning to New York from Cuba, the Morro Castle, caught fire in mysterious circumstances during a storm at sea; it eventually drifted to the Asbury Park shore, where it became a macabre tourist attraction.)"
+,"Also new is the Silverball Pinball Museum, a big basement rec room where dozens of classic pinball machines are kept in mint working condition. Don\u2019t worry about bringing a roll of quarters. You pay by the hour ($10) or buy a longer pass and can flip to your heart\u2019s content. Placards note each machine\u2019s significance in the history of pinballing, as the simple wooden boxes of the 1950s morphed into the electronic monsters of the 1980s before the advent of video changed gaming for good."
+,"But anyone with even a vestige of affection for youthful days spent wasting the allowance with Captain Fantastic or whiling away a dull night at the bar trying to beat the top score on the Charlie\u2019s Angels machine won\u2019t be reading about arcade arcana for long. My inner forearms - for lack of the proper term - were sore for two days after just an hour of frenzied play."
+,"Nor do the city\u2019s seductive retro amusements stop at pinball. I also bowled for the first time in at least a decade at Asbury Lanes. Hipster alleys are not exactly novel these days in major cities, but this appealingly scruffy hall, in operation since 1961, blends its old-school amenities (skeevy bathroom included) and hipster credentials (a D.J. playing \u201980s New Wave) with an authenticity that doesn\u2019t seem strained. Here, you feel, the cool kids inevitably started hanging out because it was one of the few local places that stayed open late and served drinks."
+,"It is now one of the cutting-edge music spots in this music-rich town. A fierce funk-rock band was just concluding its set when a friend and I stepped in to escape the rain on a recent Saturday night. The bandstand is plopped on top of the middle lanes, but you can still bowl in the outer lanes. So we did, even as a nouveau-burlesque show took over the stage. Had I not needed all my wits to avoid the humiliation of repeated gutter balls, I\u2019m sure I would have taken more time to appreciate the dance stylings of Mlles. Gigi LaFemme, Sapphire Jones, Anita Cookie and Sizzle Dizzle."
+,"A lineup of such exotic handles you might almost expect to see on a drag bill at the Paradise club in the Empress Hotel, the great gaudy dowager that forms the centerpiece of gay nightlife in Asbury Park. Located just opposite the boardwalk on Ocean Avenue, this classically undistinguished bit of midcentury hotel architecture turns into a throbbing disco queen at night. Gem-colored lights play across the facade, and the crowd at the Paradise spills out into the pool area, where you can check out the men (and women) while idling on a lounge chair, or try to forestall a hangover with a barbecued burger."
+,"Odd juxtapositions - bowling and burlesque, burgers frying beside a pool at a gay bar, a spanking-new condo complex with views of a vacant lot dotted with cement slabs like tombstones - are a hallmark of today\u2019s Asbury Park. The city\u2019s revival may hit a few speed bumps, but it\u2019s comforting to be reminded that the most interesting times are often the least tidy."
+,"IF YOU GO"
+,"WHERE TO STAY"
+,"The Hotel Tides is (408 Seventh Avenue; 732-897-7744; hoteltides.com) sleek and newly renovated, this boutique hotel is tucked into a residential neighborhood 10 minutes\u2019 walk to the beach. Rooms are appointed in cool modern furnishings, and there\u2019s a full bar downstairs as well as an French fusion-theme restaurant and pool. Double rooms are about $200 during the summer season."
+,"WHERE TO EAT"
+,"Stella Marina (800 Ocean Avenue; 732-775-7776; stellamarinarestaurant.com) is big and loud, but the quality and range of its Italian menu - cicchetti, antipasti, pizza, pasta and secondi - is impressive. Entrees are all under $30, and pastas are $17. Reservations are recommended, but if you reserve, you won\u2019t necessarily have the option of sitting on the upstairs patio, which is quieter."
+,"Taka (632 Mattison Avenue; 732-775-1020; takaapnj.com) mixes a wide range of Japanese classics and more unusual fare like braised short ribs in an appealingly airy space a few minutes\u2019 walk from the beach. Entrees are under $30, but you need to bring your own beer or wine."
+,"Il Pavone Gelateria and Caffe (539 Cookman Avenue; 732-455-3373; ilpavonegelato.com) is a great place for a break along the city\u2019s most appealing retail strip, with excellent gelati."
+,"WHAT TO DO"
+,"Beach badges (information at 732-775-0900) are required; daily passes are $5 for those over age 12; seasonal rates are available."
+,"Asbury Lanes (209 Fourth Avenue; 732-776-6160; asburylanes.com) is your one-stop rock \u2019n\u2019 roll and bowling venue, with a cool bar too. The Web site has the lineup and hours of operation."
+,"Silverball Pinball Museum (639 Cookman Avenue; 732-774-4994; silverballmuseum.com) offers a break from the sun and a ticket to the careless pleasures of youth. Open until 9 p.m. on weeknights and 11 p.m. Friday and Saturday. $10 for an hour of unlimited play."
+]
+}
+}
+,	{
+"id": "6-76",
+"archived": false,
+"title": "Go Hiking in the Hudson Valley",
+"created": "2010-09-20T11:57:53-0400",
+"updated": "2010-09-20T11:56:29-0400",
+"description": "Breakneck Ridge in Hudson Highlands State Park is an outdoorsy New Yorker\u2019s dream. The terrain is challenging, the views of the Hudson River are spectacular and, on weekends, a Metro-North train stops right by the trailhead. The first mile of the hike is a steep scramble up the rocky mountainside, but there are plenty of ledges where you can pause for a breath and take in the incredible views. You\u2019ll see Storm King Mountain across the river and perhaps a gaggle of kayakers paddling out to Bannerman Castle on Pollepel Island. There are lots of trails in the park, so you can create routes of varying length and difficulty. Consult trail maps before you set out.",
+"how-to-get-there": "Transit info: On weekends, Metro-North runs two trains from Grand Central to Breakneck Ridge in the morning, and two trains again back in the evening (about 75 minutes each way.) Trains run more frequently to the nearby town of Cold Spring, which is on the trail network, making it a possible start or end point for a longer hike. The trip from New York by car takes about 75 minutes.",
+"author": "Alice DuBois",
+"top-info": null,
+"extra-info": null,
+"ticket-info": null,
+"category": null,
+"addresses": [
+{
+"venue": "Breakneck Ridge",
+"foursquare-venue-id": 3801425,
+"website": "http:\/\/nysparks.state.ny.us\/parks\/9\/details.aspx",
+"phonenumber": null,
+"crossstreet": null,
+"neighborhood": null,
+"street": "Route 9D, about two miles north of Cold Spring, N.Y.",
+"city": "Hudson Highlands State Park",
+"zip": "null",
+"state": "N.Y.",
+"latitude": "41.443245",
+"longitude": "-73.977943"	}
+],
+"images":
+null
+}
+]
+}
+}

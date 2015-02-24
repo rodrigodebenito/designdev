@@ -1,0 +1,185 @@
+@import url('http://graphics8.nytimes.com/css/common/global.css');
+@import url('/apps/css/common.css');
+
+#logo {
+	width:242px;
+	height:59px;
+	display:block;
+	clear:both;
+	position:absolute;
+	left:50px;
+	top:0;
+}
+
+
+#content {
+  float:left;
+  width:65%;
+  min-width:557px;
+
+}
+
+#meta {
+  float:right;
+  width:30%;
+  background:#efefef;
+  margin-top:0;
+	padding:10px;
+}
+
+.statusNo {
+	color:#A81817 !important;
+}
+
+.statusYes {
+	color:green !important;
+}
+
+.fileGroup {
+	background:transparent url(http://graphics8.nytimes.com/images/global/borders/aColumnHorizontalBorder.gif) repeat-x scroll left top !important;
+	margin-top:0;
+	padding-top:13px !important;
+}
+
+.fileGroup h2 {
+	font-size:18px;
+	margin-bottom:10px;
+}
+
+.fileGroup p {
+	margin-top:0;
+}
+
+.fileGroup.staging {
+	background-color:#efefef !important;
+	padding-left:5px;
+	padding-right:5px;
+	margin-top:20px;
+}
+
+.summary h1 {
+	margin-bottom:10px;
+	margin-top:5px;
+	font-size:22px;
+}
+
+.summary p {
+	margin:0 0 20px;
+}
+
+.blog_header {
+/*  border-top:1px solid #ccc;
+  padding:top:12px;
+*/  
+margin-bottom:20px;
+}
+
+.blog_header h2 {
+  font-size:14px;
+  font-weight:bold;
+
+  border-top:1px solid #ccc;
+  padding:10px 0;
+}
+
+.blog_header img.image  {
+  border:1px dashed #ccc;
+  display:block;
+  margin:0 auto 0;
+}
+
+.preview img  {
+  border:1px dashed #ccc;
+}
+
+#back {
+  text-transform:uppercase;
+  position:absolute;
+  right:0;
+  font-size:11px;
+  top:15px;
+}
+
+#back_bottom {
+	text-transform:uppercase;
+	text-align:right;
+	width:100%;
+	border-top:1px solid #ccc;
+	margin-top:20px;
+	padding:10px 0 0;
+	display:block;
+	font-size:11px;
+}
+
+#index li {
+  font-size:16px;
+  line-height:20px;
+}
+
+#info {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height:1.2em;
+  margin-top:0;
+}
+
+.filename {
+	width:45%;
+}
+
+.notBlog {
+	background:#efefef;
+	border-top:1px solid #fff;
+}
+
+.time {
+	width:150px;
+	font-size:11px;
+}
+
+.files {
+	font-size:11px;
+}
+
+.first td {
+	border-top:1px solid #ccc;
+}
+
+.thumb {
+	width:50px;
+}
+
+#index td {
+	vertical-align:middle;
+}
+
+.live {
+	width:50px;
+}
+
+a.copy,
+a.copy:visited {
+	border:1px solid #ccc;
+	padding:2px 5px 3px;
+	color:#000;
+	background:#fff;
+	font-size:11px;
+	top:-2px;
+	position:relative;
+}
+
+
+
+
+.fileGroup #index td {
+	border-top:1px solid #ddd;
+}
+
+.fileGroup #index th,
+.fileGroup #index .first td {
+	border-top:1px solid #ccc !important;
+}
+
+.fileGroup #index {
+	border-bottom:none;
+}
+

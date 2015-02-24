@@ -1,0 +1,280 @@
+<html>  
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<title>List-Tailor</title> 
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/imgareaselect-default.css" />
+	<script src="js/jquery.imgareaselect.js"></script>
+	<script src="js/underscore-min.js"></script>
+	<style type="text/css">
+		* {
+			padding: 0;
+			margin: 0;
+		}
+		#admin {
+			background: #fff;
+			border-bottom: 1px solid #ccc;
+			border-right: 1px solid #ccc;
+			padding: 1%;
+			position: fixed;
+			right: 98%;
+			transition: right 0.25s ease-in;
+			width: 48%;
+			z-index: 100;
+		}
+		#admin.open {
+			right: 50%;
+		}
+		#openDrawer {
+			background: #e5e5e5;
+			border: 0;
+			height: 100%;
+			outline: 0;
+			position: absolute;
+			right: 0;
+			top: 0;
+			width: 2%;
+		}
+
+		button {
+			padding: 3px 6px;
+		}
+
+
+		.examples {
+			text-align: left;
+		}
+		.eg {
+			display: block;
+			font-family: sans-serif;
+			font-size: 9px;
+			font-style: normal;
+			padding: 3px 0;
+			text-align: left;
+		}
+		.eg:before {
+			content: "eg: ";
+		}
+		#submit {
+			display: block;
+			margin: 10px auto;
+			width: 100px;
+		}
+
+		#jsonSrc {
+			display: block;
+			margin: 0 auto;
+			width: 495px;
+		}
+
+		#style {
+			width: 300px;
+		}
+
+		#wrap {
+			margin: 0 auto;
+			outline: 0;
+			position: relative;
+			top: 110px;
+		}
+		
+		section {
+			display: block;
+			margin: 10px 0;
+			padding: 10px 0;
+			position: relative;
+			width: 100%;
+		}
+		section header {
+			display: block;
+			font-size: 60px;
+			text-align: center;
+		}
+		section p {
+			margin: 10px auto;
+			width: 600px;
+		}
+		
+		section img {
+			display: block;
+			margin: 0 auto;
+		}
+
+		
+	</style>
+</head>  
+<body>
+	<div id="admin" class="open">
+		<button id="save">Save</button>
+
+		<select id="previouslyCreated"></select>
+
+		<ul class="examples">
+			<li class="eg">http://json8.nytimes.com/slideshow/2014/02/17/sports/olympics/17crosscountry_slideshow.slideshow.json</li>
+			<li class="eg">http://json8.nytimes.com/slideshow/2013/12/25/nyregion/25PACKAGES.slideshow.json</li>
+			<li class="eg">http://json8.nytimes.com/slideshow/2013/11/25/world/americas/20131126-BRAZIL-337.slideshow.json</li>
+			<li class="eg">http://json8.nytimes.com/slideshow/2013/12/27/business/international/bulgariaecon.slideshow.json</li>
+			<li class="eg">http://json8.nytimes.com/slideshow/2013/06/13/greathomesanddestinations/20130613-LOCATION.slideshow.json</li>
+			<li class="eg">http://json8.nytimes.com/slideshow/2014/02/09/magazine/09look-Croagh-Patrick.slideshow.json</li>
+		</ul>
+
+
+		<input id="jsonSrc" type="text">
+		<button id="submit">Submit</button>
+
+		<button id="openDrawer"></button>
+	</div>
+	
+
+	<div id="wrap" contenteditable></div>
+
+	<script type="text/javascript">
+		var ProjName = 'not-set';
+
+		$('#openDrawer').on('click', function(){
+			$('#admin').toggleClass('open');
+		});
+
+		(function(){
+			$.ajax({
+		        type : "GET",
+		        url : 'archive.php',
+		        success : function(data){
+		        	for(var i = 0, end = data.length; i < end; i++){
+		        		$('#previouslyCreated').append('<option value="savedFiles/' + data[i] + '">' + data[i] + '</option>')
+		        	}
+		        },
+		        error : function(err) {
+		        	console.log(err);
+		        }
+		    });
+		})();
+
+		$('#previouslyCreated').on('change', function(e){
+
+			console.log( e.target.value )
+
+			$.ajax({
+		        type : "GET",
+		        url : e.target.value,
+		        success : function(data){
+		        	var content = $(data);
+		        	console.log(content)
+		        	$('#wrap').html(content);
+
+		        },
+		        error : function(err) {
+		        	console.log(err);
+		        }
+		    });
+		});
+
+
+		$('#submit').on('click', loadJSON);
+
+		function loadJSON(){
+			var json = $('#jsonSrc').val();
+			$.ajax({
+		        type : "GET",
+		        url : 'golden_retriever.php',
+		        data : { "SSUrl" : json },
+		        success : function(data){
+		        	console.log("success")
+		            displaySlideshow(data);
+		        },
+		        error : function(err) {
+		        	console.log(err);
+		        }
+		    });
+		}
+	
+		function displaySlideshow(data) {
+			$('#wrap').html('');
+			ProjName = data.title;
+
+			_.each(data.items, function(item, index){
+				var crops = [],
+					names = [];
+
+				_.each(item.image.crops, function(crop){
+					crops.push(crop.link);
+					names.push(crop.type);
+				});
+
+				var section = document.createElement('section');
+					section.setAttribute('id', 'section-' + index);
+					section.setAttribute('class', 'section-' + index);
+
+				var html = '';
+
+
+					html += '<img src="' + item.image.crops[1].link + '"data-crops=' + crops.join(',') + ' data-crop-names="' + names.join(',') + '" data-crop-index="1">';
+					
+					if(index === 0) {
+						html += '<header><h1>' + data.title + '</h1><cite>' + data.creator + '</cite></header>';
+					}
+
+					html += '<p>' + item.captions[0].caption + '</p>';
+
+				section.innerHTML = html;
+
+				$('#wrap').append(section);
+
+			});
+
+		}
+
+		$('body').on('click', 'img', function(e){
+
+			// if( $(section).find('.cropper').attr('data-cropper') === "false" ){
+				var index = parseInt( $(this).attr('data-crop-index') );
+				var arr = $(this).attr('data-crops').split(',');
+				var names = $(this).attr('data-crop-names').split(',');
+				var newIndex = index + 1 < arr.length ? index + 1 : 0;
+				$(this).attr('data-crop-index', newIndex);
+				this.src = arr[newIndex];
+			// }
+
+		});
+
+		function getCropIndexByName(name, arr) {
+			var index = 0;
+			_.each(arr, function(item, i){
+				if(item === name) {
+					index = i;
+				} 
+			});
+			return index;
+		}
+
+		$('#save').on('click', function(){
+			
+			ProjName = $('#section-0 h1').text();
+
+			var pageData = $('#wrap').html();
+			$.ajax({
+		        type : "POST",
+		        url : 'irish_setter.php',
+		        data : {
+		        	"name" : ProjName.replace(/ /g, '-'),
+		        	"page" : pageData
+		        },
+		        success : function(data){
+		        	console.log(data)
+		        	if( $('#savedLink').length < 1){
+		        		$('#admin').append('<a id="savedLink" target="_blank" href="savedFiles/' + ProjName.replace(/ /g, '-') + '.html">' + ProjName + '</a>');
+		        	} else {
+		        		$('#savedLink').attr('href', 'savedFiles/' + ProjName.replace(/ /g, '-') + '.html');
+		        	}
+		        	
+		        },
+		        error : function(err) {
+		        	console.log(err);
+		        }
+		    });
+		})
+
+	</script>	
+</body>
+</html>

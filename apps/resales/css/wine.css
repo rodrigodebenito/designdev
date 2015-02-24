@@ -1,0 +1,203 @@
+@import url('http://graphics8.nytimes.com/css/common/global.css');
+@import url('/apps/css/common.css');
+
+
+label {
+  display:block;
+}
+
+#header h1 {
+	padding-top:7px;
+	padding-left:0;
+	height:35px;
+	background:transparent url(/apps/resales/images/icon_house.gif) no-repeat 0 0 ;
+	padding-left: 35px;
+}
+
+
+
+.number {
+	background:#efefef;
+	font-size:18px;
+	color:#333;
+	line-height:22px;
+	text-align:left;
+	width:120px;
+}
+
+table {
+	border-bottom:2px solid #efefef !important;
+	border-top:1px solid #efefef !important;
+	border-collapse:none;
+	margin-bottom:20px;
+	width:730px;
+}
+
+td {
+	border-top:0;
+	border-bottom:1px solid #efefef;
+	padding-left:10px;
+	padding-right:10px;
+
+
+}
+
+table.subForm {
+	border-right:1px solid #efefef;
+}
+
+table.subForm td {
+	padding-bottom:5px;
+}
+
+td.label {
+	width:120px;
+}
+
+.subForm label {
+	float:left;
+	width:100px;
+	padding-top:3px;
+	padding-right:5px;
+	clear:left;
+	
+}
+
+.subForm label.longLabel {
+	width: 300px;
+}
+
+.subForm select {
+	margin-bottom:10px;
+}
+
+td input.text,
+td textarea {
+	width:500px;
+}
+
+.subForm input.text,
+.subForm textarea {
+	width:500px;
+	margin-bottom:10px;
+}
+
+#TP_container,
+#TP_container_shadow,
+body > #TP_container,
+body > #TP_container_shadow {
+	
+	display: none !important;
+}
+
+.subForm input.checkbox {
+	margin-left:0;
+	margin-top:0;
+	width:14px;
+	vertical-align:top;
+}
+
+td input.short {
+	width:250px;
+}
+
+td input.short_price {
+	width:240px;
+}
+
+.mainForm {
+	border-bottom:0 !important;
+	border-top:0 !important;
+}
+
+.mainForm .last td {
+	border-bottom:0 !important;
+}
+
+table.tool {
+	width:100%;
+}
+
+table.tool,
+table.tool td {
+	background:#efefef;
+	border-top:1px solid #ccc !important;
+	border-bottom:1px solid #ccc !important;
+}
+
+/* PREVIEW */
+
+#articleInline {
+	float:left;
+	width:210px;
+	font-size:15.2167px;
+	font-family:Georgia,serif;
+}
+
+#articleInline #inlineBox {
+	float:left;
+	width:190px;
+}
+
+#articleInline h3.promo, #articleInline h4 {
+	font-family:arial,helvetica,sans-serif;
+	font-size:95%;
+	font-weight:bold !important;
+	line-height:1.4em;
+	margin:0pt;
+	color:#000;
+}
+
+#articleInline .story p.summary {
+	font-size:90%;
+	line-height:1.4em;
+	color:#333333;
+	font-family:Georgia,"Times New Roman",Times,serif;
+	margin:2px 0pt .5em;
+}
+
+#articleInline ul, #articleInline ol {
+	font-size:90%;
+	line-height:1.3em;
+}
+#articleInline ul {
+	margin:0pt 0pt 4px;
+}
+ul, ol {
+	padding-left:0pt;
+}
+
+#articleInline .image .credit {
+	color:#909090;
+	font-family:arial,helvetica,sans-serif;
+	font-size:9px;
+	line-height:11px;
+	margin-bottom:3px;
+	padding:0pt;
+	text-align:right;
+}
+
+#emailThis a, #emailThisButton a {
+	background-image:url(http://graphics8.nytimes.com/images/article/functions/tools_email.gif);
+	background-repeat:no-repeat;
+	padding:0pt 0pt 3px 20px;
+	
+}
+
+
+#inlineReadersOpinion, #inlineMultimedia, #sidebarArticles, #sectionPromo, .sectionPromo {
+	background:transparent url(http://graphics8.nytimes.com//images/global/borders/aColumnHorizontalBorder.gif) repeat-x scroll left top ;
+	margin-bottom:0pt;
+	padding-bottom:10px;
+	padding-top:15px;
+}
+
+
+#emailThis a, #emailThisButton a, a#emailThis {
+	background-image:url(http://graphics8.nytimes.com/images/article/functions/tools_email.gif);
+	background-repeat:no-repeat;
+	padding:0pt 0pt 3px 20px;
+	text-transform:uppercase;
+	color:#333333;
+	font-family:Arial,sans-serif;
+}nivu

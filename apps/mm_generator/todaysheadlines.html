@@ -1,0 +1,1474 @@
+
+
+
+
+
+
+
+<!--NYT_DEBUG element start: nytimes2006/email/todaysheadlines/EmailRoot -->
+<!--@eml
+hash user;
+hash adsresponse;
+hash adsrequest;
+num promo;
+num showSection;
+
+showSection = 0;
+promo = 1;
+user = get_user_data();
+
+adsrequest["pagename"]  = "email.nytimes.com/todaysheadlines/html";
+adsrequest["positions"] = "Middle3,Position5,Position9,Position1,Position4,Position10,Position11,Position12,TopRight,ADX_CLIENTSIDE";
+adsrequest["ctxloc"] = get_config("context_ad_file");
+#
+
+#adsrequest["keywords"]="";
+adsrequest["zipcode"] = user["POSTAL_CODE"];
+if(user["GENDER"] == "Female") {
+	adsrequest["gender"] =  "F";
+} else {
+	adsrequest["gender"] =  "M";
+}
+adsrequest["country"] = user["COUNTRY"];
+adsrequest["format"] = "email";
+adsrequest["jobtitle"] = user["CN_JOB_TITLE"];
+adsrequest["jobindustry"] = user["CN_INDUSTRY"];
+
+adsrequest["keywords"] = "";
+
+if(user["CN_NL_TRAVEL"] == "Y") {
+        adsrequest["keywords"] = adsrequest["keywords"]+"travel,";
+}
+if(user["CN_NL_CIRCUITS"] == "Y") {
+        adsrequest["keywords"] = adsrequest["keywords"]+"circuits,";
+}
+if(user["CN_NL_MONEY"] == "Y") {
+        adsrequest["keywords"] = adsrequest["keywords"]+"money,";
+}
+if(user["CN_NL_ADVERT"] == "Y") {
+        adsrequest["keywords"] = adsrequest["keywords"]+"advert,";
+}
+if(user["CN_NL_BOOKS"] == "Y") {
+        adsrequest["keywords"] = adsrequest["keywords"]+"books,";
+}
+if(user["CN_NL_FILM"] == "Y") {
+        adsrequest["keywords"] = adsrequest["keywords"]+"film,";
+}
+if(user["CN_NL_POLITICS"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"politics,";
+}
+if(user["CN_NL_HAPPEN"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"happen,";
+}
+if(user["CN_NL_WINE"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"wine,";
+}
+if(user["CN_NL_BASEBALL"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"baseball,";
+}
+if(user["CN_NL_HEALTH"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"health,";
+}
+if(user["CN_MM_EDITORIAL"] == "Y") {
+        adsrequest["keywords"] = adsrequest["keywords"]+"mmeditorial,";
+}
+if(user["CN_MM_ADVERT"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"mmadvert,";
+}
+if(user["CN_NL_THEATRE"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"theatre,";
+}
+if(user["CN_NL_DEALBOOK"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"dealbook,";
+}
+if(user["CN_NL_HOLIDAY"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"holiday,";
+}
+if(user["CN_NL_OLYMPICS"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"olympics,";
+}
+if(user["CN_NL_GETAWAYS"] == "Y" ) {
+         adsrequest["keywords"] = adsrequest["keywords"]+"getaways,";
+}
+if(user["CN_NL_DRIVE"] == "Y" ) {
+        adsrequest["keywords"] = adsrequest["keywords"]+"drive,";
+}
+
+if(user["CN_INCOME"] == 1) {
+adsrequest["incomelow"] = "0k";
+adsrequest["incomehigh"] = "0k";
+}
+if(user["CN_INCOME"] == 2) {
+adsrequest["incomelow"] = "0k";
+adsrequest["incomehigh"] = "24k";
+}
+if(user["CN_INCOME"] == 3) {
+adsrequest["incomelow"] = "25k";
+adsrequest["incomehigh"] = "49k";
+}
+if(user["CN_INCOME"] == 4) {
+adsrequest["incomelow"] = "50k";
+adsrequest["incomehigh"] = "74k";
+}
+if(user["CN_INCOME"] == 5) {
+adsrequest["incomelow"] = "75k";
+adsrequest["incomehigh"] = "99k";
+}
+if(user["CN_INCOME"] == 6) {
+adsrequest["incomelow"] = "100k";
+adsrequest["incomehigh"] = "149k";
+}
+if(user["CN_INCOME"] == 7) {
+adsrequest["incomelow"] = "150k";
+adsrequest["incomehigh"] = "254k";
+}
+if(user["CN_INCOME"] == 8) {
+adsrequest["incomelow"] = "255k";
+adsrequest["incomehigh"] = "10000k";
+}
+
+adsrequest["age"] = "0";
+if(user["CN_AGE"] == 3) {
+        adsrequest["age"] = "15";
+}
+if(user["CN_AGE"] == 4) {
+        adsrequest["age"] = "22";
+}
+if(user["CN_AGE"] == 5) {
+        adsrequest["age"] = "32";
+}
+if(user["CN_AGE"] == 6) {
+        adsrequest["age"] = "45";
+}
+if(user["CN_AGE"] == 7) {
+        adsrequest["age"] = "55";
+}
+if(user["CN_AGE"] == 8) {
+        adsrequest["age"] = "62";
+}
+if(user["CN_AGE"] == 9) {
+        adsrequest["age"] = "68";
+}
+if(user["CN_AGE"] == 10) {
+        adsrequest["age"] = "75";
+}
+
+adsresponse = getads(adsrequest);
+
+### MAP USER DATA
+
+user["NATIONAL"] = user ["CN_NATIONAL_INTEREST"];
+user["INTERNATIONAL"] = user ["CN_WORLD_INTEREST"];
+user["BUSINESS"]  = user ["CN_BUSINESS_INTEREST"];
+user["TECHNOLOGY"] = user ["CN_TECHNOLOGY_INTEREST"];
+user["POLITICS"] = user ["CN_POLITICS_INTEREST"];
+user["ARTS"] = user ["CN_ARTS_INTEREST"];
+user["SPORTS"]  = user ["CN_SPORTS_INTEREST"];
+user["ARTS"] = user ["CN_ARTS_INTEREST"];
+user["NY REGION"] = user ["CN_NYREGION_INTEREST"];
+user["OPINION"]  = user ["CN_OPINION_INTEREST"];
+user["OPINION_EDITORIAL"]  = user ["CN_EDITORIAL_INTEREST"];
+user["DAILY FEATURE"]  = user ["CN_DAILY_FEATURES_INTEREST"];
+
+print ("From: NYTimes.com <nytdirect@nytimes.com>\n");
+print ("Reply-To: nytdirect@nytimes.com\n");
+print ("Date: ",gettime("%a, %d %b %Y %H:%M:%S -0400"),"\n");
+print ("To: ",user["EMAIL_ADDRESS"],"\n");
+print ("X-job: TH-20090514","\n");
+print ("Subject: Today's Headlines: Obama Urges Rules on Investments Tied to Crisis\n");
+print ("Content-Type: text/html; charset=iso-8859-1\n");
+print ("Mime-version: 1.0\n\n\n");
+-->
+<html>
+<head>
+
+<title>Today's Headlines</title>
+</head>
+<body marginheight="15" marginwidth="15" leftmargin="15" topmargin="15" link="#000066" bgcolor="#FFFFFF" alink="#990000" vlink="#444464">
+<a name="top"></a>
+<table cellpadding="0" cellspacing="0" border="0" width="600">
+<tr>
+<td width="600" colspan="3">
+<div align="center">
+<font face="arial, helvetica, serif" size="-2">If you have trouble reading this e-mail, go to <a href="http://www.nytimes.com/todaysheadlines?th&emc=th">http://www.nytimes.com/todaysheadlines</a></font>
+</div><br clear="all">
+</td>
+</tr>
+<tr>
+<td width="1" colspan="3" bgcolor="#999999"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="1" bgcolor="#999999"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+<td width="1"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+<td width="598">
+<!--KNEWS: body table start -->
+<table width="598" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td background="http://graphics.nytimes.com/images/section/todaysheadlines/spacer_bkgd.gif" height="55" colspan="6">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="198" height="1" border="0" alt=""><br>
+<font face="Times New Roman,Times,Serif" size="-1" color="#333333">&nbsp;&nbsp;Thursday, May 14, 2009<br>&nbsp;&nbsp;Compiled 2 AM E.T.</font>
+</td>
+<td><IMG src="http://graphics8.nytimes.com/images/section/todaysheadlines/headlines_brand.gif" alt="" width="202" height="49" border="0"></td>
+<td style="padding:5px 0 7px 65px;">
+
+<!--@eml if (adsresponse["TopRight"]){ -->
+<!--@eml print (adsresponse["TopRight"],"\n"); adsresponse["TopRight"] = 0; -->
+<!--@eml } -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="6"><IMG src="http://graphics8.nytimes.com/images/section/todaysheadlines/line.gif" alt="" width="598" height="4" border="0"></td>
+</tr>
+<tr>
+<td width="5" bgcolor="#ffffff"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" alt=""></td>
+<td width="588" valign="top">
+<table width="588" border="0" cellpadding="0" cellspacing="0">			
+<tr>
+<td width="588">
+<table border="0" width="588" cellpadding="0" cellspacing="0">
+<tr>
+<td width="131" colspan="2"><font face="Times New Roman,Times,Serif" size="-1"><strong>In This E-Mail:</strong></font></td>
+</tr>
+<tr>
+<td width="588" colspan="2"><br></td>
+</tr>
+<tr>
+<td width="588" colspan="2" valign="top" align="left">
+<font face="Times New Roman,Times,Serif" size="-1">
+<!--@eml if (user["INTERNATIONAL"] > 0) {  -->
+<a href="#5004612">World</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["NATIONAL"] > 0) {  -->
+<a href="#5004623">U.S.</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["POLITICS"] > 0) {  -->
+<a href="#5004880">Politics</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["BUSINESS"] > 0) {  -->
+<a href="#5004603">Business</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["TECHNOLOGY"] > 0) {  -->
+<a href="#5005332">Technology</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["SPORTS"] > 0) {  -->
+<a href="#5004600">Sports</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["ARTS"] > 0) {  -->
+<a href="#5004601">Arts</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["NY REGION"] > 0) {  -->
+<a href="#5004634">New York/Region</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["DAILY FEATURE"] > 0) {  -->
+<a href="#5004706">Fashion & Style</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["OPINION_EDITORIAL"] > 0) {  -->
+<a href="#5004698">Editorials</a>&nbsp;|&nbsp;
+<!--@eml } -->
+<!--@eml if (user["OPINION"] > 0) {  -->
+<a href="#5005317">Op-Ed</a>&nbsp;|&nbsp;
+<!--@eml } -->
+</font><br><br>
+<font face="Times New Roman,Times,Serif" size="-1" color="#333333"><a href="http://www.nytimes.com/mem/email.html">Customize Today's Headlines</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://query.nytimes.com/search/advanced/">Search</a><br><br></font>
+</td>
+</tr>
+</table>
+</td>
+</tr>			  
+<tr>
+<td width="588">
+<table border="0" width="588" cellpadding="0" cellspacing="0">
+<!--KNEWS: top stories start -->
+<tr>
+<td width="588" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>TOP STORIES</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center"><br/>
+<font face="arial,helvetica,sans serif" size="1" color="#999999">Advertisement</font>
+<!-- ADXINFO classification="bigad" campaign="th-2009randomhouse0514-1060558"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position1&sn2=f79bfe60/5e39bcae&sn1=dd76d7fe/ced0957e&camp=th-2009randomhouse0514-1060558&ad=randomhouse300x250_0514.gif&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fads%2Fth%2Fred%5Frandomhouse051409%2Ehtml" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/20/11/ad.201158/NM_BookThief_NYT_300.gif" border="0"></a>
+
+<!--@eml if (adsresponse["Position1"]){ -->
+<!--@eml print (adsresponse["Position1"],"\n"); adsresponse["Position1"] = 0; -->
+<!--@eml } -->
+</td> </tr> </table>
+<br><font face="times new roman, times,sans serif" size="-1">
+<!--google_ad_section_start(name=topstories) -->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<font size="3"> <strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/business/14regs.html?th&emc=th" class="main">Obama Urges Rules on Investments Tied to Crisis</a></span>
+</strong></font>
+<br />
+By STEPHEN LABATON and JACKIE CALMES<br>
+The proposal would require credit-default swaps and other types of derivative contracts to be traded on exchanges and backed by capital reserves.<br><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<font size="3"> <strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/us/14explorers.html?th&emc=th" class="main">For Explorer Scouts, Good Deeds Have Whole New Meaning</a></span>
+</strong></font>
+<br />
+By JENNIFER STEINHAUER<br>
+An affiliate of the Boy Scouts of America is training young people to confront terrorism and border security.<br><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<font size="3"> <strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/us/politics/14photos.html?th&emc=th" class="main">Obama Moves to Bar Release of Detainee Abuse Photos</a></span>
+</strong></font>
+<br />
+By JEFF ZELENY and THOM SHANKER<br>
+President Obama cited concerns that the photos of U.S. military personnel abusing prisoners in Iraq and Afghanistan could further antagonize enemies.<br><br>
+<!--google_ad_section_end(name=topstories) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/index.html?th&emc=th">NYTimes.com Homepage</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--KNEWS: top stories end -->
+<!--KNEWS: quote of the day start -->
+<!--google_ad_section_start(name=quote) -->
+<tr>
+<td width="588" bgcolor="#e4e4e4" height="25" valign="center" colspan="2">
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>QUOTATION OF THE DAY</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2"><br>
+<font face="times new roman, times,sans serif" size="-1">
+"This is about being a true-blooded American guy and girl. It fits right in with the honor and bravery of the Boy Scouts."<br>
+<a href="http://www.nytimes.com/2009/05/14/us/14explorers.html?th&emc=th">A. J. LOWENTHAL, </a>
+a sheriff’s deputy in Imperial County, Calif., who runs Explorers programs, in which young people are taught skills used to confront terrorism, illegal immigration and escalating border violence.<br>
+</font>
+</td>
+</tr>
+<tr>
+<td width="588" valign="center" colspan="2">
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><br><br>
+</td>
+</tr>
+<!--google_ad_section_end(name=quote) -->
+<!--KNEWS: quote of the day end -->
+<!--KNEWS: editorial promo start -->
+<!--google_ad_section_start(name=promo) -->
+<tr>
+<td width="588" colspan="2">
+<tr>
+<td width="588" colspan="2">
+<table cellspacing="0" cellpadding="0" border="0" width="588">
+<tr>
+<td bgcolor="#E4E4E4" height="24" colspan="3"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" /><font face="times new roman, times, sans serif" size="-1"><strong>STYLE</strong></font></td>
+<td width="10" bgcolor="#E4E4E4" height="24" colspan="1"></td>
+<td bgcolor="#E4E4E4" height="24" colspan="3"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" /><font face="times new roman, times, sans serif" size="-1"><strong>OPINION</strong></font></td>
+</tr>
+<tr>
+<td width="588" bgcolor="#FFFFFF" colspan="7"><br /></td>
+</tr>
+<tr>
+<td width="75" valign="top"><a href="http://www.nytimes.com/interactive/2009/05/13/fashion/20090514-avedon-feature/index.html?th&emc=th" target="_0"><IMG src="http://graphics8.nytimes.com/images/2009/05/13/fashion/20090514-avedon-feature/avedon.75.jpg" height="75" border="0" /></a></td>
+<td><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" /></td>
+<td width="195" valign="top" style="padding-right:15px;border-right:1px dotted #ccc;"><font face="times new roman, times, sans serif" size="-1"><strong><a href="http://www.nytimes.com/interactive/2009/05/13/fashion/20090514-avedon-feature/index.html?th&emc=th" target="_0">Audio Slide Show: Through the Eyes of Richard Avedon</a></strong> </a><br>Curators discuss the fashion photographs of Richard Avedon. <a href="http://www.nytimes.com/2009/05/14/fashion/14AVEDON.html?th&emc=th">Related Article</a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0" /></td>
+<td><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" /></td>
+<td width="75" valign="top" >
+<a href="http://egan.blogs.nytimes.com/2009/05/13/souters-summits/?th&emc=th" target="_0"><IMG src="http://graphics8.nytimes.com/images/2008/08/14/opinion/egan75.GIF" width="75" height="75" border="0" /></a></td>
+<td><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" /></td>
+<td width="195" valign="top" style="padding-right:0px;"><font face="times new roman, times, sans serif" size="-1"><a href="http://egan.blogs.nytimes.com/2009/05/13/souters-summits/?th&emc=th" target="_0"><strong>Outposts: Souter’s Summits</strong></a><br>The farewells depicting David Souter as a “strange little man” don’t do him justice, writes Timothy Egan. <br>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0" /></td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+</td>
+</tr>
+<!--google_ad_section_end(name=promo) -->
+<!--KNEWS: editorial promo end -->
+<!--KNEWS: rest of the sections start -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["INTERNATIONAL"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004612"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>WORLD</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=world) -->
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/world/asia/14korangal.html?th&emc=th">In Bleak Afghan Outpost, Troops Slog On</a>
+</span>
+</strong>
+</font>
+<br/>
+By C. J. CHIVERS
+<br/>
+Korangal Valley is an example of what can happen when determined adversaries settle into a competition for a small space.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/world/asia/14reform.html?th&emc=th">India&rsquo;s Path to Economic Reform Reaches a Fork</a>
+</span>
+</strong>
+</font>
+<br/>
+By VIKAS BAJAJ
+<br/>
+Despite years of growth and prosperity, talk of economic openness and dynamism leaves many Indians cold.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/world/asia/14china.html?th&emc=th">China Holds an Ex-Leader of &rsquo;89 Rallies, Family Says</a>
+</span>
+</strong>
+</font>
+<br/>
+By MICHAEL WINES
+<br/>
+A former student leader of the 1989 Tiananmen Square pro-democracy movement has been charged with fraud, his family said on Wednesday.
+<br/><br/><!--google_ad_section_end(name=world) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/world/index.html?th&emc=th">More World News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["NATIONAL"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004623"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>U.S.</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=us) -->
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/us/politics/14cong.html?th&emc=th">Unease Grows for Democrats Over Security</a>
+</span>
+</strong>
+</font>
+<br/>
+By DAVID M. HERSZENHORN
+<br/>
+Congressional Democrats are voicing discomfort over the seemingly open-ended commitment in Afghanistan and the question of what to do with prisoners held at Guant&aacute;namo Bay, Cuba.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/us/politics/14health.html?th&emc=th">Democrats to Develop Plan to Sell Health Care</a>
+</span>
+</strong>
+</font>
+<br/>
+By ROBERT PEAR
+<br/>
+Alarmed at Republican attacks on President Obama&rsquo;s health care proposals, Senate Democrats huddled with White House officials to formulate a response.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/us/14switched.html?th&emc=th">Switched at Birth, Women Find New Identity</a>
+</span>
+</strong>
+</font>
+<br/>
+By WILLIAM YARDLEY
+<br/>
+Kay Rene Qualls and DeeAnn Shafer, who were both born on May 3, 1953, in a Heppner, Ore., hospital, recently discovered that they were taken home, apparently accidentally, by the other&rsquo;s mother.
+<br/><br/><!--google_ad_section_end(name=us) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/national/index.html?th&emc=th">More U.S. News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["POLITICS"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004880"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>POLITICS</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=politics) -->
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/us/politics/14cong.html?th&emc=th">Unease Grows for Democrats Over Security</a>
+</span>
+</strong>
+</font>
+<br/>
+By DAVID M. HERSZENHORN
+<br/>
+Congressional Democrats are voicing discomfort over the seemingly open-ended commitment in Afghanistan and the question of what to do with prisoners held at Guant&aacute;namo Bay, Cuba.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/us/politics/14health.html?th&emc=th">Democrats to Develop Plan to Sell Health Care</a>
+</span>
+</strong>
+</font>
+<br/>
+By ROBERT PEAR
+<br/>
+Alarmed at Republican attacks on President Obama&rsquo;s health care proposals, Senate Democrats huddled with White House officials to formulate a response.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/us/politics/14cards.html?th&emc=th">Senate Rejects a 15% Ceiling on Credit Card Interest Rates</a>
+</span>
+</strong>
+</font>
+<br/>
+By CARL HULSE
+<br/>
+A measure by Senator Bernie Sanders, independent of Vermont, to cap credit card rates at 15 percent received only 33 votes, far short of the 60 needed to pass.
+<br/><br/><!--google_ad_section_end(name=politics) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/politics/index.html?th&emc=th">More Politics News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["BUSINESS"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004603"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>BUSINESS</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!-- ADXINFO classification="feature_position" campaign="NYT2009-marketingmoduleTH_New_Design"-->
+
+<!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position5&sn2=9bfe302c/5e39bcb6&sn1=737666cf/106eca92&camp=NYT2009-marketingmoduleTH_New_Design&ad=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-R2&goto=http://video.nytimes.com/video/2009/05/05/theater/1194840011431/the-2009-tony-nominations.html%3FWT.mc_id=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-PH%26WT.mc_ev=click" target="_new"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/theatert_051409.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#144c6a;" target="_new" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position5&sn2=9bfe302c/5e39bcb6&sn1=737666cf/106eca92&camp=NYT2009-marketingmoduleTH_New_Design&ad=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-R2&goto=http://video.nytimes.com/video/2009/05/05/theater/1194840011431/the-2009-tony-nominations.html%3FWT.mc_id=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-HDR%26WT.mc_ev=click">Video: 2009 Tony nominations </a></h2>
+      <p style="margin:0 0 3px; padding:0;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position5&sn2=9bfe302c/5e39bcb6&sn1=f42b857b/a7d37617&camp=NYT2009-marketingmoduleTH_New_Design&ad=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-R2&goto=http://theater.nytimes.com/pages/theater/index.html%3FWT.mc_id=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-URL%26WT.mc_ev=click" target="_new" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Theater &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_new" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position5&sn2=9bfe302c/5e39bcb6&sn1=91122847/41a4d94b&camp=NYT2009-marketingmoduleTH_New_Design&ad=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-R2&goto=http://www.nytimes.com/pages/theater/theaterspecial/index.html%3FWT.mc_id=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-L1%26WT.mc_ev=click">Complete coverage of the Tony Awards </a></li>
+        <li style="font-size:12px"><a target="_new" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position5&sn2=9bfe302c/5e39bcb6&sn1=383d6e38/ede0ac24&camp=NYT2009-marketingmoduleTH_New_Design&ad=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-R2&goto=http://projects.nytimes.com/tonys/ballot/i50EI0AcyQt%3FWT.mc_id=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-L2%26WT.mc_ev=click">You pick the Tony winners </a></li>
+      </ul>
+    </div>
+ 
+   <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position5&sn2=9bfe302c/5e39bcb6&sn1=27f79dc0/d10b63ba&camp=NYT2009-marketingmoduleTH_New_Design&ad=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-R2&goto=http://nytimes.com/%3FWT.mc_id=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-LOGO%26WT.mc_ev=click" target="_new"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a> 
+    <a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&page=email.nytimes.com/todaysheadlines/html&pos=Position5&sn2=9bfe302c/5e39bcb6&sn1=f42b857b/a7d37617&camp=NYT2009-marketingmoduleTH_New_Design&ad=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-R2&goto=http://theater.nytimes.com/pages/theater/index.html%3FWT.mc_id=TH-D-I-NYT-MOD-MOD-M096B-ROS-0509-VRT%26WT.mc_ev=click" target="_new"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_theater.gif" alt="Theater" width="120" height="18" border="0"></a></div><br clear="all">
+</div>
+  <!-- /MARKETING MODULE -->
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=business) -->
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/business/global/14frugal.html?th&emc=th">Thriving Norway Provides an Economics Lesson</a>
+</span>
+</strong>
+</font>
+<br/>
+By LANDON THOMAS Jr.
+<br/>
+Instead of spending its oil riches, Norway saved, and it is now growing in the midst of the global recession.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/technology/business-computing/14chip.html?th&emc=th">A Ruling Against Intel, Unlikely to Drag It Down</a>
+</span>
+</strong>
+</font>
+<br/>
+By ASHLEE VANCE
+<br/>
+A.M.D. cheered the European ruling, but the history of antitrust cases against big technology companies suggests that little will change in the marketplace.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/business/14mortgage.html?th&emc=th">Slow Start to Federal Plan for Modifying Mortgages</a>
+</span>
+</strong>
+</font>
+<br/>
+By TARA SIEGEL BERNARD
+<br/>
+Two months into a plan to help homeowners avoid foreclosure, only about 55,000 have enrolled.
+<br/><br/><!--google_ad_section_end(name=business) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/business/index.html?th&emc=th">More Business News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["TECHNOLOGY"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5005332"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>TECHNOLOGY</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=technology) -->
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/technology/business-computing/14chip.html?th&emc=th">A Ruling Against Intel, Unlikely to Drag It Down</a>
+</span>
+</strong>
+</font>
+<br/>
+By ASHLEE VANCE
+<br/>
+A.M.D. cheered the European ruling, but the history of antitrust cases against big technology companies suggests that little will change in the marketplace.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/technology/companies/14craigslist.html?th&emc=th">Under Pressure, Craigslist to Remove &lsquo;Erotic&rsquo; Ads</a>
+</span>
+</strong>
+</font>
+<br/>
+By BRAD STONE
+<br/>
+Starting next Wednesday, the category will be called &ldquo;adult services,&rdquo; and employees will be hired to monitor it for illicit content. Attorneys general in several states are skeptical.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/technology/companies/14phone.html?th&emc=th">Frontier to Buy Verizon Lines</a>
+</span>
+</strong>
+</font>
+<br/>
+By SAUL HANSELL
+<br/>
+Frontier Communications, based in Stamford, Conn., will be taking over the Verizon assets in an all-stock deal, the companies said.
+<br/><br/><!--google_ad_section_end(name=technology) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/technology/index.html?th&emc=th">More Technology News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["SPORTS"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004600"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>SPORTS</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=sports) -->
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/sports/football/14eagles.html?th&emc=th">Inside Lineman&#39;s Helmet, Doubts and Depression</a>
+</span>
+</strong>
+</font>
+<br/>
+By JER&Eacute; LONGMAN
+<br/>
+Shawn Andrews, the Philadelphia Eagles&#39; two-time Pro-Bowl offensive lineman, has done something athletes almost never do: he opened up about his struggles with depression.
+<br/><br/><font color="#666666" size="-1"><strong>YANKEES 8, BLUE JAYS 2</strong></font><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/sports/baseball/14yanks.html?th&emc=th">Basic Approach Helps Teixeira Help the Yanks</a>
+</span>
+</strong>
+</font>
+<br/>
+By TYLER KEPNER
+<br/>
+Mark Teixeira went 2 for 4 with two runs batted in, helping Andy Pettitte cruise to his team-leading third victory.
+<br/><br/><font color="#666666" size="-1"><strong>BRAVES 8, METS 7, 12 INNINGS</strong></font><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/sports/baseball/14mets.html?th&emc=th">The Mets Run Themselves Into a Loss</a>
+</span>
+</strong>
+</font>
+<br/>
+By GREG BISHOP
+<br/>
+The Mets&rsquo; left-handed reliever Ken Takahashi surrendered a solo home run to Martin Prado in the 12 inning, which provided the final margin in the Braves&rsquo; victory.
+<br/><br/><!--google_ad_section_end(name=sports) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/sports/index.html?th&emc=th">More Sports News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["ARTS"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004601"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>ARTS</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=arts) --><font color="#666666" size="-1"><strong>ARCHITECTURE REVIEW</strong></font><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/arts/design/14muse.html?th&emc=th">Renzo Piano Embraces Chicago</a>
+</span>
+</strong>
+</font>
+<br/>
+By NICOLAI OUROUSSOF
+<br/>
+The new Modern Wing of the Art Institute of Chicago is the closest Renzo Piano has come in at least a decade to achieving a near-classical ideal.
+<br/><br/><font color="#666666" size="-1"><strong>ART REVIEW</strong></font><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/arts/design/14inst.html?th&emc=th">A Grand and Intimate Modern Art Trove</a>
+</span>
+</strong>
+</font>
+<br/>
+By ROBERTA SMITH
+<br/>
+The elegant new Modern Wing is a rarity: a work of genuinely good architecture that is also kind to art.
+<br/><br/><font color="#666666" size="-1"><strong>ABROAD</strong></font><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/arts/design/14abroad.html?th&emc=th">C&eacute;zanne Country Rises Up Against French Rail Plan</a>
+</span>
+</strong>
+</font>
+<br/>
+By MICHAEL KIMMELMAN
+<br/>
+Philippe C&eacute;zanne, the artist&rsquo;s great-grandson, has joined the battle over a proposal to extend high-speed rail through the Vall&eacute;e de l&rsquo;Arc.
+<br/><br/><!--google_ad_section_end(name=arts) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/arts/index.html?th&emc=th">More Arts News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["NY REGION"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004634"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>NEW YORK/REGION</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=newyorkregion) -->
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/nyregion/14morris.html?th&emc=th">Pension Inquiry Reveals a Power Broker&rsquo;s Web</a>
+</span>
+</strong>
+</font>
+<br/>
+By MIKE McINTIRE
+<br/>
+The indictment of Hank Morris, a well-known political consultant, on charges of seeking kickbacks from pension funds offers a glimpse into his myriad business activities.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/nyregion/14integrity.html?th&emc=th">Paterson Asks Ethics Panel to Quit</a>
+</span>
+</strong>
+</font>
+<br/>
+By DANNY HAKIM
+<br/>
+The state inspector general found that the panel&rsquo;s director shared confidential information about an inquiry into the Spitzer administration with a top Spitzer aide.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/nyregion/14pilot.html?th&emc=th">Pilots Set Up for Fatigue, Officials Say</a>
+</span>
+</strong>
+</font>
+<br/>
+By MATTHEW L. WALD
+<br/>
+A federal panel looking into a plane crash near Buffalo in February faulted the long commutes to the airline&rsquo;s Newark hub, which may have contributed to pilot error.
+<br/><br/><!--google_ad_section_end(name=newyorkregion) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/nyregion/index.html?th&emc=th">More New York/Region News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["DAILY FEATURE"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004706"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>FASHION & STYLE</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=fashionstyle) --><font color="#666666" size="-1"><strong>DRESS CODES</strong></font><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/fashion/14CODES.html?th&emc=th">When No One Wants to Look Like a Banker</a>
+</span>
+</strong>
+</font>
+<br/>
+By DAVID COLMAN
+<br/>
+As public sentiment against financial institutions remains high, fashionable men are shopping for a new kind of confidence. 
+<br/><br/><font color="#666666" size="-1"><strong>SKIN DEEP</strong></font><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/fashion/14SKIN.html?th&emc=th">Confused by SPF? Take a Number</a>
+</span>
+</strong>
+</font>
+<br/>
+By CATHERINE SAINT LOUIS
+<br/>
+The SPF arms race is leading some dermatologists to complain that this is merely a numbers game that confuses consumers.
+<br/><br/>
+<font size="3">
+<strong>
+<span class="headlineWrapper">
+<a href="http://www.nytimes.com/2009/05/14/fashion/14AVEDON.html?th&emc=th">How Avedon Blurred His Own Image</a>
+</span>
+</strong>
+</font>
+<br/>
+By CATHY HORYN
+<br/>
+The work of fashion photographer Richard Avedon is remembered in an exhibition, which is the largest survey of Avedon&rsquo;s fashion work since the Metropolitan Museum show in 1978.
+<br/><br/><!--google_ad_section_end(name=fashionstyle) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/fashion/index.html?th&emc=th">More Fashion & Style News</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["OPINION_EDITORIAL"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5004698"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>EDITORIALS</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=editorials) -->
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14thu1.html?th&emc=th" class="main">New Commander for Afghanistan</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+Lt. Gen. Stanley McChrystal needs a strategy that combines aggressive counterinsurgency tactics with economic development to turn around this must-win war.<br><br>
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14thu2.html?th&emc=th" class="main">The Mayor and the Schools</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+Albany is rightly seeking more parental input, greater transparency and at least some checks on the mayor’s considerable powers over New York City’s schools.<br><br>
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14thu3.html?th&emc=th" class="main">Whose Senate Is This?</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+The Senate should not bend to the gun lobby by including a laissez-faire gun-toting measure with legislation to protect credit card users.<br><br>
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14thu4.html?th&emc=th" class="main">Lincoln Center, New and Improved</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+It once looked as if Lincoln Center’s mission had stalled, but a major renovation is a sign of its vigor, strength and continued cultural importance.<br><br>
+<!--google_ad_section_end(name=editorials) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/opinion/index.html?th&emc=th">More Editorials</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--@eml 	
+							showSection = 0;
+							if ( "false" == "true" ) { 
+								showSection = 1;
+							}
+							if ( user["OPINION"] > 0) {
+								showSection = 1;
+							}
+
+							if ( showSection == 1 ) {  -->
+<tr>
+<td width="568" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<a name="5005317"></a>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face="times new roman,times, sans serif" size="-1"><strong>OP-ED</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<!--@eml
+							if (promo == 3) {
+								if (adsresponse["Position5"]){
+						  -->
+<table width="358" cellpadding="0" cellspacing="0" border="0" align="right">
+<tr> <td align="center">
+<!--@eml print (adsresponse["Position5"],"\n"); adsresponse["Position5"] = 0; -->
+</td> </tr> </table>
+<!--@eml
+								}
+							}
+							promo = promo + 1;
+					     -->
+<font face="times new roman,times, sans serif" size="-1">
+<!--google_ad_section_start(name=oped) -->
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14collins.html?th&emc=th" class="main">Trouble on Air Obama</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+By GAIL COLLINS<br>
+To stop building presidential helicopters that have already cost taxpayers $3.2 billion in an attempt to avoid appearing wasteful would be exactly that.<br><br>
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14kristof.html?th&emc=th" class="main">What a Little Vitamin A Could Do</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+By NICHOLAS D. KRISTOF<br>
+Over half a million children die or go blind each year because they are vitamin A deficient. There’s a simple fix: inexpensive supplements.<br><br>
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14Roubini.html?th&emc=th" class="main">The Almighty Renminbi?</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+By NOURIEL ROUBINI<br>
+The dollar may be challenged by other currencies, most likely the Chinese renminbi, sooner than we think if we do not get our financial house in order.<br><br>
+<font size="3"><strong>
+<span class="headlineWrapper"><a href="http://www.nytimes.com/2009/05/14/opinion/14Gao.html?th&emc=th" class="main">China’s Heart of Gold</a></span>
+</strong></font><br>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+By VICTOR ZHIKAI GAO<br>
+Holding American dollars was once a status symbol in China. No one knows for sure when the tide started to turn, but the currency is irreversibly losing its appeal.<br><br>
+<!--google_ad_section_end(name=oped) -->
+</font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman,times, sans serif" size="-1">&#8226; <a href="http://www.nytimes.com/pages/opinion/index.html?th&emc=th">Go to Editorials/Op-Ed</a></font><br><br>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times,sans serif" size="-1"><a href="#top">Back to Top</a></font><br><br>
+</td>
+</tr>
+<!--@eml }  -->
+<!--KNEWS: rest of the sections end -->
+<!--KNEWS: most emailed articles start -->
+<!--KNEWS: most emailed articles end -->
+<!--KNEWS: on this day start -->
+<!--google_ad_section_start(name=onthisday) -->
+<tr>
+<td width="588" bgcolor="#e4e4e4" height="24" valign="center" colspan="2">
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0"><font face=" times new roman, times, sans serif" size="-1"><strong>ON THIS DAY</strong></font>
+</td>
+</tr>
+<tr>
+<td width="588" colspan="2">
+<br>
+<font face="times new roman, times, sans serif" size="-1">On May 14, 1948, the independent state of Israel was proclaimed as British rule in Palestine came to an end. </font>
+</td>
+</tr>
+<tr>
+<td width="313" align="left">
+<font face="times new roman, times, sans serif" size="-1">
+&#8226; <a href="http://www.nytimes.com/learning/general/onthisday/20090514.html?th&emc=th">See this front page</a><br>
+&#8226; <a href="http://www.nytimes.com/nytstore/historicpages/frontpages/NSKEEP11.html">Buy this front page</a><br><br>
+</font>
+</td>
+<td width="100" align="right">
+<font face="times new roman, times, sans serif" size="-1">
+<a href="#top">Back to Top</a>
+</font>
+</td>
+</tr>
+<!--google_ad_section_end(name=onthisday) -->
+<!--KNEWS: on this day end -->
+</table>
+</td>
+<td width="5" bgcolor="#ffffff"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" alt=""></td>
+</tr>
+</table>
+</td>
+<td width="1"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" /></td>
+<td width="1" bgcolor="#cccccc"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" /></td>
+</tr>
+</table>
+<!--KNEWS: body table end -->
+<!--KNEWS: extras and footer start -->
+<table border="0" width="598" cellspacing="0" cellpadding="0">
+<tr>
+<td width="598" colspan="3" bgcolor="#999999"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="5"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+<td>&nbsp;
+<table width="588" border="0" cellspacing="0" cellpadding="0">
+<tr>
+            <td bgcolor="#ffffff"><img src="http://graphics8.nytimes.com/ads/images/misc/spacer.gif" alt="" width="5" height="24" border="0">
+            </td>
+            <td width="" bgcolor="#ffffff">
+            <font face="arial, serif" size=-1><div align="left"><font size="-2">
+            ADVERTISEMENT
+            </font></div></font>
+            </td>
+</tr>
+
+<tr>
+            <td width="5" bgcolor="#ffffff">
+            <img src="http://graphics8.nytimes.com/ads/images/misc/spacer.gif" alt="" width="5" height="1" border="0">
+            </td>
+
+            <td width="588" bgcolor="#ffffff" valign="top">
+                        <div align=left>
+<map name="adsonar_map_1355977_8343274"><area shape="rect" coords="0,0,588,66" href="http://newsletter.adsonar.com/nwrss/iMapRedirector?placementId=1355977&plid=73051&pid=866767&ps=8343274&rotation=4&type=2&pos=0&zw=588&zh=200&v=5&url=NA" /><area shape="rect" coords="0,66,588,132" href="http://newsletter.adsonar.com/nwrss/iMapRedirector?placementId=1355977&plid=73051&pid=866767&ps=8343274&rotation=4&type=2&pos=1&zw=588&zh=200&v=5&url=NA" /><area shape="rect" coords="0,132,588,198" href="http://newsletter.adsonar.com/nwrss/iMapRedirector?placementId=1355977&plid=73051&pid=866767&ps=8343274&rotation=4&type=2&pos=2&zw=588&zh=200&v=5&url=NA" /></map><img src="http://newsletter.adsonar.com/nwrss/imgs/nwr_1355977_8343274_73051_866767_4_2.PNG?placementId=1355977&plid=73051&pid=866767&ps=8343274&rotation=4&type=2&zw=588&zh=200&v=5&url=NA" width="588" height="200" border="0" alt="" usemap="#adsonar_map_1355977_8343274" />
+
+                        </div>
+            </td>
+</tr>
+            <tr>
+                        <td bgcolor="#ffffff" colspan="2">
+                        <img src="http://graphics8.nytimes.com/ads/images/misc/spacer.gif" alt="" width="1" height="10" border="0"></td>
+            </tr>
+</table>
+<!--@eml if (adsresponse["Position9"]){ -->
+<!--@eml print (adsresponse["Position9"],"\n"); adsresponse["Position9"] = 0; -->
+<!--@eml } -->
+
+<!--@eml if (adsresponse["Position10"]){ -->
+<!--@eml print (adsresponse["Position10"],"\n"); adsresponse["Position10"] = 0; -->
+<!--@eml } -->
+
+<!--@eml if (adsresponse["Position11"]){ -->
+<!--@eml print (adsresponse["Position11"],"\n"); adsresponse["Position11"] = 0; -->
+<!--@eml } -->
+</td>
+<td width="5"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="5"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+<td width="588">
+
+<!--@eml if (adsresponse["Position12"]){ -->
+<!--@eml print (adsresponse["Position12"],"\n"); adsresponse["Position12"] = 0; -->
+<!--@eml } -->
+<hr width="588" size="1">
+<br><font face="Times New Roman,Times,Serif" size="-1">
+<strong>About This E-Mail</strong><br><br>
+You received these headlines because you are subscribed to Today's Headlines from NYTimes.com.
+<br><br>
+<!--@eml print ("<a href=\"http://www.nytimes.com/gst/unsub.html?email=",user["EMAIL_ADDRESS"],"&id=",user["EXTERNAL_LIST_ID"],"&group=th&product=all\">Unsubscribe</a>"); -->
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.nytimes.com/mem/email.html?th&emc=th">Manage My Subscriptions</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.nytimes.com/membercenter/formf.html?th&emc=th">Suggestions</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.nytimes.com/adinfo/index.html?th&emc=th">How to Advertise</a>
+<br><br>
+Please include the following ID number when writing to <a href="mailto:feedback@nytimes.com">feedback@nytimes.com</a> so that we can track any reports of problems:&nbsp; <!--@eml print (user["EXTERNAL_LIST_ID"]); -->
+</font><br><br>
+</td>
+<td width="5"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="598" colspan="3" bgcolor="#999999"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="598" colspan="3" bgcolor="#e4e4e4" height="25">
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0">
+<font face="Times New Roman,Times,Serif" size="-1">
+<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html?th&emc=th">Copyright 2009</a> | <a href="http://www.nytco.com?th&emc=th">The New York Times Company</a> | <a href="http://www.nytimes.com/ref/membercenter/help/privacy.html?th&emc=th">Privacy Policy</a>
+<br><br>
+<IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0">
+NYTimes.com 620 Eighth Avenue New York, NY 10018
+</font>
+</td>
+</tr>
+</table>
+<!--KNEWS: extras and footer end -->
+</td>
+<td width="1" bgcolor="#999999"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="1" colspan="3" bgcolor="#999999"><IMG src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+</table>
+
+<IMG src="http://graphics8.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=email.nytimes.com/todaysheadlines/html&posall=Bottom1&pos=Bottom1&query=qstring&keywords=">
+<IMG SRC="/adx/bin/clientside/209ae795Q2FLyxQ7EQ2B3)0Q5CQ25xnx0yQ252axQ2BQ51)Q2BQ25" height="1" width="3">
+</body>
+</html>
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--check if kicker and byline are the same -->
+<!--end kicker/byline check-->
+<!--NYT_DEBUG element end: nytimes2006/email/todaysheadlines/EmailRoot -->
+
+

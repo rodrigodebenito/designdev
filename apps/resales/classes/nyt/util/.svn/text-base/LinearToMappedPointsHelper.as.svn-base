@@ -1,0 +1,97 @@
+// Stores an array of points
+// takes an int
+// translates the int along the row of points
+
+// the points are not spaced evenly.
+// the x-points are taken to be the linear "key", the y-points are not.
+
+// in the code, going to call the "outside" world Harry and the "inside" world Jane
+
+
+// FOR SCRUBMAP:
+// HarryX = frame of the FLV (in reality, the TIME of the frame, starting from zero, which is the same here)
+// Jane X = shot number (in reality, the TIME of the shot starting from zero, which is the same here)
+// Jane Y = frame of the movieclip along path (in reality, it's a single number that represents both X and Y coordinates. If we used two of these classes, we could show
+//          X and Y coords directly without needing a path. This is simpler and looks better though) 
+//
+//  Note that both harryX and JaneX are linear, which is why we can compare them. Jane Y is a map.
+
+package nyt.util
+{
+	import flash.geom.Point;
+	
+	public class LinearToMappedPointsHelper {
+
+		protected var ptArr:Array = new Array();
+		
+		public var harryLength:Number = 0;
+		protected var janeLength:Number = 0;
+		
+		public function LinearToMappedPointsHelper(harryLength:Number, points:Array = null) // array of point objects -- one must be at the end
+		{
+			ptArr = points;
+			this.harryLength = harryLength;
+				
+			// TODO -- errors if the array is null or has less than two points.
+			update();
+		}
+		
+		protected function update():void {
+			ptArr.sortOn("x",Array.NUMERIC);
+			janeLength = Math.abs( ptArr[ptArr.length-1].x ); // last one
+			
+			trace ("janeLen: " + janeLength);
+			trace ("arr: " + ptArr[0]);
+			
+		}
+		
+		public function addJanePoint(x:Number, y:Number) {
+			this.push(new Point(x,y));
+		}
+	
+		public function push(JanePt:Point) {
+			ptArr.push(JanePt);
+			update();
+		}
+		
+		
+		// converts the x-value of the original to the local scale
+		public function toJaneXScale(harryX:Number):Number {
+			return (harryX/harryLength) * janeLength;
+		}
+		
+		
+		public function getJane(harryX:Number):Point {
+			
+			var JaneX:Number = toJaneXScale(harryX);
+			
+			var p1:Point = new Point(0,0); // this point is always implied
+			var p2:Point = new Point(0,0);
+			
+			for (var i:int = 0; i<ptArr.length; i++) {
+				p2 = ptArr[i];			
+				
+				if (p1.x == JaneX) {
+					return p1; // just in case
+				} 
+				else if (p2.x == JaneX) {
+					return p2; // just in case
+				} 
+				else if (p1.x < JaneX && JaneX < p2.x) {
+					
+					// good to go!
+					var percentDistance:Number = (JaneX - p1.x) / (p2.x - p1.x);  // p2 should always be larger in the sorted list
+					return Point.interpolate(p2,p1,percentDistance);
+				}
+				
+				// otherwise, we keep going
+				p1 = p2;
+			}
+			
+			// uh oh, went through the whole list and didn't find anything
+			throw new Error("Unable to find Jane! Invalid or out of bounds Harry?!");
+			
+		}
+		
+	}
+}

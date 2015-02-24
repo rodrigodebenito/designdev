@@ -1,0 +1,10 @@
+@import url('http://graphics8.nytimes.com/css/common/global.css');
+@import url('/apps/css/common.css');
+
+label {
+  display:block;
+}
+
+td {
+	display:block;
+}

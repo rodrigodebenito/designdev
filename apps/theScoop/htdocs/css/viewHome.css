@@ -1,0 +1,68 @@
+#viewHome {
+
+}
+
+#viewHome h1.theScoop {
+	margin: 27px auto 25px;
+}
+
+#viewHome h2.anInsideGuide {
+	margin: 0px auto 31px;
+}
+
+#viewHome .navWrapper {
+	border-top: 1px solid #1a1a1a;
+	border-bottom: 1px solid #303030;
+}
+
+
+#viewHome nav {
+	
+	background-color: #252525;
+	border-top: 1px solid #303030;
+	border-bottom: 1px solid #1a1a1a;
+	
+}
+
+#viewHome nav ul {
+	width: 534px;
+	margin: 33px auto 71px;
+}
+
+#viewHome nav ul a li {
+	
+	display: block;
+	float: left;
+	
+	width: 136px;
+	height: 102px;
+	padding: 14px;
+	
+	background-color: #212121;
+	border: 1px solid #1a1a1a;
+	
+	margin: 0 18px 17px 0;
+	
+	text-align: center;
+	
+	 -moz-box-shadow: 0px 1px 1px #303030; /* FF3.5+ */
+  -webkit-box-shadow: 0px 1px 1px #303030; /* Saf3.0+, Chrome */
+          box-shadow: 0px 1px 1px #303030; /* Opera 10.5, IE9, Chrome 10+ */
+	
+}
+
+#viewHome nav ul a:hover li {
+	background-color: #303030;
+}
+
+#viewHome nav ul a li.last {
+	margin-right: 0;
+}
+
+#viewHome nav ul a li p {
+	font-size: 13px;
+	line-height: 18px;
+	color: #ffffff;
+	font-weight: bold;
+	margin-top: 4px;
+}

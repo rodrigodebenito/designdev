@@ -1,0 +1,61 @@
+// jon: this class takes any display object and makes it into a custom cursor
+
+
+
+
+package nyt.util {
+    import flash.display.DisplayObject;
+    import flash.display.DisplayObjectContainer;
+    import flash.display.Sprite;
+    import flash.events.Event;
+    import flash.events.MouseEvent;
+    import flash.ui.Mouse;
+    
+    
+    public class CustomCursor extends Sprite {
+        
+        public var cursor:DisplayObject;
+        public var base:DisplayObjectContainer;
+        
+        // pass the cursor sprite or movie clip and the base displayObject that it sits on (usually the stage)
+        public function CustomCursor(cursorDisplayObject:DisplayObject, baseDisplayObject:DisplayObjectContainer) {
+			cursor = cursorDisplayObject;
+			base = baseDisplayObject;
+           
+            this.enabled = true;
+	
+
+        }
+        
+        protected function cursorHide(evt:Event):void {
+            cursor.visible = false;
+        }
+        
+        protected function cursorFollow(evt:MouseEvent):void {
+            if (!cursor.visible) cursor.visible = true;
+            cursor.x = base.mouseX;
+            cursor.y = base.mouseY;
+            evt.updateAfterEvent();
+        }
+        
+        public function set enabled(enabled:Boolean):void {
+        	
+        	if (enabled) {
+        		 base.addEventListener(Event.MOUSE_LEAVE, cursorHide);
+           		 base.addEventListener(MouseEvent.MOUSE_MOVE, cursorFollow);
+           		 Mouse.hide();
+           		 base.addChild(cursor);
+        	} else {
+        		 base.removeEventListener(Event.MOUSE_LEAVE, cursorHide);
+           		 base.removeEventListener(MouseEvent.MOUSE_MOVE, cursorFollow);
+           		 Mouse.show();
+           		 base.removeChild(cursor);
+        	}
+        }
+        
+        public function get enabled():Boolean {
+        	return (this.contains(cursor));
+        }
+        
+    }
+}

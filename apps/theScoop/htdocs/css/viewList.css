@@ -1,0 +1,116 @@
+#viewList {
+	
+}
+
+#viewList h1.theScoop_small {
+	margin: 24px 13px 18px 10px;
+}
+
+#viewList header h1 {
+	display:  inline-block;
+}
+
+#viewList header h2 {
+	display: inline-block;
+	position: relative;
+	top: 30px;
+}
+
+#viewList nav,
+#viewList #list,
+#viewList #map {
+	position: absolute;
+	top: 92px;
+}
+
+#viewList nav {
+	background-color: #404040;
+	width: 166px;
+}
+
+#viewList nav ul {
+	
+}
+
+#viewList nav ul li {
+	border-bottom: 1px solid #3b3b3b;
+	border-top: 1px solid #454545;
+	padding: 12px 10px;
+	position: relative;
+}
+
+#viewList nav ul a:hover li {
+	background-color: #454545;
+}
+
+#viewList nav ul a li.active {
+	background-color: #505050;
+}
+
+#viewList nav ul li p {
+	font-size: 12px;
+	color: #aaaaaa;
+}
+
+#viewList nav ul a li.active p {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#viewList nav ul a li.active p span {
+	display: block;
+	position: absolute;
+	height: 13px;
+	width: 7px;
+	background-image: url('../img/listNavArrow.png');
+	background-repeat: no-repeat;
+	left: 166px;
+	top: 14px;
+	z-index: 2;
+}
+
+#viewList #map {
+	left: 558px;
+	right: 0px;
+	bottom: 0px;
+}
+
+#viewList footer {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	font-size: 10px;
+	padding: 20px 10px;
+}
+
+#viewList footer ul,
+#viewList footer ul li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#viewList footer ul li.nyt {
+	padding-top: 20px;
+}
+
+#viewList footer ul li a {
+	color: #666666;
+}
+
+#viewList footer ul li a:hover {
+	color: #f4f4f4;
+}
+
+#viewList footer ul li a.facebook,
+#viewList footer ul li a.twitter {
+	padding-left: 18px;
+}
+
+#viewList footer ul li a.facebook {
+	background: url('../img/icons/facebook.png') no-repeat center left;
+}
+
+#viewList footer ul li a.twitter {
+	background: url('../img/icons/twitter.png') no-repeat center left;
+}

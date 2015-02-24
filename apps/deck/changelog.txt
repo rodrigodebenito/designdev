@@ -1,0 +1,31 @@
+ORIG: 6438 (incl. DATA)
+HTML:  519
+CSS : 1178
+JS  : 2685 (DECK)
+    : 3710 (DATA)
+DIFF: 1654
+
+Ver.: 2.0a
+Adds: External files
+    : Cross-browser compatibility
+    : Keyboard shortcuts
+    : DOCTYPE, HTML 5
+    : Interface cleanup
+Iss.: Stealing focus breaks keyboard shortcuts
+
+:::::
+
+HTML:  480 ( 487 -yellow)
+    :  308 
+CSS : 1079 (1085 -yellow)
+JS  : 2678
+DIFF:  163 ( 176 -yellow)
+
+Ver.: 2.0b
+Adds: Picture compatibility
+    : Yellow overlay (deck-yellow.css)
+
+Ver.: 2.0j
+ISS : There is a known issue with loading picture pages (thanks Jen).
+      A solution is forthcoming; in the meantime create your own image
+      files using the mypic.html file.

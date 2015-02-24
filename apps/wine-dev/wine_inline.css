@@ -1,0 +1,188 @@
+@import url(http://graphics8.nytimes.com/css/common/screen/tooltip.css);
+
+
+/* article tools */
+.inlineWine .email {
+	font-size:80.3%;
+	font-family:Arial,sans-serif;
+	text-transform:uppercase;
+	display:block;
+	margin:0 0 5px;
+	background:transparent url(http://graphics8.nytimes.com/images/article/functions/tools_email.gif) no-repeat 0 2px !important;
+	padding:0 0 3px 20px;
+	color:#333;
+	font-size:65.8%;
+	line-height:150%;
+}
+
+#articleInline .inlineWine ul#wineList li.mobile {
+	background:transparent url(http://realestate.nytimes.com/images/icons16x16.gif) no-repeat scroll 0% 0% !important;
+	background-position:6px -57px !important;
+}
+
+#articleInline .inlineWine ul#wineList li.last {
+	border-bottom:0;
+}
+
+#articleInline .inlineWine ul#wineList li.email {
+	background-position:7px 5px !important;
+}
+
+#articleInline .inlineWine ul.wineTools {
+	font-size:100%;
+	width:132px;
+	margin-left:4px;
+	text-transform:uppercase;
+}
+
+
+
+#articleInline .inlineWine ul.wineTools li a,
+#articleInline .inlineWine ul.wineTools li a.visited {
+	padding-left:19px;
+	color:#333;
+}
+
+/* wine list */
+.inlineWine ul#wineList {
+	margin-left: 0;
+	border-top: 1px solid #979797;
+	border-bottom: 1px solid #979797;	
+}
+#articleInline .inlineWine ul#wineList li {
+	padding-left: 0;
+	background-image: none;
+	line-height: 1.2em;
+	border-bottom: 1px solid #ccc;
+	font-size: 80.3%; /* 11px */
+	font-family: arial,helvetica,sans-serif;
+	margin-bottom:0;
+}
+
+#articleInline .inlineWine ul.wineTools li {
+	padding:5px !important;
+}
+
+#articleInline .inlineWine .image .credit {
+	margin-bottom:15px;
+	margin-right:2px;
+}
+
+.inlineWine ul#wineList a.accordion_toggle {
+	background: #fff; /* WAS #eff4f5 */
+	padding: 5px 0 3px 5px;		
+	display: block;
+	cursor: pointer;
+	text-transform: uppercase;
+	_height: 1%; /* IE6 - has layout */
+}
+
+.inlineWine ul#wineList li a:hover {
+	text-decoration: none !important;
+}
+
+.inlineWine ul#wineList div.accordion_content a:hover {
+	text-decoration:underline !important;
+}
+
+#articleInline ul#wineList h4 a {
+	color:#004276;
+}
+
+#articleInline ul#wineList .image {
+	margin-bottom:0;
+}
+
+.inlineWine ul#wineList li a em {
+	font-style: normal;
+	color: #000;
+}	
+#articleInline .inlineWine ul#wineList li.last {
+	border-bottom: none;
+}
+
+.inlineWine ul#wineList a.accordion_toggle_active {
+	color: #fff;
+	background: #004276; /* WAS: #666 */
+}
+.inlineWine ul#wineList a.accordion_toggle_active em {
+	color: #fff;
+}
+
+/* wine details */
+#wineList .accordion_content {
+	padding-top: 9px;
+	background: #e6eff8; /* WAS: #fff */
+	overflow: hidden;
+}
+
+#wineList h4,
+#wineList h6,
+#wineList p {
+	padding: 0 9px;
+	margin-top:0;
+}
+#articleInline #wineList h4,
+#articleInline #wineList h6 {
+	margin-bottom: 4px;
+	line-height: 1.3em;
+	font-size: 100%; /* 11px */
+}	
+#articleInline #wineList p {
+	margin: 0 0 9px 0;
+}
+
+#wineList .accordion_content {
+	display:none;
+}
+
+#articleInline .inlineWine h4.deck,
+#articleInline .inlineWine .story p.summary {
+	font-family:Georgia,"Times New Roman",Times,serif;
+	font-size:78.9%;
+	line-height:1.4em;
+	color:#333;
+}
+
+#articleInline .inlineWine h3.promo {
+	margin-bottom:5px;
+}
+
+.inlineWine .coordinator,
+.inlineWine .bestvalueKey {
+	font-family:Arial,sans-serif;
+	font-size:72.3%;
+	padding-top:3px;
+}
+
+.inlineWine .bestvalueKey {
+	padding-left:18px;
+	background-image:url(http://graphics8.nytimes.com/packages/html/dining/wine/images/bestvalue_off.gif) !important;
+	background-repeat:no-repeat !important;
+	background-position:0 0 !important;
+	padding-top:0;
+	height:16px;
+	margin-top:2px;
+	line-height:136.4%;
+}
+
+#toolTip {
+	width:168px !important;
+	font-size:81.4%;
+}
+
+
+#toolTip #content {
+	width:163px !important;
+}
+
+#articleInline .inlineWine ul#wineList li.bestvalue a.accordion_toggle {
+	background-image:url(http://graphics8.nytimes.com/packages/html/dining/wine/images/bestvalue_off.gif) !important;
+	background-repeat:no-repeat !important;
+	background-position:172px 3px !important;
+}
+
+#articleInline .inlineWine ul#wineList li.bestvalue a.accordion_toggle_active {
+	
+	background-image:url(http://graphics8.nytimes.com/packages/html/dining/wine/images/bestvalue_on.gif) !important;
+}

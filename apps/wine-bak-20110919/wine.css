@@ -1,0 +1,134 @@
+/* article tools */
+.inlineWine .articleTools {
+	float: none;
+}
+.inlineWine .articleTools,
+.inlineWine .toolsContainer,
+.inlineWine .articleTools .toolsContainer ul.toolsList li {
+	border: none;
+}	
+#articleInline .inlineWine .articleTools.first {
+	margin-left: 0;
+}
+#articleInline .inlineWine .articleTools.first .toolsContainer ul.toolsList li {
+	font-size: 73%; /* 10px */ 
+	background: none;
+	padding-left: 0;
+}
+.inlineWine .toolsContainer ul.toolsList {
+	padding: 0;
+}
+.inlineWine .toolsContainer #emailThis a {
+	background-position: 0 30%;
+}	
+
+#articleInline .accordion_content .articleTools .toolsContainer ul.toolsList {
+	margin-bottom: 2px;
+}
+#articleInline .accordion_content .articleTools .toolsContainer ul.toolsList li {
+	padding: 5px;
+	font-size: 101% !important; /* 10px */ 
+}
+#articleInline .accordion_content .articleTools .toolsContainer ul.toolsList li a {
+	text-transform: uppercase;
+}
+#articleInline .inlineWine ul#wineList li .accordion_content ul.toolsList li.mobile {
+	border-bottom: none;
+	/*background: url('http://realestate.nytimes.com/images/mobile_phone_icon.gif') no-repeat -2px 0 !important;*/
+}
+.accordion_content ul.toolsList li.mobile a {
+	padding:0 0 3px 20px !important;
+}
+.accordion_content .articleTools {
+	
+	margin-bottom:1px;
+	margin-left:5px;
+	width:150px;
+}
+
+/* inline multimedia */
+.inlineWine .inlinePlayer {
+	padding: 3px 8px 0 8px;		
+	border-width: 1px 1px;
+	line-height: 1.3em;
+	color: #333;
+	font-size: 65.7%;
+	font-family: arial,helvetica,sans-serif;
+}
+.inlineWine .inlinePlayer img {
+	display: none;
+}
+#articleInline .inlineWine .inlinePlayer h4 {
+	margin-top: -11px;
+	text-transform: uppercase;
+}	
+.inlineWine .inlinePlayer p {
+	margin: 0;
+}	
+
+	/* wine list */
+.inlineWine ul#wineList {
+	margin-left: 0;
+	border-top: 1px solid #979797;
+	border-bottom: 1px solid #979797;	
+}
+#articleInline .inlineWine ul#wineList li {
+	padding-left: 0;
+	background-image: none;
+	line-height: 1.2em;
+	border-bottom: 1px solid #ccc;
+	font-size: 80.3%; /* 11px */
+	font-family: arial,helvetica,sans-serif;
+	margin-bottom:0;
+}
+
+#articleInline .accordion_content .articleTools .toolsContainer ul.toolsList li {
+	padding-left:4px !important;
+}
+
+.inlineWine ul#wineList a.accordion_toggle {
+	background: #eff4f5;
+	padding: 5px 0 3px 5px;		
+	display: block;
+	cursor: pointer;
+	text-transform: uppercase;
+	_height: 1%; /* IE6 - has layout */
+}
+	.inlineWine ul#wineList li a:hover {
+	text-decoration: none !important;
+}
+.inlineWine ul#wineList li a em {
+	font-style: normal;
+	color: #000;
+}	
+#articleInline .inlineWine ul#wineList li.last {
+	border-bottom: none;
+}
+
+.inlineWine ul#wineList a.accordion_toggle_active {
+	color: #fff;
+	background: #666;
+}
+.inlineWine ul#wineList a.accordion_toggle_active em {
+	color: #fff;
+}
+
+/* wine details */
+#wineList .accordion_content {
+	padding-top: 9px;
+	background: #fff;
+	overflow: hidden;
+}
+
+#wineList h4,
+#wineList p {
+	padding: 0 9px;
+}
+#articleInline #wineList h4 {
+	margin-bottom: 4px;
+	line-height: 1.3em;
+	font-size: 100%; /* 11px */
+}	
+#articleInline #wineList p {
+	margin: 0 0 9px 0;
+}

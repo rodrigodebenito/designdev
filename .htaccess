@@ -1,0 +1,48 @@
+#========================================================================
+# .htaccess file for Windex
+#
+# Copy the contents of this file at the top of the directory tree whose 
+# directory Windex you want to affect.  Be sure that the file paths
+# point to the correct absolute URL of /_app/windex on your server.
+#
+#========================================================================
+# Options -Indexes
+Options +Indexes
+# IndexIgnore *
+ErrorDocument 404 /_app/windex/404.php
+
+IndexOptions FancyIndexing
+IndexOptions FoldersFirst IgnoreCase XHTML NameWidth=* VersionSort
+IndexOptions SuppressHTMLPreamble SuppressRules HTMLTable
+IndexOptions IconHeight=24 IconWidth=24
+IndexOptions IconsAreLinks
+IndexOptions TrackModified
+# IndexOptions SuppressColumnSorting
+IndexOptions SuppressDescription
+
+AddType text/html .php
+Addhandler application/x-httpd-php .php
+HeaderName /_app/windex/header.php
+ReadmeName /_app/windex/footer.php
+
+
+DefaultIcon /_app/windex/icons/default.png
+
+AddIcon /_app/windex/icons/pixel.gif       ^^BLANKICON^^
+AddIcon /_app/windex/icons/pixel.gif       ..
+AddIcon /_app/windex/icons/dir.png         ^^DIRECTORY^^
+AddIcon /_app/windex/icons/txt.png        .txt .text .textile .rtf
+AddIcon /_app/windex/icons/textmate.png    .htaccess .js .css .html .htm .php .json .jsonp
+AddIcon /_app/windex/icons/img.png         .jpg .jpeg .png .gif .tif .tiff .ico
+AddIcon /_app/windex/icons/ai.png          .ai .eps
+AddIcon /_app/windex/icons/doc.png         .doc .docx
+AddIcon /_app/windex/icons/movie.png       .mov .qt .avi .wmv
+AddIcon /_app/windex/icons/mp3.png         .mp3 .ogg .wav .m4a
+AddIcon /_app/windex/icons/pdf.png         .pdf
+AddIcon /_app/windex/icons/ppt.png         .ppt .pptx
+AddIcon /_app/windex/icons/psd.png         .psd .psb
+AddIcon /_app/windex/icons/xls.png         .xls .xlsx
+AddIcon /_app/windex/icons/zip.png         .zip .bin .tar .rar .tgz .7z
+AddIcon /_app/windex/icons/fl.png          .fla .flv
+AddIcon /_app/windex/icons/swf.png         .swf
+AddIcon /_app/windex/icons/as.png          .as
