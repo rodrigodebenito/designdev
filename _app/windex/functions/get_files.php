@@ -50,6 +50,7 @@ function get_actual_files($kind){
     $created = $fn->getATime();
     $modified = date("Y-m-d h:i:s", $fn->getMTime());
     $octal_perms = substr(sprintf('%o', $fn->getPerms()), -4);
+    $file['is_dir'] = $fn->isDir();
     $file['size'] = $size;
     $file['name'] = $name;
     $file['owner'] = $owner;//['gecos'];

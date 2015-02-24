@@ -60,8 +60,10 @@ function show_files($files){
 EOF;
 
     foreach ($files['items'] as $file) {
-      $size = $file['size'];
-      if($size < 1024) {
+      $size = $file['is_dir'] ? 0 : $file['size'];
+      if($file['is_dir']){
+        $sized = "-";
+      }else if($size < 1024) {
         $sized = $size.' bytes';
       }else if($size < 1024*1024) {
         $sized = ceil($size/1024).' KB';
@@ -69,7 +71,8 @@ EOF;
         $sized = ceil($size/1024/1024).' MB';
       }
       $name = $file['name'];
-      $owner = $file['owner'];
+      $owner = $file['owner']? $file['owner'] : ' ';
+      $owned = $file['owner']? $file['owner'] : '-';
       $path = str_replace($dr,'',$file['path']);
       if ($path == $r) {
         $path = '';
@@ -97,8 +100,8 @@ EOF;
         <td class="hide_file"><i class="fa fa-eye"></i></td>
         <td valign="top" class="icon $type" data-ext="$ext"><a href="$link"><img src="$windex_path/icons/$ext.png" alt="$ext" width="24" height="24"></a></td>
         <td class="file"><a href="$link">$name</a></td>
-        <td class="modified"><span class="log_time" title='$modified'>$modified</span></td>
-        <td class="owner">$owner</td>
+        <td class="modified" data-value="$modified"><span class="log_time" title='$modified'>$modified</span></td>
+        <td class="owner" data-value="$owner">$owned</td>
         <td class="size" data-value="$size">$sized</td>
         <td class="action download"><a href="$link" download="$name"><i class="fa fa-download"></i></a></td>
         $delete

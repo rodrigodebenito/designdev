@@ -55,7 +55,10 @@ $(document).ready(function(){
   
   // Tablesorter - http://tablesorter.com/docs/
   $("#main .table").tablesorter({
-    headers: { 1: { sorter: false } },
+    headers: { 
+      1: { sorter: false },
+      6: { sorter: false }
+    },
     sortList: [[2,0]],
     textExtraction: function(node) {
       return node.getAttribute("data-value") || node.innerHTML;
